@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>A color scientist on internet</title>
+    <description>Jérémie Gerhardt or mrbonsoir is sharing his experience as a color scientist. He  talks about the different projects he is conducting, taking part or simply interested in as well as sharing his notes about the conferences he is attending. The topics discussed  are often located at the crossroad of color science, computer vision, VR, immersive cinema...  What he tries to do is to popularize color science and to avoid taking too much about him  at the third person because it&#39;s weird.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 Mar 2016 16:25:22 +0100</pubDate>
-    <lastBuildDate>Fri, 04 Mar 2016 16:25:22 +0100</lastBuildDate>
+    <link>http://mrbonsoir.github.io//</link>
+    <atom:link href="http://mrbonsoir.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 04 Mar 2016 18:24:55 +0100</pubDate>
+    <lastBuildDate>Fri, 04 Mar 2016 18:24:55 +0100</lastBuildDate>
     <generator>Jekyll v3.0.3</generator>
     
       <item>
@@ -28,13 +28,77 @@
 
 </description>
         <pubDate>Fri, 04 Mar 2016 16:25:06 +0100</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/03/04/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/03/04/welcome-to-jekyll.html</guid>
+        <link>http://mrbonsoir.github.io//jekyll/update/2016/03/04/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://mrbonsoir.github.io//jekyll/update/2016/03/04/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Algo in mobile phone camera</title>
+        <description>&lt;p&gt;Smartphones are becoming our primary camera and our primary way to consume images. The technical differences between those devices are shrinking. How do you differentiate between them?&lt;/p&gt;
+
+&lt;p&gt;Considering all devices coming with approximatively the same hardware from sensors to optic, the differences should come from the software. if you take Android OS, despite its presence on most of the smartphone, the manufacturers using this OS can still pre-load their devices with advanced options.&lt;/p&gt;
+
+&lt;p&gt;My point here is not to list or say which one is better than the other, but to highlight all the options now available. What I think is interesting here is to see what is considered to be granted from the user point of view: auto-focus, white balancing, hdr, face detection, low light condition, panorama and to wonder what people really understood of these tools. The marketing department surely has something to say about the last point.&lt;/p&gt;
+
+&lt;p&gt;To know a bit about the production workflow around this problematic, I really see the the battle of new algorithms/automatic image as the way for company to market their image (see the last &lt;a href=&quot;http://www.apple.com/iphone-6s/cameras/photos/&quot;&gt;iPhone campaign&lt;/a&gt;). A bit like the battle between film manufacturers (Kodak, Agfa, Fuji…) back in the days, where for the same ISO sensitivities (for me my favorite was 400 color by Fujifilm) the same color signal will appear slightly different on paper. The camera allows you to record the scene and the film/digital camera chosen will print the look of the final image.&lt;/p&gt;
+
+&lt;p&gt;So what can you really do? A lot will answer the emergency color scientist. It is super important and very interesting to study how our visual system is functioning, how it adapts with the light condition (eg. how to improve an image when observe on your phone in low light condition). All sounds pretty cool to me, color scientists can be useful.&lt;/p&gt;
+
+&lt;p&gt;La suite dans le futur.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 02 Mar 2016 16:58:06 +0100</pubDate>
+        <link>http://mrbonsoir.github.io//blog/post/2016/03/02/algo-in-mobile-phone-camera.html</link>
+        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2016/03/02/algo-in-mobile-phone-camera.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>A glimpse of code</title>
+        <description>&lt;p&gt;Having a lot of time pushes me - I hope - to be organised. So in an attempt to sort my data - mostly pieces of code on Python - in order to make it available when I need it I made a new github repository where I store iPython notebook with a few explanations.&lt;/p&gt;
+
+&lt;p&gt;Everything is &lt;a href=&quot;https://github.com/mrbonsoir/random_notebooks&quot;&gt;here&lt;/a&gt; and maybe it will be of some people interests, or not.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 17 Feb 2016 17:15:06 +0100</pubDate>
+        <link>http://mrbonsoir.github.io//blog/post/2016/02/17/a-glimpse-of-code.html</link>
+        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2016/02/17/a-glimpse-of-code.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>CIC visiting Darmstadt</title>
+        <description>&lt;p&gt;What is CIC you may ask yourself? It’s stand for &lt;a href=&quot;http://www.imaging.org/site/IST/Conferences/Color_and_Imaging/IST/Conferences/CIC/CIC_Home.aspx?hkey=d2cf3f19-87b4-4164-8274-c40180e9dfa7&quot;&gt;Color Imaging Conference&lt;/a&gt;, a conference about color and imaging. This year it took place in Darmstadt DE. The last 22 editions always took place in the US, last year it was in Boston MA, two years ago in Albuquerque NM, three years ago in Los Angeles CA, four years ago in San Antonio TX and that’s it for my involvement. Next stop is San Diego CA in November 2016.&lt;/p&gt;
+
+&lt;p&gt;I’m a regular attendee, I joined this community already ten years ago alternating between CGIV, &lt;a href=&quot;http://www.aic-colour.org/&quot;&gt;AIC&lt;/a&gt;, &lt;a href=&quot;http://www.imaging.org/ist/Conferences/ei2016/&quot;&gt;EI&lt;/a&gt; and CIC. Depending of the event you will meet a slightly different crowd or so to say different crowds will meet allowing to go deeper in the various fields represented. But for sure it’s about imaging, color, perception, printing, archiving, image acquisition, color management, camera and display calibration, gamut mapping and more.&lt;/p&gt;
+
+&lt;p&gt;This year almost 200 persons were attending the event in Darmstadt. There is a kind of routine in such event and being part of the committee allows you to see the people interaction with a special look. It’s very special to see the attendees - former colleagues, friends, known members of this community - arriving from everywhere almost - from North America, Europe, Asia, Australia… - and being all jet-lagged. Even if you are traveling in the same time zone you will end up jet-lagged. First of all the schedule is tide and you have to use the “free” time to talk with everybody. Sharing a meal or a beer is usually very appropriate. As a result you barely have time to rest, but the kind of adrenaline you get from meeting the crème de la crème of the color scientists keeps you awake.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 23 Oct 2015 18:23:06 +0200</pubDate>
+        <link>http://mrbonsoir.github.io//blog/post/2015/10/23/CIC-visiting-Darmstadt.html</link>
+        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2015/10/23/CIC-visiting-Darmstadt.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>post</category>
         
       </item>
     
