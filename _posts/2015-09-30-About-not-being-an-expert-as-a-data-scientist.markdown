@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "About not being an expert as a data scientist and other tech stuffs"
+date:   2015-09-30 11:50:06 +0100
+categories: blog post
+---
+Last evening I did attend a joined Meetup from the Python User Berlin (PUB) and the Zalando Tech Event hosted by Zalando and offering talks on Natural Langage Processing (NLP). Both talks went well and gave two views on the topic: one on the state of the art of the tools for NLP using Python and a second more applied.
+
+The discussions I add after while enjoying a club mate - la boisson des champions - were equally interesting. First of all I started discussing with a expert of NLP trying to explain why I joined this event and what was my link with NLP. In my very recent job experience at EyeEm I just touched the surface of NLP preparing data for Machine Learning (ML) using nltk together with WordNet, ImageNet. Actually I didn't do much of text analysis but batching word definition. In that experiment the text analysis will have come after this step and that's where semantic is jumping into the discussion. Because working with the word dictionary is one side of the problem: you have one word with its definition and often - at least with scientists or engineers - you are in the inverse configuration which is you having words when actually you want to extract a definition, an idea, an information... And I let you google automatic image tagging, deep learning.
+
+After exchanging ideas and experiences about NLP I did continue seeping the offered mate with one Zalando employee. I was curious - as usual - to understand what it means to be a data scientist here. Because if the definition is very general - a data scientist works with data, we are not experts - it's interesting to see how many fields we - I'm one of those people - cover in our daily work. Using the same language - e.g. Python - we can go from signal processing, computer vision, image retrieval, NLP, how to deal with Databases - a year ago I wrote on the topic Databases and natural Langage graphs en stock - how to present your results to non expert by doing nice visualization and many more... So if we are not expert we need to be pretty fast I acquiring skills from various fields and/or use the appropriate tools.
