@@ -6,35 +6,24 @@
 </description>
     <link>http://mrbonsoir.github.io//</link>
     <atom:link href="http://mrbonsoir.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Mar 2016 22:12:57 +0100</pubDate>
-    <lastBuildDate>Sun, 06 Mar 2016 22:12:57 +0100</lastBuildDate>
+    <pubDate>Mon, 07 Mar 2016 15:40:56 +0100</pubDate>
+    <lastBuildDate>Mon, 07 Mar 2016 15:40:56 +0100</lastBuildDate>
     <generator>Jekyll v3.0.3</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+        <title>Ca continue aujourd&#39;hui</title>
+        <description>&lt;p&gt;With the help of my little fingers I finally open a second blog more decicated to my field of work. Color science in case… So far I only repost and correct some typo mistakes from my other blog &lt;a href=&quot;http://mrbonsoir.blogspot.com&quot;&gt;mrbonsoir à l’internet&lt;/a&gt; when I was talking about conference trips, workhsop. This to separate the &lt;em&gt;real&lt;/em&gt; me
+and the &lt;em&gt;working&lt;/em&gt; me.&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 04 Mar 2016 16:25:06 +0100</pubDate>
-        <link>http://mrbonsoir.github.io//jekyll/update/2016/03/04/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://mrbonsoir.github.io//jekyll/update/2016/03/04/welcome-to-jekyll.html</guid>
+        <link>http://mrbonsoir.github.io//blog/post/2016/03/04/Ca-continue-aujourdhui.html</link>
+        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2016/03/04/Ca-continue-aujourdhui.html</guid>
         
         
-        <category>jekyll</category>
+        <category>blog</category>
         
-        <category>update</category>
+        <category>post</category>
         
       </item>
     
@@ -162,20 +151,23 @@
     
       <item>
         <title>Deep learning (ou deep learning in French)</title>
-        <description>&lt;h2 id=&quot;what-was-your-question-already&quot;&gt;What was your question already?&lt;/h2&gt;
-&lt;p&gt;How to explain deep learning to your friends, family members, neighbors, random stranger, dog? A very good question indeed. Rather than going deeply into neural networks and other festivities let’s start with describing the problem(s) we want to solve. Or least let’s give an example of what we are trying to do here.&lt;/p&gt;
+        <description>&lt;h3 id=&quot;what-was-your-question-already&quot;&gt;What was your question already?&lt;/h3&gt;
+&lt;p&gt;How to explain deep learning to your friends, family members, neighbors, random stranger, dog? A very good question indeed. Rather than going deeply into neural networks and other festivities let’s start with describing the problem we want to solve or at least let’s give an example of what we are trying to do here.&lt;/p&gt;
 
-&lt;p&gt;Over the years I had to come with strategies if I wanted to explain what I do for living. Giving keywords such “color science”, “computer vision”, “image processing”, “digital photography” is usually not enough or saying “I do work with images” neither. I always found interesting to answer the question “why to you want to do that?” or “which problem do you want to solve?”. So to explain what I can do I try to give an idea of the tasks I have to solve.&lt;/p&gt;
+&lt;p&gt;Over the years I had to come with strategies if I wanted to explain what I do for living. Telling combinations of words such as “color science”, “computer vision”, “image processing”, “digital photography” is usually not enough or saying “I do work with images” neither. I always found interesting to answer the question “why to you want to do that?” or “which problem do you want to solve?” instead of saying I’m this or that. So to explain what I can do I try to give an idea of the tasks I have to solve.&lt;/p&gt;
 
-&lt;h2 id=&quot;what-is-the-problem-you-are-trying-to-solve-already&quot;&gt;What is the problem you are trying to solve already?&lt;/h2&gt;
+&lt;h3 id=&quot;what-is-the-problem-you-are-trying-to-solve-already&quot;&gt;What is the problem you are trying to solve already?&lt;/h3&gt;
 &lt;p&gt;In some way asking these questions is already machine learning/deep learning-ish approach of solving a problem. In theory if someone asks you to solve a problem he knows the kind of results he want to obtain for a given input or starting point. What he doesn’t know is what is happening between these two stages. Applied mathematics and optimization are a reasonable standard solution: you develop of model that recreate more-less accurately what is happening between these two stages, then for a new entree point your model will predict what an output will be.&lt;/p&gt;
 
-&lt;p&gt;I’m sure “big data” is an expression you have heard in the past years or months. It has of course different meaning depending who is giving a definition. But, coming back to images and the incredible amount of images we are producing daily there is a need to develop solutions, tools to be able to interact with these images. You have in your hand an extremely large image database and using keyword as a search query isn’t enough anymore. So here is the problem: how to navigate, how to browse into large image database in a more natural way? There is a bit of database here but that is not the main point of my article, check my past post on graph and database if you are interested.&lt;/p&gt;
+&lt;p&gt;I’m sure &lt;em&gt;big data&lt;/em&gt; is an expression you have heard in the past years or months. It has of course different meaning depending who is giving a definition. But, coming back to images and the incredible amount of images we are producing daily there is a need to develop solutions/tools to be able to interact with these images. You have in your hand an extremely large image database and using keyword as a search query isn’t enough anymore. Here is the problem: how to navigate, how to browse into large image database in a more natural way? There is a bit of database here but that is not the main point of my article, check my past post on graph and database if you are interested.&lt;/p&gt;
 
 &lt;h3 id=&quot;face-recognition-to-recognition-of-everything&quot;&gt;Face recognition to recognition of everything&lt;/h3&gt;
 &lt;p&gt;Working with images is fascinating, you see one image and automatically you extract some of its  information. Of course there is a long learning curve, when you see a tree, a car, a known object in a picture you don’t even realize it, you know, you have learned over the years you spent on earth to recognize, categorize, organize the continuous stream of visual information that come to your eyes and is later processed in your brain.&lt;/p&gt;
 
 &lt;p&gt;If you think of face recognition, the mathematical tools are now pretty standard. We can with high probability find out faces in images, classification comes after the recognition. And if you train your model you will be able to recognize semi automatically in a database faces of different persons as the tools/filters can be tuned for a given target. It can be scary of course if the threshold that decide for a true recognition/classification isn’t verified by a real human and that action leads to a rocket launch. Actually any automatic action issued from an algorithm decision having impact on a human being is pretty bad (hello mass surveillance and hello Terminator). You want help from robots not to help robots or it’s too late anyway.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/12774628&quot; width=&quot;500&quot; height=&quot;477&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/12774628&quot;&gt;OpenCV Face Detection: Visualized&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/adamhrv&quot;&gt;Adam Harvey&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;An idea behind deep learning is to be able to learn what are into images - in a similar way as we human do - to extract features and to perform tasks on other images based on a trained neural network. I’m making shortcuts but that’s the idea. To understand and to later mimic how information is circulating into the brain has been a dream of many researchers. Neural networks go into that direction. If a few years ago the algorithms were limited because of computer power the global picture is different now.&lt;/p&gt;
 
@@ -183,6 +175,7 @@
 
 &lt;h3 id=&quot;cross-disciplines&quot;&gt;Cross disciplines&lt;/h3&gt;
 &lt;p&gt;A chance I see - for me - is the need in some industries for expert being not only expert in one field. Specially for this kind of large scale problems involving images, computer vision, real time and fancy applied research projects. To know only about machine learning or statistic is not enough, to know both about computer and machine learning tools is better.&lt;/p&gt;
+
 </description>
         <pubDate>Thu, 09 Apr 2015 13:28:06 +0200</pubDate>
         <link>http://mrbonsoir.github.io//blog/post/2015/04/09/Deep-learning.html</link>
@@ -221,6 +214,29 @@
       </item>
     
       <item>
+        <title>Boston 13 years later</title>
+        <description>&lt;p&gt;Second time in Boston, about 13 years after my first and only time in 2001 when I was an exchange student in Montréal. For the first trip a car full of Frenchies and Belgies was going South, leaving Québec behind us for the a long weekend. As far as I remember it was a really good weekend, not legendary but still very ok.&lt;/p&gt;
+
+&lt;p&gt;But back to our actual trip. I’m arriving from Berlin via Amsterdam. Luckily the Delta Airlines plane is pretty empty - I have two seats for me alone - and equipped with fairly new personal screen, I can actually see something - ce qui n’est pas toujours du luxe. I can say I was efficient in term of watching videos.&lt;/p&gt;
+
+&lt;p&gt;Landing was smooth, so was the custom and retrieving my luggage. In the plane I met a fellow going to attend the same conference as me. The reason I’m travelling to Boston is to attend the Color Imaging Conference (CIC22 to be precised). For once we left the South states of New Mexico, Texas or California, no excursion to the desert this time.&lt;/p&gt;
+
+&lt;p&gt;But back to Boston as I’m diverging again. The city isn’t too big and the public transport is actually existing. I jumped in the subway and reached shortly after landing my AirBnB apartment in South End, somehow the South. Neat. Especially neat if you have seen the average price for an hotel room this week.&lt;/p&gt;
+
+&lt;p&gt;Thanks to the conference organisation I’m able to attend the event another time. In a smaller city all attendees are usually staying in the same hotel. This time not. Meaning I will have to wait tomorrow to meet the color scientist fellows, except one coming from France with whom I’m sharing the flat. According to plan and his plane he should arrive soon.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Nov 2014 19:28:06 +0100</pubDate>
+        <link>http://mrbonsoir.github.io//blog/post/2014/11/03/Boston-13-years-later.html</link>
+        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2014/11/03/Boston-13-years-later.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
         <title>Color science for beginners</title>
         <description>&lt;p&gt;I’m a color and imaging scientist who does photography, but sometimes I’m a photographer who does color and imaging research. Depending of the moment and the project one or the other will be predominant.&lt;/p&gt;
 
@@ -231,8 +247,8 @@
 &lt;p&gt;Engineering projects which involve to work with images are often straightforward: you have an image, you need to detect some information, you use a define metric and it is done - almost of course. A color imaging project which involves art, artists and their work is different. Artists and scientists do not speak the same language, they may use the same tools but with different guidelines for sure… But that’s where the fun comes in.&lt;/p&gt;
 </description>
         <pubDate>Tue, 07 Oct 2014 12:00:06 +0200</pubDate>
-        <link>http://mrbonsoir.github.io//blog/post/2014/10/07/Coloe-science-for-beginners.html</link>
-        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2014/10/07/Coloe-science-for-beginners.html</guid>
+        <link>http://mrbonsoir.github.io//blog/post/2014/10/07/Color-science-for-beginners.html</link>
+        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2014/10/07/Color-science-for-beginners.html</guid>
         
         
         <category>blog</category>
