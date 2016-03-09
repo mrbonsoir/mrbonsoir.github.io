@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Color Imaging Conference, first day and Short Course day"
+title:  "Poster day in Burlingmane"
 date:   2012-01-24 18:03:06 +0100
 categories: blog post
 ---
