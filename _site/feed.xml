@@ -6,8 +6,8 @@
 </description>
     <link>http://mrbonsoir.github.io//</link>
     <atom:link href="http://mrbonsoir.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Mar 2016 16:01:27 +0100</pubDate>
-    <lastBuildDate>Mon, 07 Mar 2016 16:01:27 +0100</lastBuildDate>
+    <pubDate>Wed, 09 Mar 2016 11:15:42 +0100</pubDate>
+    <lastBuildDate>Wed, 09 Mar 2016 11:15:42 +0100</lastBuildDate>
     <generator>Jekyll v3.0.3</generator>
     
       <item>
@@ -63,6 +63,82 @@ and the &lt;em&gt;working&lt;/em&gt; me.&lt;/p&gt;
         <pubDate>Wed, 17 Feb 2016 17:15:06 +0100</pubDate>
         <link>http://mrbonsoir.github.io//blog/post/2016/02/17/a-glimpse-of-code.html</link>
         <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2016/02/17/a-glimpse-of-code.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>Some data about a data conference</title>
+        <description>&lt;p&gt;I had the chance to attend the [Data Natives][link-datanatives] 2015 event last week in Berlin. A first time event having for topics FinTech, IoT and of course Big Data. I heard some interesting talks but also less interesting ones. You can still hear people having the dream of forecasting anything with the help of more data, but with often the feeling it’s only in order to sale more stuffs. I haven’t got the life improvement that suppose to go with Big Data (e.g. mass surveillance doesn’t work obviously).&lt;/p&gt;
+
+&lt;p&gt;But here and there you can sometimes hear someone talking about a project that hold your attention. For me the most interesting aspect is the inter-disciplinary or multi-disciplinary aspect of the data. To achieve something relevant or meaningful with all the available information, you need to be able to define first what is the problem you are trying to solve (and yes I have a degree in opening open door).&lt;/p&gt;
+
+&lt;p&gt;Four presentations are still in my head, one using NLP to pre-sort a lot of CV (from HitFox during the first day of the program) and a second using computer vision to automatically give feedback on webpage design (from EyeQuant last talk of the second day). Actually for the last one their talk was much wider than this single problem.&lt;/p&gt;
+
+&lt;p&gt;About IoT and FinTech is wasn’t really impressive. Actually the only striking aspect is that the same tools are used whatever is your field of work (like data science / analytic / finance): you accumulate data, you trying to find information and pattern into them, this in order to derive model to make prediction. And without surprises the most interesting talks about FinTech came from the people involved in the Bitcoin economy / technology (Blockchain and &lt;a href=&quot;https://www.ascribe.io/&quot;&gt;ascribe Gmbh&lt;/a&gt;). Maybe the banks have some cool stuffs to talk about, but they weren’t really present.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 24 Nov 2015 17:37:06 +0100</pubDate>
+        <link>http://mrbonsoir.github.io//blog/post/2015/11/24/Some-data-about-data-conference.html</link>
+        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2015/11/24/Some-data-about-data-conference.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>Data conference coming!</title>
+        <description>&lt;p&gt;I’m interested in knowing, observing how my field - applied research, technology, imaging, innovation… whatever you call it - is evolving. Working full time on one project is of course a good solution to see what’s going on, but it’s also taking the risk of being stock in daily routines. In that sens it’s always wise to have a look of what your neighbors, competitors are doing, how they try to solve the same problem you are working on.&lt;/p&gt;
+
+&lt;p&gt;From my own experience I know that we - let’s call us/me applied/data scientist - are very fast categorized in sub-fields, as experts and that it is sometimes difficult to extract yourself from the prism of how people are perceiving what you can do. Having said that, to be able to attend events, meet a new crowd, hopefully interesting people, exchange information, re-present yourself, feel how an industry is growing is something vital.&lt;/p&gt;
+
+&lt;p&gt;A few days ago I did spot an event &lt;a href=&quot;http://datanatives.io/&quot;&gt;Data Natives&lt;/a&gt; scheduled in Berlin the coming 19-20 of November 2015. The keywords combination used to introduce the program is almost too perfect: IoT (internet of thing),  FinTech (Financial Technology and not tech from Finland which sounds pretty cool too) and Big Data of course. Needless to say that I’m pretty excited to attend this conference!&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 02 Nov 2015 14:35:06 +0100</pubDate>
+        <link>http://mrbonsoir.github.io//blog/post/2015/11/02/Data-conference-coming.html</link>
+        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2015/11/02/Data-conference-coming.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>Personal insights on color science</title>
+        <description>&lt;h3 id=&quot;context&quot;&gt;Context&lt;/h3&gt;
+&lt;p&gt;In a &lt;a href=&quot;http://mrbonsoir.github.io/blog/post/2015/10/23/CIC-visiting-Darmstadt.html&quot;&gt;previous post&lt;/a&gt; I talked about the last event in my field I did attend. Now I want to talk about my perception of this domain which is called color science. I’m pretty sure it can be applied to other fields of research as well.&lt;/p&gt;
+
+&lt;p&gt;From the first time I joined this community, from article reader, article contributor to reviewer, committee member and session chair my understanding of what is color science has evolved. One important thing is to stay humble, especially with the new comers. I have been one them, it was impressive. Impressive because you meet the people, authors of research articles that are part of the foundation of you work. You can add a person, a voice to written words, it’s actually pretty cool.&lt;/p&gt;
+
+&lt;p&gt;There aren’t thousand concepts to understand/enter the world of color science. Like in every fields it’s about observation and trying to explain what’s happening. But here it’s all about light - its spectral properties - how we perceive this signal - a single light source to an image in the visible spectrum - and how can we develop robust scientific/engineering &lt;em&gt;stuffs&lt;/em&gt; around it. What I find interesting is to witness what is the new thing coming each year, how a technical improvement can open a door for further applications.&lt;/p&gt;
+
+&lt;h3 id=&quot;color-trends&quot;&gt;Color trends&lt;/h3&gt;
+&lt;p&gt;Among the research sub-fields presented at CIC this year I want to come back on four of them.&lt;/p&gt;
+
+&lt;p&gt;There is the recurrent discussion about color metrics, from a purely mathematical/geometrical approach to a more perception-wise approach trying to add an average human appreciation of the difference between two signals. Having a good metric is always helpful to evaluate your algorithm/experiment. Over the years the metrics are evolving, context is important (from display calibration to color textile differences…).&lt;/p&gt;
+
+&lt;p&gt;There is the what I call &lt;em&gt;purely geometrical approach&lt;/em&gt; discussion where having a signal as vector of n values - for n wavelength -  a group of sensors - basic configuration made of three basis like RGB basis - you want to know the value of this signal once projected on the known basis/sensors. From that you can jump into optimization, addressing various problems such as finding the scene illuminant/white point, study metamerism. It seems obvious but it’s not.&lt;/p&gt;
+
+&lt;p&gt;There is printing and 3D printing - there I meant color 3D printing. Just think of how to design a color test-chart for such printing system. HDR display is also coming stronger than ever. What is interesting with these two examples is that they both require to know your workflow, they are the “end” of a process chain: you need to understand the acquisition process to do a good reproduction. Understanding the use of the technology is obviously required.&lt;/p&gt;
+
+&lt;p&gt;On the last paragraph one can add the understanding of gamut mapping and how you “move” into your color space as something very important. For printers you have multi-inks system changing the shape of the color space available. For high resolution TV and HDR screen the color gamut shape may not change a lot - almost - but the variability of screen size, intensity scale, technology available make it difficult - to be understood as something cool and challenging for me - to offer a comfortable experience to the user among the different platforms.&lt;/p&gt;
+
+&lt;p&gt;Now that I’m a bit more in control with the tools/concepts in my field and sub-fields I have the tendency to prefer the projects combining several concepts - like high quality printing and movie post-production - and I always appreciate to hear how the authors are presenting their projects, which story they are telling us.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 25 Oct 2015 17:37:06 +0100</pubDate>
+        <link>http://mrbonsoir.github.io//blog/post/2015/10/25/Personal-insights-on-color-science.html</link>
+        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2015/10/25/Personal-insights-on-color-science.html</guid>
         
         
         <category>blog</category>
@@ -180,75 +256,6 @@ and the &lt;em&gt;working&lt;/em&gt; me.&lt;/p&gt;
         <pubDate>Thu, 09 Apr 2015 13:28:06 +0200</pubDate>
         <link>http://mrbonsoir.github.io//blog/post/2015/04/09/Deep-learning.html</link>
         <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2015/04/09/Deep-learning.html</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>post</category>
-        
-      </item>
-    
-      <item>
-        <title>CIC 22 in Boston</title>
-        <description>&lt;p&gt;For its 22th edition the Color Imaging Conference or CIC for the connsoisseurs took place in Boston. Comparing to last year in Albuquerque (NM) the color LUT did change a bit: yellow and blue for the desert and the sky to red and about 50 shades of autumn for the buildings and trees.&lt;/p&gt;
-
-&lt;p&gt;If as the previous editions the crowd of attendees remains similar - la crème de la crème of the color scientists - you can detect a slight dominance according to the conference location or with whom is organized the event. This year the keynote sessions where for both color scientists (CIC) and medical imaging scientists (IADP), then sessions were ran in parallel.&lt;/p&gt;
-
-&lt;p&gt;The joint keynotes brought interesting discussions. They were highlighting another practices of imaging system - like microscope - in the medical world. That is not a surprise that the imaging system described can provide very different visual results, from one microscope to the other the data do not appear identical to human observers but the extraction of information should. In one word there is no reference images or colors when the practicians are looking at samples, but they know that each patient is different and can base their diagnostic on their experience. In comparison to the CARS event, the IADP was much less about computer assisted radiography and more about image analysis (at least for what I have seen).&lt;/p&gt;
-
-&lt;p&gt;The day before the real opening of the conference is the short course day. Professionals, experts in academia or industry are giving lectures on color science topics. After chairing this session last year in Albuquerque NM I could follow two courses in Boston: one on color display given by Gabriel Marcu from Apple and a second on Color Rendering Index and Lighting given by Wendy Davis from University of Sydney.  It is always refreshing to take part into these courses, to re-learn about display technology, display calibration, lighting technology and equally important how our comprehension of color science has evolves over the years and how new technologies force to change our approaches.&lt;/p&gt;
-
-&lt;p&gt;One thing I remind in particular is the new range of LEDs available - for some years already - and the changes that go with them. It is possible to design the properties of your lights - its spectral power distribution SPD - at very narrower wavelength bands. What does it mean? It means that you can really shape the gamut of your display or light installation, this in term of triangle shape in the color space of your choice. But being able to define a larger, wider color gamut on a sketch is not or should not be the only goal. We also have to think of the internal color space distribution, after all the light source we are most of the time in contact - the sun - has a very different SPD. The good side of it is the door open for us color scientists to continue exploring these new spaces.&lt;/p&gt;
-
-&lt;p&gt;It was good to see how my field of studies during my PhD - multi-spectral color reproduction, multi-colorant printing - has evolved. How multi-ink printing systems that were semi-experimental some years ago are now the basis of further experimentation. Further more it always a pleasure to hear someone telling you “I have read your thesis” when they see your name and your face for the first time.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 07 Nov 2014 22:26:06 +0100</pubDate>
-        <link>http://mrbonsoir.github.io//blog/post/2014/11/07/CIC-in-Boston.html</link>
-        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2014/11/07/CIC-in-Boston.html</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>post</category>
-        
-      </item>
-    
-      <item>
-        <title>Boston 13 years later</title>
-        <description>&lt;p&gt;Second time in Boston, about 13 years after my first and only time in 2001 when I was an exchange student in Montréal. For the first trip a car full of Frenchies and Belgies was going South, leaving Québec behind us for the a long weekend. As far as I remember it was a really good weekend, not legendary but still very ok.&lt;/p&gt;
-
-&lt;p&gt;But back to our actual trip. I’m arriving from Berlin via Amsterdam. Luckily the Delta Airlines plane is pretty empty - I have two seats for me alone - and equipped with fairly new personal screen, I can actually see something - ce qui n’est pas toujours du luxe. I can say I was efficient in term of watching videos.&lt;/p&gt;
-
-&lt;p&gt;Landing was smooth, so was the custom and retrieving my luggage. In the plane I met a fellow going to attend the same conference as me. The reason I’m travelling to Boston is to attend the Color Imaging Conference (CIC22 to be precised). For once we left the South states of New Mexico, Texas or California, no excursion to the desert this time.&lt;/p&gt;
-
-&lt;p&gt;But back to Boston as I’m diverging again. The city isn’t too big and the public transport is actually existing. I jumped in the subway and reached shortly after landing my AirBnB apartment in South End, somehow the South. Neat. Especially neat if you have seen the average price for an hotel room this week.&lt;/p&gt;
-
-&lt;p&gt;Thanks to the conference organisation I’m able to attend the event another time. In a smaller city all attendees are usually staying in the same hotel. This time not. Meaning I will have to wait tomorrow to meet the color scientist fellows, except one coming from France with whom I’m sharing the flat. According to plan and his plane he should arrive soon.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 03 Nov 2014 19:28:06 +0100</pubDate>
-        <link>http://mrbonsoir.github.io//blog/post/2014/11/03/Boston-13-years-later.html</link>
-        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2014/11/03/Boston-13-years-later.html</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>post</category>
-        
-      </item>
-    
-      <item>
-        <title>Color science for beginners</title>
-        <description>&lt;p&gt;I’m a color and imaging scientist who does photography, but sometimes I’m a photographer who does color and imaging research. Depending of the moment and the project one or the other will be predominant.&lt;/p&gt;
-
-&lt;p&gt;The practise of photography is always interesting to remind how the light is captured, how images are made. Know the acquisition process in details - light condition, lens used, subject or content - will always help when it is time to work on the images - be it for displaying the resulting images or for extracting automatically information from them.&lt;/p&gt;
-
-&lt;p&gt;These few lines are only a glimpse of what color science is. In my many attempts to explain what a color scientist does I came up with this little definition: a color scientist deals with light, its acquisition, preservation and reproduction, of course he also works with images. The term “color” refer to the visible spectrum - a color scientist is a multispectral imaging scientist with limited spectral boundaries - and by adding the word “visible” - visible to the human eye of course - we just extended the range of possible activities such as studying how a human eye does function, how do we perceive light signals, read images. From physics we come to philosophy.&lt;/p&gt;
-
-&lt;p&gt;Engineering projects which involve to work with images are often straightforward: you have an image, you need to detect some information, you use a define metric and it is done - almost of course. A color imaging project which involves art, artists and their work is different. Artists and scientists do not speak the same language, they may use the same tools but with different guidelines for sure… But that’s where the fun comes in.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 07 Oct 2014 12:00:06 +0200</pubDate>
-        <link>http://mrbonsoir.github.io//blog/post/2014/10/07/Color-science-for-beginners.html</link>
-        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2014/10/07/Color-science-for-beginners.html</guid>
         
         
         <category>blog</category>
