@@ -22,5 +22,4 @@ twitter_username: mrbonsoir
 github_username:  mrbonsoir
 
 # Build settings
-#markdown: kramdown
-markdown: redcarpet
+markdown: kramdown
