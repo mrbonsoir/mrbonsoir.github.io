@@ -6,54 +6,76 @@
 </description>
     <link>http://mrbonsoir.github.io//</link>
     <atom:link href="http://mrbonsoir.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Mar 2016 12:27:48 -0700</pubDate>
-    <lastBuildDate>Tue, 15 Mar 2016 12:27:48 -0700</lastBuildDate>
+    <pubDate>Tue, 05 Apr 2016 15:12:35 +0200</pubDate>
+    <lastBuildDate>Tue, 05 Apr 2016 15:12:35 +0200</lastBuildDate>
     <generator>Jekyll v3.0.3</generator>
     
       <item>
+        <title>Working with noise control</title>
+        <description>&lt;p&gt;I like to write. I have to write often for work but I also enjoy to write for myself about &lt;a href=&quot;http://mrbonsoir.blogspot.com&quot;&gt;stuffs&lt;/a&gt; not specifically related to work. Writing anything requires concentration and sometimes it’s easy to search for distraction instead of clearing your head, focusing on the task to be done and doing it. Actually writing or reading both require a lot of concentration and over the years I develop a strategy when it’s time to think, write or read. Yes sometimes I think.&lt;/p&gt;
+
+&lt;p&gt;The answer is music, or noise or even more precisely auto-generative music or self-generative noise. I don’t remember how I ended up on &lt;a href=&quot;http://www.noisli.com/&quot;&gt;noisli&lt;/a&gt; but since this discovery I intensively use this website/app to shape the sound atmosphere around me. You can mix together different background sounds, this is the idea, to create a noise mix if not musical that will keep you in your bubble, to surround you in a way that elements from the outside will not disturb you.&lt;/p&gt;
+
+&lt;p&gt;Recreating the sound from the train or while being in an airplane works for me. I wish Miles Davis album &lt;a href=&quot;https://en.wikipedia.org/wiki/In_a_Silent_Way&quot;&gt;Silent Way&lt;/a&gt; could be played forever, with &lt;a href=&quot;http://www.noisli.com/&quot;&gt;noisli&lt;/a&gt; I can simulate the noise from a train ride. But the delicate sound from an FM frequency without voices is so relaxing to me.&lt;/p&gt;
+
+&lt;p&gt;Now I’m not only using this app for working or to put myself into the quest for concentration, no. In winter I like to hear the sound of the fire crackling together with a light wind, it’s warming up my flat and my feet. The same in summer when it’s too warm, a bit of wind, a bit of lighting noise and/or the sound of light waves on the beach has a strong effect.&lt;/p&gt;
+
+&lt;p&gt;Coming from the field of color science, computer vision, VR stuffs I find this kind of app extremely simple and super immersive. Video game designers didn’t wait for me to incorporate sound into their games to increase their immersive factor.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 05 Apr 2016 15:01:06 +0200</pubDate>
+        <link>http://mrbonsoir.github.io//blog/post/2016/04/05/Working-with-noise.html</link>
+        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2016/04/05/Working-with-noise.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
         <title>From IRL to VR</title>
-        <description>&lt;p&gt;I&amp;#39;m working on a workshop proposal for the next &lt;a href=&quot;https://www.imaging.org/site/IST/Conferences/Color_and_Imaging/IST/Conferences/CIC/CIC_Home.aspx?hkey=d2cf3f19-87b4-4164-8274-c40180e9dfa7&quot;&gt;Color Imaging Conference&lt;/a&gt; November 7-11 in San Diego CA. The topic I want to discuss with the speakers and audience is VR. The idea is to present the state of the art of research - what&amp;#39;s happening in the labs - and how this technology is spread to the mass - from digital dome to VR headset.&lt;/p&gt;
+        <description>&lt;p&gt;I’m working on a workshop proposal for the next &lt;a href=&quot;https://www.imaging.org/site/IST/Conferences/Color_and_Imaging/IST/Conferences/CIC/CIC_Home.aspx?hkey=d2cf3f19-87b4-4164-8274-c40180e9dfa7&quot;&gt;Color Imaging Conference&lt;/a&gt; November 7-11 in San Diego CA. The topic I want to discuss with the speakers and audience is VR. The idea is to present the state of the art of research - what’s happening in the labs - and how this technology is spread to the mass - from digital dome to VR headset.&lt;/p&gt;
 
-&lt;p&gt;The acceptance of a new technology can be reach if normal users can embrace it. It&amp;#39;s a challenge for all scientists, engineers, interaction designers to give easy access to often very complicated stuffs. By complicated stuff here I mean the production of an immersive movie with one or several cameras. The 360 degrees VR photography scene is almost established (see the photographer work of &lt;a href=&quot;http://tanjabarnes.com/&quot;&gt;tanjabarnes&lt;/a&gt; and thanks to software tools such as &lt;a href=&quot;http://hugin.sourceforge.net/&quot;&gt;hugin&lt;/a&gt;) one person &lt;em&gt;alone&lt;/em&gt; can produce beautiful images. For immersive movies more resources are usually needed, digital dome and planetarium such as the &lt;a href=&quot;http://www.calacademy.org/incoming-trailer&quot;&gt;California Academy of Science&lt;/a&gt; have the team to create amazing contents for the visitors attending their shows.&lt;/p&gt;
+&lt;p&gt;The acceptance of a new technology can be reach if normal users can embrace it. It’s a challenge for all scientists, engineers, interaction designers to give easy access to often very complicated stuffs. By complicated stuff here I mean the production of an immersive movie with one or several cameras. The 360 degrees VR photography scene is almost established (see the photographer work of &lt;a href=&quot;http://tanjabarnes.com/&quot;&gt;tanjabarnes&lt;/a&gt; and thanks to software tools such as &lt;a href=&quot;http://hugin.sourceforge.net/&quot;&gt;hugin&lt;/a&gt;) one person &lt;em&gt;alone&lt;/em&gt; can produce beautiful images. For immersive movies more resources are usually needed, digital dome and planetarium such as the &lt;a href=&quot;http://www.calacademy.org/incoming-trailer&quot;&gt;California Academy of Science&lt;/a&gt; have the team to create amazing contents for the visitors attending their shows.&lt;/p&gt;
 
-&lt;p&gt;I do think there is still a gap for people to create CGI content by themself, even so &lt;a href=&quot;https://minecraft.net/&quot;&gt;minecraft&lt;/a&gt; or &lt;a href=&quot;https://www.buildwithchrome.com/builder&quot;&gt;lego with Chrome&lt;/a&gt; are contradicting me. But if you work already in a Virtual environment you eliminate many of the drawbacks usually present to generate multi-directional views: if you know where the objects in your scene are located, without talking about quality of rendering it&amp;#39;s &lt;em&gt;easy&lt;/em&gt; to generate views from virtual camera at various locations in space. So far I&amp;#39;m only describing techonological challenges and I&amp;#39;m not even tackling the story telling challenges in VR. To contradict me again, the people in the game industry didn&amp;#39;t wait for me to tell story within a virtual envirronment.&lt;/p&gt;
+&lt;p&gt;I do think there is still a gap for people to create CGI content by themself, even so &lt;a href=&quot;https://minecraft.net/&quot;&gt;minecraft&lt;/a&gt; or &lt;a href=&quot;https://www.buildwithchrome.com/builder&quot;&gt;lego with Chrome&lt;/a&gt; are contradicting me. But if you work already in a Virtual environment you eliminate many of the drawbacks usually present to generate multi-directional views: if you know where the objects in your scene are located, without talking about quality of rendering it’s &lt;em&gt;easy&lt;/em&gt; to generate views from virtual camera at various locations in space. So far I’m only describing techonological challenges and I’m not even tackling the story telling challenges in VR. To contradict me again, the people in the game industry didn’t wait for me to tell story within a virtual envirronment.&lt;/p&gt;
 
-&lt;h3&gt;A few words about my background&lt;/h3&gt;
-
-&lt;p&gt;I&amp;#39;m a &lt;a href=&quot;https://de.linkedin.com/in/jeremiegerhardt&quot;&gt;color scientist&lt;/a&gt;, but over the almost last 10 years I have been involved in various VR projects regarding image quality, stichting, camera and projector calibration. Projects being the technology behind immersive displays and more specifically how to control several displays for the projection on curved surfaces. An immersirve display can be a cave, cylinder to a full sphere in that matter.&lt;/p&gt;
+&lt;h3 id=&quot;a-few-words-about-my-background&quot;&gt;A few words about my background&lt;/h3&gt;
+&lt;p&gt;I’m a &lt;a href=&quot;https://de.linkedin.com/in/jeremiegerhardt&quot;&gt;color scientist&lt;/a&gt;, but over the almost last 10 years I have been involved in various VR projects regarding image quality, stichting, camera and projector calibration. Projects being the technology behind immersive displays and more specifically how to control several displays for the projection on curved surfaces. An immersirve display can be a cave, cylinder to a full sphere in that matter.&lt;/p&gt;
 
 &lt;p&gt;I had the chance to meet different communities, one of them being the &lt;a href=&quot;http://www.imersa.org/&quot;&gt;digital dome community&lt;/a&gt;. Interesting fact for me is that these people are usually understanding/developping their technology to be able to create immersive contents for the digital domes. Another aspect I find very interesting about VR, it is now somehow easier to &lt;a href=&quot;http://www.theverge.com/2016/3/14/11206552/vr-oculus-rift-htv-vive-valve-sony-psvr-GDC&quot;&gt;consume VR content&lt;/a&gt; &lt;em&gt;alone&lt;/em&gt; with your &lt;a href=&quot;https://www.oculus.com/&quot;&gt;smartphone&lt;/a&gt; when digital dome offer a &lt;em&gt;group&lt;/em&gt; immersive experience which is pretty cool too.&lt;/p&gt;
 
-&lt;h3&gt;Description of the workshop (draft)&lt;/h3&gt;
+&lt;h3 id=&quot;description-of-the-workshop-draft&quot;&gt;Description of the workshop (draft)&lt;/h3&gt;
 
-&lt;p&gt;The recent blossoming of VR headset has open the VR doors to new users. The technology is not anymore reserved to flight simulator, research center or high end gaming console. It is now relatively easy to consume VR content on the mobile display of your smartphone equipped with a &lt;a href=&quot;https://www.google.com/get/cardboard/&quot;&gt;google Cardboard&lt;/a&gt; in the most simple case. &lt;/p&gt;
+&lt;p&gt;The recent blossoming of VR headset has open the VR doors to new users. The technology is not anymore reserved to flight simulator, research center or high end gaming console. It is now relatively easy to consume VR content on the mobile display of your smartphone equipped with a &lt;a href=&quot;https://www.google.com/get/cardboard/&quot;&gt;google Cardboard&lt;/a&gt; in the most simple case.&lt;/p&gt;
 
-&lt;p&gt;In that workshop we want to explore the different factors leading the user to have a successful VR experience. More specifically we will look at the solution existing for creating panorama to spherical movies using several cameras or using a single acquisition device, investigate the different scenario for live contents to recorded movies. &lt;/p&gt;
+&lt;p&gt;In that workshop we want to explore the different factors leading the user to have a successful VR experience. More specifically we will look at the solution existing for creating panorama to spherical movies using several cameras or using a single acquisition device, investigate the different scenario for live contents to recorded movies.&lt;/p&gt;
 
 &lt;p&gt;The usual approach to create panorama movie is to combine several different fields of view, the operation of stitching will allow to blend each image into a single frame. This process have to deal with hdr/tone mapping, the choice of algorithm modify the final image quality which influence the perceived feeling of immersion.&lt;/p&gt;
 
-&lt;p&gt;The general concept with immersive video is to consider the user in the middle of a sphere where the inner surface is the content of a frame. One aspect is to give the user the possibility to change its viewing direction by simply turning his head, a second aspect is to have the content ready at each frame. It’s possible to view immersive video on a regular video player where the viewing direction can be modified with a mouse (Youtube has this option), on the other side apps for VR headset will often use gaming tools (such as &lt;a href=&quot;https://unity3d.com/&quot;&gt;Unity Game engine&lt;/a&gt;), rendering tools (openGL…) to control the environment. From that point of view, app developers can work easily with texture, camera matrix projection, stitching functions...&lt;/p&gt;
+&lt;p&gt;The general concept with immersive video is to consider the user in the middle of a sphere where the inner surface is the content of a frame. One aspect is to give the user the possibility to change its viewing direction by simply turning his head, a second aspect is to have the content ready at each frame. It’s possible to view immersive video on a regular video player where the viewing direction can be modified with a mouse (Youtube has this option), on the other side apps for VR headset will often use gaming tools (such as &lt;a href=&quot;https://unity3d.com/&quot;&gt;Unity Game engine&lt;/a&gt;), rendering tools (openGL…) to control the environment. From that point of view, app developers can work easily with texture, camera matrix projection, stitching functions…&lt;/p&gt;
 
-&lt;h4&gt;Content filmed with camera cluster&lt;/h4&gt;
-
+&lt;h4 id=&quot;content-filmed-with-camera-cluster&quot;&gt;Content filmed with camera cluster&lt;/h4&gt;
 &lt;p&gt;It is possible to combine several action cameras with a mounting rig, see &lt;a href=&quot;http://www.360heros.com/&quot;&gt;GoPro&lt;/a&gt;. As each camera position is fixed, only one configuration file is required to stitch automatically the images, see the &lt;a href=&quot;http://www.hhi.fraunhofer.de/departments/vision-imaging-technologies/products-technologies/capture/panoramic-uhd-video.html&quot;&gt;panoramic UHD video&lt;/a&gt; from &lt;a href=&quot;http://www.hhi.fraunhofer.de/start-page.html&quot;&gt;HHI&lt;/a&gt; in Berlin. Live streaming is possible, final quality is linked to the bandwidth, how fast can tone mapping be applied, how synchronized are the different camera streams (&lt;a href=&quot;http://www.video-stitch.com/&quot;&gt;Video-Stitch&lt;/a&gt;, &lt;a href=&quot;http://www.kolor.com/&quot;&gt;Kolor&lt;/a&gt; softwares can help). With this kind of installation ghosting effect can still be visible when an object is getting too close to the camera cluster and appear in only one camera field of view.&lt;/p&gt;
 
-&lt;h4&gt;Content filmed with a single camera on the fly&lt;/h4&gt;
-
+&lt;h4 id=&quot;content-filmed-with-a-single-camera-on-the-fly&quot;&gt;Content filmed with a single camera on the fly&lt;/h4&gt;
 &lt;p&gt;It is possible if you can always consider your camera being located in the center of a sphere. Now giving the opportunity to the user to create himself with a single device an immersive movie is really interesting because it’s an invitation for him to take control on such new media/way of expression. And the challenges for the scientists and engineers to please the future immersive video directors are numerous as the users don’t really care about the science, it should work when you press the button (who knows about automatic white balance, autofocus, hdr, 3D, face detection, noise reduction, automatic quality improvement, photography in low light…). The challenge with a single camera is to able to follow the camera movement and to provide to the app this information under the form of a rotation matrix to process stitching in real time (&lt;a href=&quot;https://www.splashapp.co/&quot;&gt;viorama and splash&lt;/a&gt; can help).&lt;/p&gt;
 
-&lt;h3&gt;Expected outcome&lt;/h3&gt;
+&lt;h3 id=&quot;expected-outcome&quot;&gt;Expected outcome&lt;/h3&gt;
 
 &lt;p&gt;The people attending the workshop should gain knowledge about the imaging workflow for VR application using their smartphone as display: what are the key points and challenges from applied research to production.&lt;/p&gt;
 
-&lt;h3&gt;How to participate?&lt;/h3&gt;
+&lt;h3 id=&quot;how-to-participate&quot;&gt;How to participate?&lt;/h3&gt;
 
 &lt;p&gt;Regarding the participation to the workshop as one of the speakers to share your experience regarding the challenges listed, 
 please contact me jeremie[point]gerhardt[at]gmail[point]com .&lt;/p&gt;
 
 &lt;p&gt;Check the conference webpage &lt;a href=&quot;https://www.imaging.org/site/IST/Conferences/Color_and_Imaging/IST/Conferences/CIC/CIC_Home.aspx?hkey=d2cf3f19-87b4-4164-8274-c40180e9dfa7&quot;&gt;Color Imaging Conference&lt;/a&gt; where there is much more to discover than the few lines above.&lt;/p&gt;
+
 </description>
-        <pubDate>Tue, 15 Mar 2016 02:25:06 -0700</pubDate>
+        <pubDate>Tue, 15 Mar 2016 10:25:06 +0100</pubDate>
         <link>http://mrbonsoir.github.io//blog/post/2016/03/15/From-IRL-to-VR.html</link>
         <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2016/03/15/From-IRL-to-VR.html</guid>
         
@@ -66,10 +88,11 @@ please contact me jeremie[point]gerhardt[at]gmail[point]com .&lt;/p&gt;
     
       <item>
         <title>Ca continue aujourd&#39;hui</title>
-        <description>&lt;p&gt;With the help of my little fingers I finally open a second blog more decicated to my field of work. Color science in case... So far I only repost and correct some typo mistakes from my other blog &lt;a href=&quot;http://mrbonsoir.blogspot.com&quot;&gt;mrbonsoir à l&amp;#39;internet&lt;/a&gt; when I was talking about conference trips, workhsop. This to separate the &lt;em&gt;real&lt;/em&gt; me
+        <description>&lt;p&gt;With the help of my little fingers I finally open a second blog more decicated to my field of work. Color science in case… So far I only repost and correct some typo mistakes from my other blog &lt;a href=&quot;http://mrbonsoir.blogspot.com&quot;&gt;mrbonsoir à l’internet&lt;/a&gt; when I was talking about conference trips, workhsop. This to separate the &lt;em&gt;real&lt;/em&gt; me
 and the &lt;em&gt;working&lt;/em&gt; me.&lt;/p&gt;
+
 </description>
-        <pubDate>Fri, 04 Mar 2016 07:25:06 -0800</pubDate>
+        <pubDate>Fri, 04 Mar 2016 16:25:06 +0100</pubDate>
         <link>http://mrbonsoir.github.io//blog/post/2016/03/04/Ca-continue-aujourdhui.html</link>
         <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2016/03/04/Ca-continue-aujourdhui.html</guid>
         
@@ -88,13 +111,14 @@ and the &lt;em&gt;working&lt;/em&gt; me.&lt;/p&gt;
 
 &lt;p&gt;My point here is not to list or say which one is better than the other, but to highlight all the options now available. What I think is interesting here is to see what is considered to be granted from the user point of view: auto-focus, white balancing, hdr, face detection, low light condition, panorama and to wonder what people really understood of these tools. The marketing department surely has something to say about the last point.&lt;/p&gt;
 
-&lt;p&gt;To know a bit about the production workflow around this problematic, I really see the the battle of new algorithms/automatic image as the way for company to market their image (see the last &lt;a href=&quot;http://www.apple.com/iphone-6s/cameras/photos/&quot;&gt;iPhone campaign&lt;/a&gt;). A bit like the battle between film manufacturers (Kodak, Agfa, Fuji...) back in the days, where for the same ISO sensitivities (for me my favorite was 400 color by Fujifilm) the same color signal will appear slightly different on paper. The camera allows you to record the scene and the film/digital camera chosen will print the look of the final image.&lt;/p&gt;
+&lt;p&gt;To know a bit about the production workflow around this problematic, I really see the the battle of new algorithms/automatic image as the way for company to market their image (see the last &lt;a href=&quot;http://www.apple.com/iphone-6s/cameras/photos/&quot;&gt;iPhone campaign&lt;/a&gt;). A bit like the battle between film manufacturers (Kodak, Agfa, Fuji…) back in the days, where for the same ISO sensitivities (for me my favorite was 400 color by Fujifilm) the same color signal will appear slightly different on paper. The camera allows you to record the scene and the film/digital camera chosen will print the look of the final image.&lt;/p&gt;
 
 &lt;p&gt;So what can you really do? A lot will answer the emergency color scientist. It is super important and very interesting to study how our visual system is functioning, how it adapts with the light condition (eg. how to improve an image when observe on your phone in low light condition). All sounds pretty cool to me, color scientists can be useful.&lt;/p&gt;
 
 &lt;p&gt;La suite dans le futur.&lt;/p&gt;
+
 </description>
-        <pubDate>Wed, 02 Mar 2016 07:58:06 -0800</pubDate>
+        <pubDate>Wed, 02 Mar 2016 16:58:06 +0100</pubDate>
         <link>http://mrbonsoir.github.io//blog/post/2016/03/02/algo-in-mobile-phone-camera.html</link>
         <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2016/03/02/algo-in-mobile-phone-camera.html</guid>
         
@@ -110,8 +134,9 @@ and the &lt;em&gt;working&lt;/em&gt; me.&lt;/p&gt;
         <description>&lt;p&gt;Having a lot of time pushes me - I hope - to be organised. So in an attempt to sort my data - mostly pieces of code on Python - in order to make it available when I need it I made a new github repository where I store iPython notebook with a few explanations.&lt;/p&gt;
 
 &lt;p&gt;Everything is &lt;a href=&quot;https://github.com/mrbonsoir/random_notebooks&quot;&gt;here&lt;/a&gt; and maybe it will be of some people interests, or not.&lt;/p&gt;
+
 </description>
-        <pubDate>Wed, 17 Feb 2016 08:15:06 -0800</pubDate>
+        <pubDate>Wed, 17 Feb 2016 17:15:06 +0100</pubDate>
         <link>http://mrbonsoir.github.io//blog/post/2016/02/17/a-glimpse-of-code.html</link>
         <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2016/02/17/a-glimpse-of-code.html</guid>
         
@@ -124,15 +149,16 @@ and the &lt;em&gt;working&lt;/em&gt; me.&lt;/p&gt;
     
       <item>
         <title>Some data about a data conference</title>
-        <description>&lt;p&gt;I had the chance to attend the [Data Natives][link-datanatives] 2015 event last week in Berlin. A first time event having for topics FinTech, IoT and of course Big Data. I heard some interesting talks but also less interesting ones. You can still hear people having the dream of forecasting anything with the help of more data, but with often the feeling it&amp;#39;s only in order to sale more stuffs. I haven&amp;#39;t got the life improvement that suppose to go with Big Data (e.g. mass surveillance doesn&amp;#39;t work obviously).&lt;/p&gt;
+        <description>&lt;p&gt;I had the chance to attend the [Data Natives][link-datanatives] 2015 event last week in Berlin. A first time event having for topics FinTech, IoT and of course Big Data. I heard some interesting talks but also less interesting ones. You can still hear people having the dream of forecasting anything with the help of more data, but with often the feeling it’s only in order to sale more stuffs. I haven’t got the life improvement that suppose to go with Big Data (e.g. mass surveillance doesn’t work obviously).&lt;/p&gt;
 
 &lt;p&gt;But here and there you can sometimes hear someone talking about a project that hold your attention. For me the most interesting aspect is the inter-disciplinary or multi-disciplinary aspect of the data. To achieve something relevant or meaningful with all the available information, you need to be able to define first what is the problem you are trying to solve (and yes I have a degree in opening open door).&lt;/p&gt;
 
 &lt;p&gt;Four presentations are still in my head, one using NLP to pre-sort a lot of CV (from HitFox during the first day of the program) and a second using computer vision to automatically give feedback on webpage design (from EyeQuant last talk of the second day). Actually for the last one their talk was much wider than this single problem.&lt;/p&gt;
 
-&lt;p&gt;About IoT and FinTech is wasn&amp;#39;t really impressive. Actually the only striking aspect is that the same tools are used whatever is your field of work (like data science / analytic / finance): you accumulate data, you trying to find information and pattern into them, this in order to derive model to make prediction. And without surprises the most interesting talks about FinTech came from the people involved in the Bitcoin economy / technology (Blockchain and &lt;a href=&quot;https://www.ascribe.io/&quot;&gt;ascribe Gmbh&lt;/a&gt;). Maybe the banks have some cool stuffs to talk about, but they weren&amp;#39;t really present.&lt;/p&gt;
+&lt;p&gt;About IoT and FinTech is wasn’t really impressive. Actually the only striking aspect is that the same tools are used whatever is your field of work (like data science / analytic / finance): you accumulate data, you trying to find information and pattern into them, this in order to derive model to make prediction. And without surprises the most interesting talks about FinTech came from the people involved in the Bitcoin economy / technology (Blockchain and &lt;a href=&quot;https://www.ascribe.io/&quot;&gt;ascribe Gmbh&lt;/a&gt;). Maybe the banks have some cool stuffs to talk about, but they weren’t really present.&lt;/p&gt;
+
 </description>
-        <pubDate>Tue, 24 Nov 2015 08:37:06 -0800</pubDate>
+        <pubDate>Tue, 24 Nov 2015 17:37:06 +0100</pubDate>
         <link>http://mrbonsoir.github.io//blog/post/2015/11/24/Some-data-about-data-conference.html</link>
         <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2015/11/24/Some-data-about-data-conference.html</guid>
         
@@ -145,13 +171,14 @@ and the &lt;em&gt;working&lt;/em&gt; me.&lt;/p&gt;
     
       <item>
         <title>Data conference coming!</title>
-        <description>&lt;p&gt;I&amp;#39;m interested in knowing, observing how my field - applied research, technology, imaging, innovation... whatever you call it - is evolving. Working full time on one project is of course a good solution to see what&amp;#39;s going on, but it&amp;#39;s also taking the risk of being stock in daily routines. In that sens it&amp;#39;s always wise to have a look of what your neighbors, competitors are doing, how they try to solve the same problem you are working on.&lt;/p&gt;
+        <description>&lt;p&gt;I’m interested in knowing, observing how my field - applied research, technology, imaging, innovation… whatever you call it - is evolving. Working full time on one project is of course a good solution to see what’s going on, but it’s also taking the risk of being stock in daily routines. In that sens it’s always wise to have a look of what your neighbors, competitors are doing, how they try to solve the same problem you are working on.&lt;/p&gt;
 
-&lt;p&gt;From my own experience I know that we - let&amp;#39;s call us/me applied/data scientist - are very fast categorized in sub-fields, as experts and that it is sometimes difficult to extract yourself from the prism of how people are perceiving what you can do. Having said that, to be able to attend events, meet a new crowd, hopefully interesting people, exchange information, re-present yourself, feel how an industry is growing is something vital.&lt;/p&gt;
+&lt;p&gt;From my own experience I know that we - let’s call us/me applied/data scientist - are very fast categorized in sub-fields, as experts and that it is sometimes difficult to extract yourself from the prism of how people are perceiving what you can do. Having said that, to be able to attend events, meet a new crowd, hopefully interesting people, exchange information, re-present yourself, feel how an industry is growing is something vital.&lt;/p&gt;
 
-&lt;p&gt;A few days ago I did spot an event &lt;a href=&quot;http://datanatives.io/&quot;&gt;Data Natives&lt;/a&gt; scheduled in Berlin the coming 19-20 of November 2015. The keywords combination used to introduce the program is almost too perfect: IoT (internet of thing),  FinTech (Financial Technology and not tech from Finland which sounds pretty cool too) and Big Data of course. Needless to say that I&amp;#39;m pretty excited to attend this conference!&lt;/p&gt;
+&lt;p&gt;A few days ago I did spot an event &lt;a href=&quot;http://datanatives.io/&quot;&gt;Data Natives&lt;/a&gt; scheduled in Berlin the coming 19-20 of November 2015. The keywords combination used to introduce the program is almost too perfect: IoT (internet of thing),  FinTech (Financial Technology and not tech from Finland which sounds pretty cool too) and Big Data of course. Needless to say that I’m pretty excited to attend this conference!&lt;/p&gt;
+
 </description>
-        <pubDate>Mon, 02 Nov 2015 05:35:06 -0800</pubDate>
+        <pubDate>Mon, 02 Nov 2015 14:35:06 +0100</pubDate>
         <link>http://mrbonsoir.github.io//blog/post/2015/11/02/Data-conference-coming.html</link>
         <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2015/11/02/Data-conference-coming.html</guid>
         
@@ -164,29 +191,28 @@ and the &lt;em&gt;working&lt;/em&gt; me.&lt;/p&gt;
     
       <item>
         <title>Personal insights on color science</title>
-        <description>&lt;h3&gt;Context&lt;/h3&gt;
+        <description>&lt;h3 id=&quot;context&quot;&gt;Context&lt;/h3&gt;
+&lt;p&gt;In a &lt;a href=&quot;http://mrbonsoir.github.io/blog/post/2015/10/23/CIC-visiting-Darmstadt.html&quot;&gt;previous post&lt;/a&gt; I talked about the last event in my field I did attend. Now I want to talk about my perception of this domain which is called color science. I’m pretty sure it can be applied to other fields of research as well.&lt;/p&gt;
 
-&lt;p&gt;In a &lt;a href=&quot;http://mrbonsoir.github.io/blog/post/2015/10/23/CIC-visiting-Darmstadt.html&quot;&gt;previous post&lt;/a&gt; I talked about the last event in my field I did attend. Now I want to talk about my perception of this domain which is called color science. I&amp;#39;m pretty sure it can be applied to other fields of research as well.&lt;/p&gt;
+&lt;p&gt;From the first time I joined this community, from article reader, article contributor to reviewer, committee member and session chair my understanding of what is color science has evolved. One important thing is to stay humble, especially with the new comers. I have been one them, it was impressive. Impressive because you meet the people, authors of research articles that are part of the foundation of you work. You can add a person, a voice to written words, it’s actually pretty cool.&lt;/p&gt;
 
-&lt;p&gt;From the first time I joined this community, from article reader, article contributor to reviewer, committee member and session chair my understanding of what is color science has evolved. One important thing is to stay humble, especially with the new comers. I have been one them, it was impressive. Impressive because you meet the people, authors of research articles that are part of the foundation of you work. You can add a person, a voice to written words, it&amp;#39;s actually pretty cool.&lt;/p&gt;
+&lt;p&gt;There aren’t thousand concepts to understand/enter the world of color science. Like in every fields it’s about observation and trying to explain what’s happening. But here it’s all about light - its spectral properties - how we perceive this signal - a single light source to an image in the visible spectrum - and how can we develop robust scientific/engineering &lt;em&gt;stuffs&lt;/em&gt; around it. What I find interesting is to witness what is the new thing coming each year, how a technical improvement can open a door for further applications.&lt;/p&gt;
 
-&lt;p&gt;There aren&amp;#39;t thousand concepts to understand/enter the world of color science. Like in every fields it&amp;#39;s about observation and trying to explain what&amp;#39;s happening. But here it&amp;#39;s all about light - its spectral properties - how we perceive this signal - a single light source to an image in the visible spectrum - and how can we develop robust scientific/engineering &lt;em&gt;stuffs&lt;/em&gt; around it. What I find interesting is to witness what is the new thing coming each year, how a technical improvement can open a door for further applications.&lt;/p&gt;
-
-&lt;h3&gt;Color trends&lt;/h3&gt;
-
+&lt;h3 id=&quot;color-trends&quot;&gt;Color trends&lt;/h3&gt;
 &lt;p&gt;Among the research sub-fields presented at CIC this year I want to come back on four of them.&lt;/p&gt;
 
-&lt;p&gt;There is the recurrent discussion about color metrics, from a purely mathematical/geometrical approach to a more perception-wise approach trying to add an average human appreciation of the difference between two signals. Having a good metric is always helpful to evaluate your algorithm/experiment. Over the years the metrics are evolving, context is important (from display calibration to color textile differences...).&lt;/p&gt;
+&lt;p&gt;There is the recurrent discussion about color metrics, from a purely mathematical/geometrical approach to a more perception-wise approach trying to add an average human appreciation of the difference between two signals. Having a good metric is always helpful to evaluate your algorithm/experiment. Over the years the metrics are evolving, context is important (from display calibration to color textile differences…).&lt;/p&gt;
 
-&lt;p&gt;There is the what I call &lt;em&gt;purely geometrical approach&lt;/em&gt; discussion where having a signal as vector of n values - for n wavelength -  a group of sensors - basic configuration made of three basis like RGB basis - you want to know the value of this signal once projected on the known basis/sensors. From that you can jump into optimization, addressing various problems such as finding the scene illuminant/white point, study metamerism. It seems obvious but it&amp;#39;s not.&lt;/p&gt;
+&lt;p&gt;There is the what I call &lt;em&gt;purely geometrical approach&lt;/em&gt; discussion where having a signal as vector of n values - for n wavelength -  a group of sensors - basic configuration made of three basis like RGB basis - you want to know the value of this signal once projected on the known basis/sensors. From that you can jump into optimization, addressing various problems such as finding the scene illuminant/white point, study metamerism. It seems obvious but it’s not.&lt;/p&gt;
 
-&lt;p&gt;There is printing and 3D printing - there I meant color 3D printing. Just think of how to design a color test-chart for such printing system. HDR display is also coming stronger than ever. What is interesting with these two examples is that they both require to know your workflow, they are the &amp;quot;end&amp;quot; of a process chain: you need to understand the acquisition process to do a good reproduction. Understanding the use of the technology is obviously required.&lt;/p&gt;
+&lt;p&gt;There is printing and 3D printing - there I meant color 3D printing. Just think of how to design a color test-chart for such printing system. HDR display is also coming stronger than ever. What is interesting with these two examples is that they both require to know your workflow, they are the “end” of a process chain: you need to understand the acquisition process to do a good reproduction. Understanding the use of the technology is obviously required.&lt;/p&gt;
 
-&lt;p&gt;On the last paragraph one can add the understanding of gamut mapping and how you &amp;quot;move&amp;quot; into your color space as something very important. For printers you have multi-inks system changing the shape of the color space available. For high resolution TV and HDR screen the color gamut shape may not change a lot - almost - but the variability of screen size, intensity scale, technology available make it difficult - to be understood as something cool and challenging for me - to offer a comfortable experience to the user among the different platforms.&lt;/p&gt;
+&lt;p&gt;On the last paragraph one can add the understanding of gamut mapping and how you “move” into your color space as something very important. For printers you have multi-inks system changing the shape of the color space available. For high resolution TV and HDR screen the color gamut shape may not change a lot - almost - but the variability of screen size, intensity scale, technology available make it difficult - to be understood as something cool and challenging for me - to offer a comfortable experience to the user among the different platforms.&lt;/p&gt;
 
-&lt;p&gt;Now that I&amp;#39;m a bit more in control with the tools/concepts in my field and sub-fields I have the tendency to prefer the projects combining several concepts - like high quality printing and movie post-production - and I always appreciate to hear how the authors are presenting their projects, which story they are telling us.&lt;/p&gt;
+&lt;p&gt;Now that I’m a bit more in control with the tools/concepts in my field and sub-fields I have the tendency to prefer the projects combining several concepts - like high quality printing and movie post-production - and I always appreciate to hear how the authors are presenting their projects, which story they are telling us.&lt;/p&gt;
+
 </description>
-        <pubDate>Sun, 25 Oct 2015 09:37:06 -0700</pubDate>
+        <pubDate>Sun, 25 Oct 2015 17:37:06 +0100</pubDate>
         <link>http://mrbonsoir.github.io//blog/post/2015/10/25/Personal-insights-on-color-science.html</link>
         <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2015/10/25/Personal-insights-on-color-science.html</guid>
         
@@ -199,13 +225,14 @@ and the &lt;em&gt;working&lt;/em&gt; me.&lt;/p&gt;
     
       <item>
         <title>CIC visiting Darmstadt</title>
-        <description>&lt;p&gt;What is CIC you may ask yourself? It&amp;#39;s stand for &lt;a href=&quot;http://www.imaging.org/site/IST/Conferences/Color_and_Imaging/IST/Conferences/CIC/CIC_Home.aspx?hkey=d2cf3f19-87b4-4164-8274-c40180e9dfa7&quot;&gt;Color Imaging Conference&lt;/a&gt;, a conference about color and imaging. This year it took place in Darmstadt DE. The last 22 editions always took place in the US, last year it was in Boston MA, two years ago in Albuquerque NM, three years ago in Los Angeles CA, four years ago in San Antonio TX and that&amp;#39;s it for my involvement. Next stop is San Diego CA in November 2016. &lt;/p&gt;
+        <description>&lt;p&gt;What is CIC you may ask yourself? It’s stand for &lt;a href=&quot;http://www.imaging.org/site/IST/Conferences/Color_and_Imaging/IST/Conferences/CIC/CIC_Home.aspx?hkey=d2cf3f19-87b4-4164-8274-c40180e9dfa7&quot;&gt;Color Imaging Conference&lt;/a&gt;, a conference about color and imaging. This year it took place in Darmstadt DE. The last 22 editions always took place in the US, last year it was in Boston MA, two years ago in Albuquerque NM, three years ago in Los Angeles CA, four years ago in San Antonio TX and that’s it for my involvement. Next stop is San Diego CA in November 2016.&lt;/p&gt;
 
-&lt;p&gt;I&amp;#39;m a regular attendee, I joined this community already ten years ago alternating between CGIV, &lt;a href=&quot;http://www.aic-colour.org/&quot;&gt;AIC&lt;/a&gt;, &lt;a href=&quot;http://www.imaging.org/ist/Conferences/ei2016/&quot;&gt;EI&lt;/a&gt; and CIC. Depending of the event you will meet a slightly different crowd or so to say different crowds will meet allowing to go deeper in the various fields represented. But for sure it&amp;#39;s about imaging, color, perception, printing, archiving, image acquisition, color management, camera and display calibration, gamut mapping and more.&lt;/p&gt;
+&lt;p&gt;I’m a regular attendee, I joined this community already ten years ago alternating between CGIV, &lt;a href=&quot;http://www.aic-colour.org/&quot;&gt;AIC&lt;/a&gt;, &lt;a href=&quot;http://www.imaging.org/ist/Conferences/ei2016/&quot;&gt;EI&lt;/a&gt; and CIC. Depending of the event you will meet a slightly different crowd or so to say different crowds will meet allowing to go deeper in the various fields represented. But for sure it’s about imaging, color, perception, printing, archiving, image acquisition, color management, camera and display calibration, gamut mapping and more.&lt;/p&gt;
 
-&lt;p&gt;This year almost 200 persons were attending the event in Darmstadt. There is a kind of routine in such event and being part of the committee allows you to see the people interaction with a special look. It&amp;#39;s very special to see the attendees - former colleagues, friends, known members of this community - arriving from everywhere almost - from North America, Europe, Asia, Australia... - and being all jet-lagged. Even if you are traveling in the same time zone you will end up jet-lagged. First of all the schedule is tide and you have to use the &amp;quot;free&amp;quot; time to talk with everybody. Sharing a meal or a beer is usually very appropriate. As a result you barely have time to rest, but the kind of adrenaline you get from meeting the crème de la crème of the color scientists keeps you awake.&lt;/p&gt;
+&lt;p&gt;This year almost 200 persons were attending the event in Darmstadt. There is a kind of routine in such event and being part of the committee allows you to see the people interaction with a special look. It’s very special to see the attendees - former colleagues, friends, known members of this community - arriving from everywhere almost - from North America, Europe, Asia, Australia… - and being all jet-lagged. Even if you are traveling in the same time zone you will end up jet-lagged. First of all the schedule is tide and you have to use the “free” time to talk with everybody. Sharing a meal or a beer is usually very appropriate. As a result you barely have time to rest, but the kind of adrenaline you get from meeting the crème de la crème of the color scientists keeps you awake.&lt;/p&gt;
+
 </description>
-        <pubDate>Fri, 23 Oct 2015 09:23:06 -0700</pubDate>
+        <pubDate>Fri, 23 Oct 2015 18:23:06 +0200</pubDate>
         <link>http://mrbonsoir.github.io//blog/post/2015/10/23/CIC-visiting-Darmstadt.html</link>
         <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2015/10/23/CIC-visiting-Darmstadt.html</guid>
         
@@ -220,56 +247,13 @@ and the &lt;em&gt;working&lt;/em&gt; me.&lt;/p&gt;
         <title>About not being an expert as a data scientist and other tech stuffs</title>
         <description>&lt;p&gt;Last evening I did attend a joined Meetup from the Python User Berlin (PUB) and the Zalando Tech Event hosted by Zalando and offering talks on Natural Langage Processing (NLP). Both talks went well and gave two views on the topic: one on the state of the art of the tools for NLP using Python and a second more applied.&lt;/p&gt;
 
-&lt;p&gt;The discussions I add after while enjoying a club mate - la boisson des champions - were equally interesting. First of all I started discussing with a expert of NLP trying to explain why I joined this event and what was my link with NLP. In my very recent job experience at EyeEm I just touched the surface of NLP preparing data for Machine Learning (ML) using nltk together with WordNet, ImageNet. Actually I didn&amp;#39;t do much of text analysis but batching word definition. In that experiment the text analysis will have come after this step and that&amp;#39;s where semantic is jumping into the discussion. Because working with the word dictionary is one side of the problem: you have one word with its definition and often - at least with scientists or engineers - you are in the inverse configuration which is you having words when actually you want to extract a definition, an idea, an information... And I let you google automatic image tagging, deep learning.&lt;/p&gt;
+&lt;p&gt;The discussions I add after while enjoying a club mate - la boisson des champions - were equally interesting. First of all I started discussing with a expert of NLP trying to explain why I joined this event and what was my link with NLP. In my very recent job experience at EyeEm I just touched the surface of NLP preparing data for Machine Learning (ML) using nltk together with WordNet, ImageNet. Actually I didn’t do much of text analysis but batching word definition. In that experiment the text analysis will have come after this step and that’s where semantic is jumping into the discussion. Because working with the word dictionary is one side of the problem: you have one word with its definition and often - at least with scientists or engineers - you are in the inverse configuration which is you having words when actually you want to extract a definition, an idea, an information… And I let you google automatic image tagging, deep learning.&lt;/p&gt;
 
-&lt;p&gt;After exchanging ideas and experiences about NLP I did continue seeping the offered mate with one Zalando employee. I was curious - as usual - to understand what it means to be a data scientist here. Because if the definition is very general - a data scientist works with data, we are not experts - it&amp;#39;s interesting to see how many fields we - I&amp;#39;m one of those people - cover in our daily work. Using the same language - e.g. Python - we can go from signal processing, computer vision, image retrieval, NLP, how to deal with Databases - a year ago I wrote on the topic Databases and natural Langage graphs en stock - how to present your results to non expert by doing nice visualization and many more... So if we are not expert we need to be pretty fast I acquiring skills from various fields and/or use the appropriate tools.&lt;/p&gt;
+&lt;p&gt;After exchanging ideas and experiences about NLP I did continue seeping the offered mate with one Zalando employee. I was curious - as usual - to understand what it means to be a data scientist here. Because if the definition is very general - a data scientist works with data, we are not experts - it’s interesting to see how many fields we - I’m one of those people - cover in our daily work. Using the same language - e.g. Python - we can go from signal processing, computer vision, image retrieval, NLP, how to deal with Databases - a year ago I wrote on the topic Databases and natural Langage graphs en stock - how to present your results to non expert by doing nice visualization and many more… So if we are not expert we need to be pretty fast I acquiring skills from various fields and/or use the appropriate tools.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 30 Sep 2015 03:50:06 -0700</pubDate>
+        <pubDate>Wed, 30 Sep 2015 12:50:06 +0200</pubDate>
         <link>http://mrbonsoir.github.io//blog/post/2015/09/30/About-not-being-an-expert-as-a-data-scientist.html</link>
         <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2015/09/30/About-not-being-an-expert-as-a-data-scientist.html</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>post</category>
-        
-      </item>
-    
-      <item>
-        <title>Clash of the titans - optimization vs. machine learning</title>
-        <description>&lt;h3&gt;In the beginning&lt;/h3&gt;
-
-&lt;p&gt;What is important to know about machine/deep learning problems? First remark to myself is &amp;quot;what are we trying to solve in general?&amp;quot; and then &amp;quot;which method/technique do we choose?&amp;quot; or &amp;quot;which approach is most appropriate to answer a given problem?&amp;quot;.&lt;/p&gt;
-
-&lt;h3&gt;Optimization for the people&lt;/h3&gt;
-
-&lt;p&gt;Optimization is widely used to solve complex problems that don&amp;#39;t have an analytic expression. But this doesn&amp;#39;t mean that problems that have an analytic expression couldn&amp;#39;t be solved using optimization.&lt;/p&gt;
-
-&lt;p&gt;Optimization relies on a provided model that &amp;quot;model&amp;quot; with reasonable efficiency a phenomenon (e.g. find the colorant combination of cyan, magenta, yellow and more for a give red, green, blue pixel) or anything you want. You may hear about derivatives, gradient, local minimum, cost function, quadratic form, linearity, non-linearity, iteration and more when you start messing around with optimization.&lt;/p&gt;
-
-&lt;p&gt;And it&amp;#39;s completely possible to use optimization techniques as applied mathematics tools without knowing exactly how they work (e.g. you provide your model and the tools will perform the derivatives for you). In an engineering world you are connecting boxes, each one trying to solve a simple task taking for starting point what the previous is having for output.&lt;/p&gt;
-
-&lt;h3&gt;Deep learning for the people&lt;/h3&gt;
-
-&lt;p&gt;Deep learning and neural networks let you do something clever with the way to solve your problem. First of all your problem has been defined and described, but optimization techniques did not provide expected results: it&amp;#39;s not fast enough or it&amp;#39;s simply not working. One possibility is that your model isn&amp;#39;t good enough or way to complex.&lt;/p&gt;
-
-&lt;p&gt;The simple idea is to let a system to learn about an ecosystem. To do so we let the algorithms mimicking how our brain is working. The concept of learning is very important here because it is really what we want to achieve. We want that our algorithm learns in a first step by obtaining representative parameters/weights before giving us a result. Then once the learning is finished, for a given entree and with the help of the parameters the algorithm can give us answers. For example is this image an image of a car, an elephant and this with different degrees of confidence.&lt;/p&gt;
-
-&lt;p&gt;A big part of the learning is to prepare the training sample. You can&amp;#39;t just give images to the algorithm. Applied to computer vision, deep learning methods try to extract features from images in a similar way of how we human recognize information in images. This step of features extraction goes by applying multiple filtering on the images and the resulting filtered images, using convolution and tile approaches. At the end you obtain classes of features and it&amp;#39;s very similar to the filters used for face recognition. Only difference is the features that describe a human face are now almost standard and doesn&amp;#39;t need to be computed or extracted again.&lt;/p&gt;
-
-&lt;p&gt;There exist competitions where for a given large database full of images and  keywords, people can submit their algorithms. Pretty interesting results are obtained and as in sport faster solutions are appearing often coming with new tools to handle large databases.&lt;/p&gt;
-
-&lt;h3&gt;Breaking the machine&lt;/h3&gt;
-
-&lt;p&gt;Hopefully there is always something to improve. Because images can contain more than one object, you could have a bike and an elephant in the same picture. In that case what should reply our algorithm first? There is room for subjectivity here.&lt;/p&gt;
-
-&lt;p&gt;These algorithms have to deal with the constant stream of information we are processing, meaning that we are always learning - in theory of course because the world is full of lazy bastards which keeps the marketing and sales people happy making us predictable and therefore easy targets but I digress - and we have to find a way to give this ability to our algorithms or there is the risk for them to over-learn. I really like the metaphor of trying to make an algorithm able to forget part of what he is deep learning to be able to adjust its judgement.&lt;/p&gt;
-
-&lt;p&gt;The interesting problems are those that overcome the first limitations encountered. You could try to distinguish what are the elements in a picture (e.g. there is an elephant and a bike) or &amp;quot;simply&amp;quot; give to the image a score. If you take an artist, he will have the tendency not only to make the same picture but to add to its images something that defines the way he perceive the world around him, something pretty unique. A similarity factor or score can be very helpful when you are browsing a large image databases or &amp;quot;just&amp;quot; the internet.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 15 Apr 2015 04:17:06 -0700</pubDate>
-        <link>http://mrbonsoir.github.io//blog/post/2015/04/15/Clash-of-the-titans.html</link>
-        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2015/04/15/Clash-of-the-titans.html</guid>
         
         
         <category>blog</category>
