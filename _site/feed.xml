@@ -6,8 +6,8 @@
 </description>
     <link>http://mrbonsoir.github.io//</link>
     <atom:link href="http://mrbonsoir.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Apr 2016 15:12:35 +0200</pubDate>
-    <lastBuildDate>Tue, 05 Apr 2016 15:12:35 +0200</lastBuildDate>
+    <pubDate>Thu, 07 Apr 2016 16:08:32 +0200</pubDate>
+    <lastBuildDate>Thu, 07 Apr 2016 16:08:32 +0200</lastBuildDate>
     <generator>Jekyll v3.0.3</generator>
     
       <item>
@@ -26,6 +26,32 @@
         <pubDate>Tue, 05 Apr 2016 15:01:06 +0200</pubDate>
         <link>http://mrbonsoir.github.io//blog/post/2016/04/05/Working-with-noise.html</link>
         <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2016/04/05/Working-with-noise.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>Uberisation</title>
+        <description>&lt;p&gt;Many stories and paths were crossing this week in SF and around. After many trips to this area I had the chance, this time, to experience a bit more what will it be if I was living there. Personnaly I think that you get to know a place when you start to understand how people move in their living envirronment, when they commute to work, go shopping or having some social activities.&lt;/p&gt;
+
+&lt;p&gt;I didn’t rent a car, again. A European reflex pushing me to use the local public transport. One thing you have to recognize is that the public transport isn’t very big in the US, except a few cities, but it’s pretty cheap and there isn’t so many real cities. So pretty soon you facing the dilema &lt;em&gt;I should have rented a car&lt;/em&gt;… Being in the Bay I thought why not trying &lt;a href=&quot;https://www.uber.com/&quot;&gt;uber&lt;/a&gt;? Asking people around uber or &lt;a href=&quot;https://www.lyft.com/&quot;&gt;lyft&lt;/a&gt; were coming first, the word taxi rarely mentioned and public transport always bringing an astonished face as reaction, like why will you do that, we are not in the third world country here or something like that. Therefore I tried, and needless to say it’s super convenient.&lt;/p&gt;
+
+&lt;p&gt;But why is it working so well here and struggling a bit let says in Paris and Berlin? I also had the chance to meet employees from uber and we were discussing about these facts. One thing interesting here is the very low public transport offer and the reaction from the big companies in the Bay to create their own public transport… It’s very convenient for them as their employees can work more, right from the commute time. Also I heard that the bus and subway lines stop earlier than in NY, Paris or Berlin, so you will have to think of your transport before going out, it’s annoying, and the taxi drivers, I heard, because being in situtation of monopole could be picky when you requested a drive.&lt;/p&gt;
+
+&lt;p&gt;All this uber-like companies are a treat for all work closed market or semi-old monopole companies. Especially when the targeted customers aren’t happy about the service adn dependant of this monopole. Ah lovely RER train drivers…&lt;/p&gt;
+
+&lt;p&gt;I have the feeling the only improvement comes from offering a better service, nothing really new is brought, a kind a super fancy re-packaging. If you take Apple, they were rarely the first with their new products, but something different was added. Tesla is re-doing cars. When one company is attracting suddenly all the sun to itself, then the others start to be innovative again. Uber is not completely there in Berlin or Paris, since their offensive approach in Europe behaving in a typical American way, they manage to make the locals to react, at least it’s more convenient to order a taxi on your phone in Berlin right now. A bit of fear and the things move.&lt;/p&gt;
+
+&lt;p&gt;And the last funny observation for is the abitlity to re-invet the wheel by tech companies. It’s possible to share your uber/lyft ride with other passangers, something between a bus and taxi. Something very similar to the aluguers in Capo Verde.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 19 Mar 2016 22:25:06 +0100</pubDate>
+        <link>http://mrbonsoir.github.io//blog/post/2016/03/19/Ubersitation.html</link>
+        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2016/03/19/Ubersitation.html</guid>
         
         
         <category>blog</category>
@@ -235,25 +261,6 @@ and the &lt;em&gt;working&lt;/em&gt; me.&lt;/p&gt;
         <pubDate>Fri, 23 Oct 2015 18:23:06 +0200</pubDate>
         <link>http://mrbonsoir.github.io//blog/post/2015/10/23/CIC-visiting-Darmstadt.html</link>
         <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2015/10/23/CIC-visiting-Darmstadt.html</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>post</category>
-        
-      </item>
-    
-      <item>
-        <title>About not being an expert as a data scientist and other tech stuffs</title>
-        <description>&lt;p&gt;Last evening I did attend a joined Meetup from the Python User Berlin (PUB) and the Zalando Tech Event hosted by Zalando and offering talks on Natural Langage Processing (NLP). Both talks went well and gave two views on the topic: one on the state of the art of the tools for NLP using Python and a second more applied.&lt;/p&gt;
-
-&lt;p&gt;The discussions I add after while enjoying a club mate - la boisson des champions - were equally interesting. First of all I started discussing with a expert of NLP trying to explain why I joined this event and what was my link with NLP. In my very recent job experience at EyeEm I just touched the surface of NLP preparing data for Machine Learning (ML) using nltk together with WordNet, ImageNet. Actually I didn’t do much of text analysis but batching word definition. In that experiment the text analysis will have come after this step and that’s where semantic is jumping into the discussion. Because working with the word dictionary is one side of the problem: you have one word with its definition and often - at least with scientists or engineers - you are in the inverse configuration which is you having words when actually you want to extract a definition, an idea, an information… And I let you google automatic image tagging, deep learning.&lt;/p&gt;
-
-&lt;p&gt;After exchanging ideas and experiences about NLP I did continue seeping the offered mate with one Zalando employee. I was curious - as usual - to understand what it means to be a data scientist here. Because if the definition is very general - a data scientist works with data, we are not experts - it’s interesting to see how many fields we - I’m one of those people - cover in our daily work. Using the same language - e.g. Python - we can go from signal processing, computer vision, image retrieval, NLP, how to deal with Databases - a year ago I wrote on the topic Databases and natural Langage graphs en stock - how to present your results to non expert by doing nice visualization and many more… So if we are not expert we need to be pretty fast I acquiring skills from various fields and/or use the appropriate tools.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 30 Sep 2015 12:50:06 +0200</pubDate>
-        <link>http://mrbonsoir.github.io//blog/post/2015/09/30/About-not-being-an-expert-as-a-data-scientist.html</link>
-        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2015/09/30/About-not-being-an-expert-as-a-data-scientist.html</guid>
         
         
         <category>blog</category>
