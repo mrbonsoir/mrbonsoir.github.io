@@ -23,5 +23,5 @@ Graph database was mentioned and I could like to hear more about it. Especially 
 First impressions
 To be short there were mostly good impressions. Different people, different backgrounds but similar challenges as archiving, digital preservation, curation are. Multidisciplinary as I like it.
 
-[link-IST]: http://www.imaging.org/ist/about/
+[link-IST]: http://www.imaging.org/
 [link-IIS]: http://www.iis.fraunhofer.de/en.html
