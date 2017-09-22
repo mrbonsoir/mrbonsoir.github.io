@@ -9,17 +9,18 @@
 title: A color scientist on internet
 email: jeremie-dot-gerhardt-at-gmail-dot-com
 description: > # this means to ignore newlines until "baseurl:"
-  Jérémie Gerhardt or mrbonsoir is sharing his experience as a color scientist. He 
+  Jérémie Gerhardt or mrbonsoir is sharing his experience as a color scientist. He
   talks about the different projects he is conducting, taking part or simply interested
-  in as well as sharing his notes about the conferences he is attending. The topics discussed 
-  are often located at the crossroad of color science, computer vision, VR, immersive cinema... 
-  What he tries to do is to popularize color science and to avoid taking too much about him 
+  in as well as sharing his notes about the conferences he is attending. The topics discussed
+  are often located at the crossroad of color science, computer vision, VR, immersive cinema...
+  What he tries to do is to popularize color science and to avoid taking too much about him
   at the third person because it's weird.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mrbonsoir.github.io/" # the base hostname & protocol for your site
 twitter_username: mrbonsoir
 github_username:  mrbonsoir
+#linkedin_username: jeremiegerhardt
 
 # Build settings
 markdown: kramdown
