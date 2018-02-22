@@ -2,13 +2,185 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A color scientist on internet</title>
-    <description>Jérémie Gerhardt or mrbonsoir is sharing his experience as a color scientist. He  talks about the different projects he is conducting, taking part or simply interested in as well as sharing his notes about the conferences he is attending. The topics discussed  are often located at the crossroad of color science, computer vision, VR, immersive cinema...  What he tries to do is to popularize color science and to avoid taking too much about him  at the third person because it&#39;s weird.
+    <description>Jérémie Gerhardt or mrbonsoir is sharing his experience as a color scientist. He talks about the different projects he is conducting, taking part or simply interested in as well as sharing his notes about the conferences he is attending. The topics discussed are often located at the crossroad of color science, computer vision, VR, immersive cinema... What he tries to do is to popularize color science and to avoid taking too much about him at the third person because it's weird.
 </description>
-    <link>http://mrbonsoir.github.io//</link>
-    <atom:link href="http://mrbonsoir.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Apr 2016 16:08:32 +0200</pubDate>
-    <lastBuildDate>Thu, 07 Apr 2016 16:08:32 +0200</lastBuildDate>
-    <generator>Jekyll v3.0.3</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 22 Feb 2018 17:20:47 -0500</pubDate>
+    <lastBuildDate>Thu, 22 Feb 2018 17:20:47 -0500</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>One Year in a startup</title>
+        <description>&lt;h2 id=&quot;a-year-already&quot;&gt;A year already&lt;/h2&gt;
+
+&lt;p&gt;One year in the same company, two countries and many more new stuffs learned during that time.&lt;/p&gt;
+
+&lt;p&gt;Let’s re-introduce myself. I’m a color scientist and I have worked on various projects in the past 10 years, all of them having in common a signal to be processed, often the signal being an image visible by a human observer.&lt;/p&gt;
+
+&lt;p&gt;I’m doing now r&amp;amp;d in a startup in Montréal, working on image quality and perceptual display. Being in a startup with experienced colleagues is a pretty good setup.&lt;/p&gt;
+
+&lt;p&gt;On one side learning and improving an algorithm to improve image quality. The research point of view allows you to optimize, implement this algorithm. The goals are image quality and feasibility. You take your Matlab, your python, your pen and paper, process images, compute differences, eventually run psychophysic experiments, anything that can be done not in real time.&lt;/p&gt;
+
+&lt;p&gt;As I said I’m working in as startup (&lt;a href=&quot;https://http://www.irystec.com/&quot;&gt;IRYStec&lt;/a&gt;) and the challenge is to be able to quickly port a research project into production. Running your algorithm on your desktop computer is different than running it on a portable device in real time with more than one display technology… But that’s where it’s interesting too and that’s where you/I learn new stuffs.&lt;/p&gt;
+
+&lt;h2 id=&quot;keep-learning&quot;&gt;Keep learning&lt;/h2&gt;
+
+&lt;p&gt;Interesting because you have to learn new tools, here programming tools like openGL in order to program shader, re-think your algorithm for applying it in real time on a different hardware. And usually it’s less powerful than what you were used too… But it can help because it forces you to tackle your problem with another angle. You started with image processing, human vision system, perceptual display, JND and you finish with computer vision, electronic, hdr and shader programming.&lt;/p&gt;
+
+&lt;p&gt;The evaluation of your work is different too. You don’t validate your solution with the same criteria if your are in research or in production. It seems obvious but your algorithm - if it has something to do with human vision - has quality cost (you want your image to be better or the original quality preserved such that perceptually the difference isn’t noticeable) and processing cost (if applying your new algorithm improves the visual quality but can only be ran at 10 fps it’s also a quality issue).&lt;/p&gt;
+
+&lt;p&gt;Luckily you are not supposed to do everything, you and your colleagues have different skills, but you both should have crossover knowledge. Your supervisor should be able to fill the gap at the beginning or it’s like having two groups speaking a different language trying to solve the same problem hoping that magically they will understand each other. Understanding a minimum of how your office neighbor is working is more than relevant. It’s like your are on a fast car trying to catch a train and are looking for the jump that will help your to land and this moving train (this a beautiful picture of research and production).&lt;/p&gt;
+
+&lt;h2 id=&quot;kafkaesque-bonus-track-oled-vs-lcd&quot;&gt;Kafkaesque bonus track, OLED vs LCD&lt;/h2&gt;
+
+&lt;p&gt;OLED is trying to take over the world dominated by LCD technology. The big name are slowly switching to this technology. You can be almost sure that the middle names will follow until a new display technology arrives on the market. Take that planned obsolescence.&lt;/p&gt;
+
+&lt;p&gt;What is confusing for consumers and researchers/engineers like me is the fact that two distinct TV displays can reach the same quality standard. Standard defined by experts, people from the industry. Standard saying these TVs have the same quality, also they produce different visual experience…&lt;/p&gt;
+
+&lt;p&gt;It’s safe to say that if your setup is dark, no parasite lights around your TV, you may choose an OLED display to exploit the good &lt;em&gt;behavior&lt;/em&gt; of OLED in dark level, a pixel to 0 don’t produce light.&lt;/p&gt;
+
+&lt;p&gt;It’s also safe to say that if your setup is quite bright, you will need a pretty bright display to compensate the ambient parasite light, therefore you may choose an LCD TV display. LCD are usually brighter than OLED, but it’s relevant to distinguish between OLED TV display and portable OLED display…&lt;/p&gt;
+
+&lt;p&gt;And we talk later about HDR which is pretty fun too. Especially when a device is said to be &lt;em&gt;HDR ready&lt;/em&gt; and is actually not an HDR display but a device that can perform &lt;em&gt;video tone mapping&lt;/em&gt; which is the action of mapping HDR content to a regular (or LDR) display. Here too there are plethora of HDR encoding :-)&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 06 Feb 2018 09:21:06 -0500</pubDate>
+        <link>http://localhost:4000/blog/post/2018/02/06/One-year-in-a-startup.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/post/2018/02/06/One-year-in-a-startup.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>CIC 25 in Lillehammer</title>
+        <description>&lt;p&gt;This year have seen the 25th edition of the &lt;a href=&quot;https://www.imaging.org/site/IST/Conferences/Color_and_Imaging/IST/Conferences/CIC/CIC_Home.aspx&quot;&gt;Color Imaging Conference (CIC)&lt;/a&gt;) taking place in Lillehammer (Norway) after &lt;a href=&quot;http://mrbonsoir.github.io/blog/post/2016/11/12/CIC-in-San_Diego.html&quot;&gt;San Diego&lt;/a&gt; (California).&lt;/p&gt;
+
+&lt;p&gt;This time again I could be part of the committee as a co-chairman for the &lt;strong&gt;Short Course&lt;/strong&gt; session. Session where conference attendees or not attendees can register and take courses (you need to pay for each course you want to follow) on carefully selected topics. Basis of color science courses are of course available but also several advance courses on different topics given by field specialists (e.g courses on hdr, color differences and other colorful themes). The instructors are usually coming from academia and/or industry - when their industry allows them to talk - and each course is first submitted, reviewed and/or not accepted.&lt;/p&gt;
+
+&lt;h3 id=&quot;back-to-norway&quot;&gt;Back to Norway&lt;/h3&gt;
+
+&lt;p&gt;I have been visiting Norway regularly after I left Gjovik in 2008 and its &lt;a href=&quot;https://www.ntnu.edu/colourlab&quot;&gt;colorlab&lt;/a&gt; (a few km South of Lillehammer) where I did my PhD on multispectral color reproduction. It was something to come back in the lab, seeing old colleagues, seeing that the color lab did grow nicely and was heavily represented at the conference.&lt;/p&gt;
+
+&lt;h3 id=&quot;general-overview&quot;&gt;General overview&lt;/h3&gt;
+
+&lt;p&gt;Over the years you appreciate the conference with different perspectives. Now that I know a bit more about my field - color science - I can witness that each sub-field is evolving slowly, appreciate tiny changes, observe the increase of general knowledge. There is always something.&lt;/p&gt;
+
+&lt;h3 id=&quot;human-perception-and-colour-constancy&quot;&gt;Human perception and colour constancy&lt;/h3&gt;
+
+&lt;p&gt;Keynotes, first and second have been pretty interesting. The first one given by Apple - almost did coincide with the Apple event in California - was impressive and disturbing in the same time. Impressive because of the amount of advanced technology they are able to squeeze into a smartphone. Disturbing by the non research dissemination they are doing. They have a great team of researchers and engineers but all the knowledge stay at work, not sure it will make the people smarter at the end. I’m sure they are not the only company doing that, but they are so big the result of such behavior has an impact.&lt;/p&gt;
+
+&lt;p&gt;Second keynote was entitled &lt;em&gt;Twenty-five Years of Colour Constancy&lt;/em&gt; given by &lt;a href=&quot;http://www.ncl.ac.uk/ion/staff/profile/anyahurlbert.html#background&quot;&gt;Anya Hurlbert from Newcastle University (UK)&lt;/a&gt;. Needless to say it was pretty entertaining, a the typical presentation that make you feel smarter at the end. &lt;a href=&quot;https://en.wikipedia.org/wiki/Color_constancy&quot;&gt;Colour constancy&lt;/a&gt; is a fascinating phenomena which can be understood as white balancing done by the brain. We have not all the same automatic white balance algorithm embedded with us, this resulting
+endless discussion on object color, remember the blue-black/yellow-white dress-gate a few month ago?&lt;/p&gt;
+
+&lt;h3 id=&quot;subjective-evaluation-image-metrics-and-database&quot;&gt;Subjective evaluation, image metrics and database&lt;/h3&gt;
+
+&lt;p&gt;There are so many metrics it’s becoming difficult to follow on that topic. To have a idea have a look at the &lt;a href=&quot;http://www.ponomarenko.info/tid2013.htm&quot;&gt;Tampere Image Database TID203&lt;/a&gt;. Each of them is trying to mimic how human perception is working, allowing to evaluate image difference, predict how image quality will be perceived when a new algorithm is applied to images.&lt;/p&gt;
+
+&lt;p&gt;A solution is to follow an experimental workflow which integrate feedback from standard real observers. A panel of test persons is asked to look at images, original and modified and to compare them. Notion of &lt;a href=&quot;https://en.wikipedia.org/wiki/Just-noticeable_difference&quot;&gt;just noticeable difference (JND)&lt;/a&gt; is of course very important here. In that case subjective evaluation is often chosen, but here are well they is plenty of existing experimental workflows to choose from.&lt;/p&gt;
+
+&lt;h3 id=&quot;human-vs-bird-viewing-system&quot;&gt;Human vs bird viewing system&lt;/h3&gt;
+
+&lt;p&gt;Going to the same conference each year sometimes shows you how alone are  researchers. Most of them are spending their life on one topic and they become hyper specialist. A conference is the occasion for them to leave their laboratory, office and to share their discoveries (in that case other color scientists).&lt;/p&gt;
+
+&lt;p&gt;A peculiar article tilted &lt;em&gt;Super Vision Model: What’s Peking Robin Seeing?&lt;/em&gt; by researcher Hiroaki Kotera from Kotera Imaging Laboratory, Chiba, Japan was pretty cool. This research work looked at birds (the Peking Robin) and their visual system: they are tetra-chromate &lt;em&gt;RGBU&lt;/em&gt; when we are tri-chromate &lt;em&gt;RGB&lt;/em&gt;. Question being how these animals see colors? &lt;em&gt;Four sensors and tiny brain Vs us three sensors and bigger brain that allows to post-process the signal and compensate for a lower captor resolution&lt;/em&gt; or how nature optimizes living organism for dedicated tasks within an ecosystem. The non-visible sensor allowing this bird to evaluate more precisely the quality of food (e.g. is this fruit already rotten or not?). A parallel can be done with computational photography when the algorithms and post-processing present in smartphone can compensate for their lower quality hardware (to some extend) compare to high-end dslr.&lt;/p&gt;
+
+&lt;h3 id=&quot;workshop-session&quot;&gt;Workshop session&lt;/h3&gt;
+
+&lt;p&gt;I could attend only two of the three parallel workshop sessions. interesting on many points. Both workshops &lt;em&gt;W2: VISUAL PERCEPTION AND EMERGING TECHNOLOGIES IN CINEMA: PERSPECTIVES FROM ACADEMIA AND THE INDUSTRY&lt;/em&gt; and &lt;em&gt;W3: CULTURAL HERITAGE DIGITIZATION: CHALLENGES AND OPPORTUNITIES&lt;/em&gt; shared cutting edge used of technologies. More important they allow to have discussions between professionals from different entities without revealing company secrets.&lt;/p&gt;
+
+&lt;h3 id=&quot;la-suite&quot;&gt;La suite&lt;/h3&gt;
+
+&lt;p&gt;Hope to be part of next year edition in 2018. For now the next destination hasn’t been revealed, but according to recent tradition it should return to North America.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 15 Sep 2017 20:21:06 -0400</pubDate>
+        <link>http://localhost:4000/blog/post/2017/09/15/CIC-Lillehammer.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/post/2017/09/15/CIC-Lillehammer.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>Notes on NLP and color</title>
+        <description>&lt;p&gt;This post is a never ending story and a follow up on a previous article on &lt;a href=&quot;http://mrbonsoir.github.io/blog/post/2014/05/28/Graph-en-stock.html&quot;&gt;graph and NoSql&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-to-organize-my-research&quot;&gt;How to organize my research?&lt;/h3&gt;
+&lt;p&gt;I started to work on a few projects the last two months, projects involving color science, color space, finding the right JNDs (or Just Noticeable Differences) for our algorithms, display modeling and more.&lt;/p&gt;
+
+&lt;p&gt;As usual with this type of R&amp;amp;D projects there is a bibliography stage in order to figure out what you understand about the topic and what have the people done about it. Pretty fast you are making cross references and identify which papers, authors, keywords are important to that topic. If you want to really understand and go further you need to read/re-do all of this work.&lt;/p&gt;
+
+&lt;h3 id=&quot;déjà-view&quot;&gt;Déjà view&lt;/h3&gt;
+&lt;p&gt;One more time when I’m facing this working situation where I’m missing a tool to represent the interactions between those publications. If you write a research article you pretty much have the connections between the works of others in your head, basically who is referring to whom, you tell your story while adding references in your writing instead of drawing a genealogy research tree. Having in my hand a tool to kind of visualize those connections will be nice as a support, something between illustration and text.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-database&quot;&gt;The database&lt;/h3&gt;
+&lt;p&gt;A research article has always its sources listed with it, each source having as well links to other articles. The question I’m often facing is how do I build my DB - which I already have, e.g. &lt;strong&gt;bib&lt;/strong&gt; file containing a list of references with &lt;em&gt;year&lt;/em&gt;, &lt;em&gt;authors&lt;/em&gt;, &lt;em&gt;reference title&lt;/em&gt; and more - in order to request information I can’t directly see but only briefly grasp?&lt;/p&gt;
+
+&lt;h3 id=&quot;the-requests-and-the-wishes&quot;&gt;The requests and the wishes&lt;/h3&gt;
+&lt;p&gt;Regarding the requests I know what are the question I would like to have the answer from my DB:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;what is the degree of relationship between author A and author B.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In term of Natural Language Processing (NLP) I would be also really interesting to compare words used by different group of researchers. Ideally I could like to create:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;graphs of connections between researchers based on their publications&lt;/li&gt;
+  &lt;li&gt;graphs of keywords to visualize how fields and sub-fields are represented.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 10 Apr 2017 14:21:06 -0400</pubDate>
+        <link>http://localhost:4000/blog/post/2017/04/10/Notes-on-NLP-and-color.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/post/2017/04/10/Notes-on-NLP-and-color.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>CIC 2016 in San Diego</title>
+        <description>&lt;p&gt;The &lt;a href=&quot;https://www.imaging.org/site/IST/Conferences/Color_and_Imaging/IST/Conferences/CIC/CIC_Home.aspx&quot;&gt;Color Imaging Conference&lt;/a&gt; just ended. This year it took place in San Diego CA and once again a good event! For the fourth time in a row I did join this event as a co-chair, this time for the &lt;strong&gt;short course&lt;/strong&gt; session that usually takes place the whole day before the conference program.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-did-we-learn-this-year&quot;&gt;What did we learn this year?&lt;/h3&gt;
+
+&lt;p&gt;After attending many of this conference editions it’s easy to think that the field doesn’t move fast enough. But it’s not true, it’s going forward and it’s always a good exercise to de-construct or re-build the reasoning behind the presentations given by the different researchers and scientists.&lt;/p&gt;
+
+&lt;h3 id=&quot;wide-gamut-vs-hdr-display&quot;&gt;Wide gamut vs hdr display&lt;/h3&gt;
+
+&lt;p&gt;What I keep in my head this year are the discussions about display. I could join a particularly interesting course about &lt;strong&gt;color grading&lt;/strong&gt;, &lt;strong&gt;post-production&lt;/strong&gt; where attention was put on the following point: what are we talking about when we talk about &lt;strong&gt;wide gamut&lt;/strong&gt; and &lt;strong&gt;hdr display&lt;/strong&gt;? The question actually came during the course.&lt;/p&gt;
+
+&lt;p&gt;The movie industry and especially the production and post-production parts offer a live laboratory to observe where the applied color science is going. It’s a battle where people try to bring the most realistic experience to the spectators in cinema theater or at home.&lt;/p&gt;
+
+&lt;p&gt;The workflow developed for each movie is often on the verge of what is existing as often a unified commercial solution is not there yet, so you have to build it: one want to have more color and extend the gamut, one want to have an higher fps, another want to have a bigger dynamic of intensity, you see the challenges here.&lt;/p&gt;
+
+&lt;h3 id=&quot;personalized-display&quot;&gt;Personalized display&lt;/h3&gt;
+
+&lt;p&gt;Display is obviously a very hot topic of these days. The understanding we have now of how the human visual system works, human color perception, the possibility to evaluate one’s vision ability depending of your age, gender and many more factors is a golden mine.&lt;/p&gt;
+
+&lt;p&gt;This means that &lt;strong&gt;each display content can be optimized&lt;/strong&gt; to each viewer. In some configuration it can be super important. If you take the car industry where displays are more and more present to help the driver, optimizing the displayed images such that the driver can get the most important information is essential for its safety and the people around.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 11 Nov 2016 19:01:06 -0500</pubDate>
+        <link>http://localhost:4000/blog/post/2016/11/11/CIC-in-San_Diego.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/post/2016/11/11/CIC-in-San_Diego.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>post</category>
+        
+      </item>
     
       <item>
         <title>Working with noise control</title>
@@ -23,9 +195,9 @@
 &lt;p&gt;Coming from the field of color science, computer vision, VR stuffs I find this kind of app extremely simple and super immersive. Video game designers didn’t wait for me to incorporate sound into their games to increase their immersive factor.&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 05 Apr 2016 15:01:06 +0200</pubDate>
-        <link>http://mrbonsoir.github.io//blog/post/2016/04/05/Working-with-noise.html</link>
-        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2016/04/05/Working-with-noise.html</guid>
+        <pubDate>Tue, 05 Apr 2016 09:01:06 -0400</pubDate>
+        <link>http://localhost:4000/blog/post/2016/04/05/Working-with-noise.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/post/2016/04/05/Working-with-noise.html</guid>
         
         
         <category>blog</category>
@@ -49,9 +221,9 @@
 &lt;p&gt;And the last funny observation for is the abitlity to re-invet the wheel by tech companies. It’s possible to share your uber/lyft ride with other passangers, something between a bus and taxi. Something very similar to the aluguers in Capo Verde.&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 19 Mar 2016 22:25:06 +0100</pubDate>
-        <link>http://mrbonsoir.github.io//blog/post/2016/03/19/Ubersitation.html</link>
-        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2016/03/19/Ubersitation.html</guid>
+        <pubDate>Sat, 19 Mar 2016 17:25:06 -0400</pubDate>
+        <link>http://localhost:4000/blog/post/2016/03/19/Ubersitation.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/post/2016/03/19/Ubersitation.html</guid>
         
         
         <category>blog</category>
@@ -101,9 +273,9 @@ please contact me jeremie[point]gerhardt[at]gmail[point]com .&lt;/p&gt;
 &lt;p&gt;Check the conference webpage &lt;a href=&quot;https://www.imaging.org/site/IST/Conferences/Color_and_Imaging/IST/Conferences/CIC/CIC_Home.aspx?hkey=d2cf3f19-87b4-4164-8274-c40180e9dfa7&quot;&gt;Color Imaging Conference&lt;/a&gt; where there is much more to discover than the few lines above.&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 15 Mar 2016 10:25:06 +0100</pubDate>
-        <link>http://mrbonsoir.github.io//blog/post/2016/03/15/From-IRL-to-VR.html</link>
-        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2016/03/15/From-IRL-to-VR.html</guid>
+        <pubDate>Tue, 15 Mar 2016 05:25:06 -0400</pubDate>
+        <link>http://localhost:4000/blog/post/2016/03/15/From-IRL-to-VR.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/post/2016/03/15/From-IRL-to-VR.html</guid>
         
         
         <category>blog</category>
@@ -113,14 +285,14 @@ please contact me jeremie[point]gerhardt[at]gmail[point]com .&lt;/p&gt;
       </item>
     
       <item>
-        <title>Ca continue aujourd&#39;hui</title>
+        <title>Ca continue aujourd'hui</title>
         <description>&lt;p&gt;With the help of my little fingers I finally open a second blog more decicated to my field of work. Color science in case… So far I only repost and correct some typo mistakes from my other blog &lt;a href=&quot;http://mrbonsoir.blogspot.com&quot;&gt;mrbonsoir à l’internet&lt;/a&gt; when I was talking about conference trips, workhsop. This to separate the &lt;em&gt;real&lt;/em&gt; me
 and the &lt;em&gt;working&lt;/em&gt; me.&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 04 Mar 2016 16:25:06 +0100</pubDate>
-        <link>http://mrbonsoir.github.io//blog/post/2016/03/04/Ca-continue-aujourdhui.html</link>
-        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2016/03/04/Ca-continue-aujourdhui.html</guid>
+        <pubDate>Fri, 04 Mar 2016 10:25:06 -0500</pubDate>
+        <link>http://localhost:4000/blog/post/2016/03/04/Ca-continue-aujourdhui.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/post/2016/03/04/Ca-continue-aujourdhui.html</guid>
         
         
         <category>blog</category>
@@ -144,9 +316,9 @@ and the &lt;em&gt;working&lt;/em&gt; me.&lt;/p&gt;
 &lt;p&gt;La suite dans le futur.&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 02 Mar 2016 16:58:06 +0100</pubDate>
-        <link>http://mrbonsoir.github.io//blog/post/2016/03/02/algo-in-mobile-phone-camera.html</link>
-        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2016/03/02/algo-in-mobile-phone-camera.html</guid>
+        <pubDate>Wed, 02 Mar 2016 10:58:06 -0500</pubDate>
+        <link>http://localhost:4000/blog/post/2016/03/02/algo-in-mobile-phone-camera.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/post/2016/03/02/algo-in-mobile-phone-camera.html</guid>
         
         
         <category>blog</category>
@@ -162,105 +334,9 @@ and the &lt;em&gt;working&lt;/em&gt; me.&lt;/p&gt;
 &lt;p&gt;Everything is &lt;a href=&quot;https://github.com/mrbonsoir/random_notebooks&quot;&gt;here&lt;/a&gt; and maybe it will be of some people interests, or not.&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 17 Feb 2016 17:15:06 +0100</pubDate>
-        <link>http://mrbonsoir.github.io//blog/post/2016/02/17/a-glimpse-of-code.html</link>
-        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2016/02/17/a-glimpse-of-code.html</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>post</category>
-        
-      </item>
-    
-      <item>
-        <title>Some data about a data conference</title>
-        <description>&lt;p&gt;I had the chance to attend the [Data Natives][link-datanatives] 2015 event last week in Berlin. A first time event having for topics FinTech, IoT and of course Big Data. I heard some interesting talks but also less interesting ones. You can still hear people having the dream of forecasting anything with the help of more data, but with often the feeling it’s only in order to sale more stuffs. I haven’t got the life improvement that suppose to go with Big Data (e.g. mass surveillance doesn’t work obviously).&lt;/p&gt;
-
-&lt;p&gt;But here and there you can sometimes hear someone talking about a project that hold your attention. For me the most interesting aspect is the inter-disciplinary or multi-disciplinary aspect of the data. To achieve something relevant or meaningful with all the available information, you need to be able to define first what is the problem you are trying to solve (and yes I have a degree in opening open door).&lt;/p&gt;
-
-&lt;p&gt;Four presentations are still in my head, one using NLP to pre-sort a lot of CV (from HitFox during the first day of the program) and a second using computer vision to automatically give feedback on webpage design (from EyeQuant last talk of the second day). Actually for the last one their talk was much wider than this single problem.&lt;/p&gt;
-
-&lt;p&gt;About IoT and FinTech is wasn’t really impressive. Actually the only striking aspect is that the same tools are used whatever is your field of work (like data science / analytic / finance): you accumulate data, you trying to find information and pattern into them, this in order to derive model to make prediction. And without surprises the most interesting talks about FinTech came from the people involved in the Bitcoin economy / technology (Blockchain and &lt;a href=&quot;https://www.ascribe.io/&quot;&gt;ascribe Gmbh&lt;/a&gt;). Maybe the banks have some cool stuffs to talk about, but they weren’t really present.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 24 Nov 2015 17:37:06 +0100</pubDate>
-        <link>http://mrbonsoir.github.io//blog/post/2015/11/24/Some-data-about-data-conference.html</link>
-        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2015/11/24/Some-data-about-data-conference.html</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>post</category>
-        
-      </item>
-    
-      <item>
-        <title>Data conference coming!</title>
-        <description>&lt;p&gt;I’m interested in knowing, observing how my field - applied research, technology, imaging, innovation… whatever you call it - is evolving. Working full time on one project is of course a good solution to see what’s going on, but it’s also taking the risk of being stock in daily routines. In that sens it’s always wise to have a look of what your neighbors, competitors are doing, how they try to solve the same problem you are working on.&lt;/p&gt;
-
-&lt;p&gt;From my own experience I know that we - let’s call us/me applied/data scientist - are very fast categorized in sub-fields, as experts and that it is sometimes difficult to extract yourself from the prism of how people are perceiving what you can do. Having said that, to be able to attend events, meet a new crowd, hopefully interesting people, exchange information, re-present yourself, feel how an industry is growing is something vital.&lt;/p&gt;
-
-&lt;p&gt;A few days ago I did spot an event &lt;a href=&quot;http://datanatives.io/&quot;&gt;Data Natives&lt;/a&gt; scheduled in Berlin the coming 19-20 of November 2015. The keywords combination used to introduce the program is almost too perfect: IoT (internet of thing),  FinTech (Financial Technology and not tech from Finland which sounds pretty cool too) and Big Data of course. Needless to say that I’m pretty excited to attend this conference!&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 02 Nov 2015 14:35:06 +0100</pubDate>
-        <link>http://mrbonsoir.github.io//blog/post/2015/11/02/Data-conference-coming.html</link>
-        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2015/11/02/Data-conference-coming.html</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>post</category>
-        
-      </item>
-    
-      <item>
-        <title>Personal insights on color science</title>
-        <description>&lt;h3 id=&quot;context&quot;&gt;Context&lt;/h3&gt;
-&lt;p&gt;In a &lt;a href=&quot;http://mrbonsoir.github.io/blog/post/2015/10/23/CIC-visiting-Darmstadt.html&quot;&gt;previous post&lt;/a&gt; I talked about the last event in my field I did attend. Now I want to talk about my perception of this domain which is called color science. I’m pretty sure it can be applied to other fields of research as well.&lt;/p&gt;
-
-&lt;p&gt;From the first time I joined this community, from article reader, article contributor to reviewer, committee member and session chair my understanding of what is color science has evolved. One important thing is to stay humble, especially with the new comers. I have been one them, it was impressive. Impressive because you meet the people, authors of research articles that are part of the foundation of you work. You can add a person, a voice to written words, it’s actually pretty cool.&lt;/p&gt;
-
-&lt;p&gt;There aren’t thousand concepts to understand/enter the world of color science. Like in every fields it’s about observation and trying to explain what’s happening. But here it’s all about light - its spectral properties - how we perceive this signal - a single light source to an image in the visible spectrum - and how can we develop robust scientific/engineering &lt;em&gt;stuffs&lt;/em&gt; around it. What I find interesting is to witness what is the new thing coming each year, how a technical improvement can open a door for further applications.&lt;/p&gt;
-
-&lt;h3 id=&quot;color-trends&quot;&gt;Color trends&lt;/h3&gt;
-&lt;p&gt;Among the research sub-fields presented at CIC this year I want to come back on four of them.&lt;/p&gt;
-
-&lt;p&gt;There is the recurrent discussion about color metrics, from a purely mathematical/geometrical approach to a more perception-wise approach trying to add an average human appreciation of the difference between two signals. Having a good metric is always helpful to evaluate your algorithm/experiment. Over the years the metrics are evolving, context is important (from display calibration to color textile differences…).&lt;/p&gt;
-
-&lt;p&gt;There is the what I call &lt;em&gt;purely geometrical approach&lt;/em&gt; discussion where having a signal as vector of n values - for n wavelength -  a group of sensors - basic configuration made of three basis like RGB basis - you want to know the value of this signal once projected on the known basis/sensors. From that you can jump into optimization, addressing various problems such as finding the scene illuminant/white point, study metamerism. It seems obvious but it’s not.&lt;/p&gt;
-
-&lt;p&gt;There is printing and 3D printing - there I meant color 3D printing. Just think of how to design a color test-chart for such printing system. HDR display is also coming stronger than ever. What is interesting with these two examples is that they both require to know your workflow, they are the “end” of a process chain: you need to understand the acquisition process to do a good reproduction. Understanding the use of the technology is obviously required.&lt;/p&gt;
-
-&lt;p&gt;On the last paragraph one can add the understanding of gamut mapping and how you “move” into your color space as something very important. For printers you have multi-inks system changing the shape of the color space available. For high resolution TV and HDR screen the color gamut shape may not change a lot - almost - but the variability of screen size, intensity scale, technology available make it difficult - to be understood as something cool and challenging for me - to offer a comfortable experience to the user among the different platforms.&lt;/p&gt;
-
-&lt;p&gt;Now that I’m a bit more in control with the tools/concepts in my field and sub-fields I have the tendency to prefer the projects combining several concepts - like high quality printing and movie post-production - and I always appreciate to hear how the authors are presenting their projects, which story they are telling us.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 25 Oct 2015 17:37:06 +0100</pubDate>
-        <link>http://mrbonsoir.github.io//blog/post/2015/10/25/Personal-insights-on-color-science.html</link>
-        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2015/10/25/Personal-insights-on-color-science.html</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>post</category>
-        
-      </item>
-    
-      <item>
-        <title>CIC visiting Darmstadt</title>
-        <description>&lt;p&gt;What is CIC you may ask yourself? It’s stand for &lt;a href=&quot;http://www.imaging.org/site/IST/Conferences/Color_and_Imaging/IST/Conferences/CIC/CIC_Home.aspx?hkey=d2cf3f19-87b4-4164-8274-c40180e9dfa7&quot;&gt;Color Imaging Conference&lt;/a&gt;, a conference about color and imaging. This year it took place in Darmstadt DE. The last 22 editions always took place in the US, last year it was in Boston MA, two years ago in Albuquerque NM, three years ago in Los Angeles CA, four years ago in San Antonio TX and that’s it for my involvement. Next stop is San Diego CA in November 2016.&lt;/p&gt;
-
-&lt;p&gt;I’m a regular attendee, I joined this community already ten years ago alternating between CGIV, &lt;a href=&quot;http://www.aic-colour.org/&quot;&gt;AIC&lt;/a&gt;, &lt;a href=&quot;http://www.imaging.org/ist/Conferences/ei2016/&quot;&gt;EI&lt;/a&gt; and CIC. Depending of the event you will meet a slightly different crowd or so to say different crowds will meet allowing to go deeper in the various fields represented. But for sure it’s about imaging, color, perception, printing, archiving, image acquisition, color management, camera and display calibration, gamut mapping and more.&lt;/p&gt;
-
-&lt;p&gt;This year almost 200 persons were attending the event in Darmstadt. There is a kind of routine in such event and being part of the committee allows you to see the people interaction with a special look. It’s very special to see the attendees - former colleagues, friends, known members of this community - arriving from everywhere almost - from North America, Europe, Asia, Australia… - and being all jet-lagged. Even if you are traveling in the same time zone you will end up jet-lagged. First of all the schedule is tide and you have to use the “free” time to talk with everybody. Sharing a meal or a beer is usually very appropriate. As a result you barely have time to rest, but the kind of adrenaline you get from meeting the crème de la crème of the color scientists keeps you awake.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 23 Oct 2015 18:23:06 +0200</pubDate>
-        <link>http://mrbonsoir.github.io//blog/post/2015/10/23/CIC-visiting-Darmstadt.html</link>
-        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2015/10/23/CIC-visiting-Darmstadt.html</guid>
+        <pubDate>Wed, 17 Feb 2016 11:15:06 -0500</pubDate>
+        <link>http://localhost:4000/blog/post/2016/02/17/a-glimpse-of-code.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/post/2016/02/17/a-glimpse-of-code.html</guid>
         
         
         <category>blog</category>
