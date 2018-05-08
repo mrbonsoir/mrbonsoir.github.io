@@ -15,11 +15,12 @@ After my thesis I have been working as an applied scientist in one of the Fraunh
 I also worked in a few startups in Berlin with a mixed experience. The time spent in each of those places only allowed to start projects and sometimes didn't give me the chance to finish them, but I always learned something.
 
 ### **What else?**
-I like to believe that I'm not only an applied scientist. In that matter I also produce images here and then. Sometimes I do little planet images, you can visit my [Saatchiart page][link-saatchiart] and some of the tools I developed over the last months [little planet tools][link-randomnotebooks] . To complete the picture I can also produce moving images for regular to panorama and fully immersive display. And last but not lost least I have another blog on blogspot called [mrbonsoir à l'internet][link-blogspot].
+I like to believe that I'm not only an applied scientist. In that matter I also produce images here and then. Sometimes I do little [planet images][link-cargocollective], you can visit my [Saatchiart page][link-saatchiart] and some of the tools I developed over the last months [little planet tools][link-randomnotebooks] . To complete the picture I can also produce moving images for regular to panorama and fully immersive display. And last but not lost least I have another blog on blogspot called [mrbonsoir à l'internet][link-blogspot].
 
 [link-colorlab]: https://www.ntnu.edu/colourlab
 [link-enst]: http://www.telecom-paristech.fr/eng
 [link-blogspot]: https://mrbonsoir.blogspot.com
 [link-saatchiart]: https://www.saatchiart.com/jeremiegerhardt
+[link-cargocollective]: https://jeremiegerhardt.cargocollective.com
 [link-randomnotebooks]: https://github.com/mrbonsoir/little_planet_tools/blob/master/Making%20Little%20Planet/Making%20Little%20Planet.md
 [link-viscom]: https://www.fokus.fraunhofer.de/go/viscom
