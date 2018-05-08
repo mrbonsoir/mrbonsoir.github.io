@@ -37,4 +37,4 @@ It's also safe to say that if your setup is quite bright, you will need a pretty
 
 And we talk later about HDR which is pretty fun too. Especially when a device is said to be *HDR ready* and is actually not an HDR display but a device that can perform *video tone mapping* which is the action of mapping HDR content to a regular (or LDR) display. Here too there are plethora of HDR encoding :-)
 
-[IRYStec-link]:https://www.irystec.com/
+[IRYStec-link]:http://www.irystec.com/

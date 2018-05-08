@@ -6,9 +6,29 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Feb 2018 17:20:47 -0500</pubDate>
-    <lastBuildDate>Thu, 22 Feb 2018 17:20:47 -0500</lastBuildDate>
+    <pubDate>Tue, 08 May 2018 15:30:31 -0400</pubDate>
+    <lastBuildDate>Tue, 08 May 2018 15:30:31 -0400</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Color blindness for the people</title>
+        <description>&lt;h2 id=&quot;color-blindness&quot;&gt;Color blindness&lt;/h2&gt;
+
+&lt;h2 id=&quot;color-blindness-simulation&quot;&gt;Color blindness simulation&lt;/h2&gt;
+
+&lt;h2 id=&quot;lazyness&quot;&gt;Lazyness&lt;/h2&gt;
+
+</description>
+        <pubDate>Thu, 22 Feb 2018 09:22:06 -0500</pubDate>
+        <link>http://localhost:4000/blog/post/2018/02/22/Color-blindness-for-the-people.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/post/2018/02/22/Color-blindness-for-the-people.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>post</category>
+        
+      </item>
     
       <item>
         <title>One Year in a startup</title>
@@ -22,7 +42,7 @@
 
 &lt;p&gt;On one side learning and improving an algorithm to improve image quality. The research point of view allows you to optimize, implement this algorithm. The goals are image quality and feasibility. You take your Matlab, your python, your pen and paper, process images, compute differences, eventually run psychophysic experiments, anything that can be done not in real time.&lt;/p&gt;
 
-&lt;p&gt;As I said I’m working in as startup (&lt;a href=&quot;https://http://www.irystec.com/&quot;&gt;IRYStec&lt;/a&gt;) and the challenge is to be able to quickly port a research project into production. Running your algorithm on your desktop computer is different than running it on a portable device in real time with more than one display technology… But that’s where it’s interesting too and that’s where you/I learn new stuffs.&lt;/p&gt;
+&lt;p&gt;On the other side, as I said I’m working in as startup (&lt;a href=&quot;http://www.irystec.com/&quot;&gt;IRYStec&lt;/a&gt;) and the challenge is to be able to quickly port a research project into production. Running your algorithm on your desktop computer is different than running it on a portable device in real time with more than one display technology… But that’s where it’s interesting too and that’s where you/I learn new stuffs.&lt;/p&gt;
 
 &lt;h2 id=&quot;keep-learning&quot;&gt;Keep learning&lt;/h2&gt;
 
@@ -30,7 +50,7 @@
 
 &lt;p&gt;The evaluation of your work is different too. You don’t validate your solution with the same criteria if your are in research or in production. It seems obvious but your algorithm - if it has something to do with human vision - has quality cost (you want your image to be better or the original quality preserved such that perceptually the difference isn’t noticeable) and processing cost (if applying your new algorithm improves the visual quality but can only be ran at 10 fps it’s also a quality issue).&lt;/p&gt;
 
-&lt;p&gt;Luckily you are not supposed to do everything, you and your colleagues have different skills, but you both should have crossover knowledge. Your supervisor should be able to fill the gap at the beginning or it’s like having two groups speaking a different language trying to solve the same problem hoping that magically they will understand each other. Understanding a minimum of how your office neighbor is working is more than relevant. It’s like your are on a fast car trying to catch a train and are looking for the jump that will help your to land and this moving train (this a beautiful picture of research and production).&lt;/p&gt;
+&lt;p&gt;Luckily you are not supposed to do everything, you and your colleagues have different skills, but you both should have crossover knowledge. Your supervisor should be able to fill the gap at the beginning or it’s like having two groups speaking a different language trying to solve the same problem hoping that magically they will understand each other. Understanding a minimum of how your office neighbor is working is more than relevant. It’s like your are on a fast car trying to catch a train and are looking for the jump that will help your to land on this moving train (this a beautiful picture of research and production).&lt;/p&gt;
 
 &lt;h2 id=&quot;kafkaesque-bonus-track-oled-vs-lcd&quot;&gt;Kafkaesque bonus track, OLED vs LCD&lt;/h2&gt;
 
@@ -40,7 +60,7 @@
 
 &lt;p&gt;It’s safe to say that if your setup is dark, no parasite lights around your TV, you may choose an OLED display to exploit the good &lt;em&gt;behavior&lt;/em&gt; of OLED in dark level, a pixel to 0 don’t produce light.&lt;/p&gt;
 
-&lt;p&gt;It’s also safe to say that if your setup is quite bright, you will need a pretty bright display to compensate the ambient parasite light, therefore you may choose an LCD TV display. LCD are usually brighter than OLED, but it’s relevant to distinguish between OLED TV display and portable OLED display…&lt;/p&gt;
+&lt;p&gt;It’s also safe to say that if your setup is quite bright, you will need a pretty bright display to compensate the ambient parasite light, therefore you may choose an LCD TV display. LCD are usually brighter than OLED, but it’s important too to distinguish between OLED TV display and portable OLED display…&lt;/p&gt;
 
 &lt;p&gt;And we talk later about HDR which is pretty fun too. Especially when a device is said to be &lt;em&gt;HDR ready&lt;/em&gt; and is actually not an HDR display but a device that can perform &lt;em&gt;video tone mapping&lt;/em&gt; which is the action of mapping HDR content to a regular (or LDR) display. Here too there are plethora of HDR encoding :-)&lt;/p&gt;
 
@@ -319,24 +339,6 @@ and the &lt;em&gt;working&lt;/em&gt; me.&lt;/p&gt;
         <pubDate>Wed, 02 Mar 2016 10:58:06 -0500</pubDate>
         <link>http://localhost:4000/blog/post/2016/03/02/algo-in-mobile-phone-camera.html</link>
         <guid isPermaLink="true">http://localhost:4000/blog/post/2016/03/02/algo-in-mobile-phone-camera.html</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>post</category>
-        
-      </item>
-    
-      <item>
-        <title>A glimpse of code</title>
-        <description>&lt;p&gt;Having a lot of time pushes me - I hope - to be organised. So in an attempt to sort my data - mostly pieces of code on Python - in order to make it available when I need it I made a new github repository where I store iPython notebook with a few explanations.&lt;/p&gt;
-
-&lt;p&gt;Everything is &lt;a href=&quot;https://github.com/mrbonsoir/random_notebooks&quot;&gt;here&lt;/a&gt; and maybe it will be of some people interests, or not.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 17 Feb 2016 11:15:06 -0500</pubDate>
-        <link>http://localhost:4000/blog/post/2016/02/17/a-glimpse-of-code.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/post/2016/02/17/a-glimpse-of-code.html</guid>
         
         
         <category>blog</category>
