@@ -6,9 +6,57 @@
 </description>
     <link>http://mrbonsoir.github.io//</link>
     <atom:link href="http://mrbonsoir.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 May 2018 15:36:53 -0400</pubDate>
-    <lastBuildDate>Tue, 08 May 2018 15:36:53 -0400</lastBuildDate>
+    <pubDate>Wed, 09 May 2018 16:09:55 -0400</pubDate>
+    <lastBuildDate>Wed, 09 May 2018 16:09:55 -0400</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Reproducible research</title>
+        <description>&lt;p&gt;To continue on sharing my longest work experience in a startup - &lt;a href=&quot;http://www.irystec.com/&quot;&gt;IRYStec&lt;/a&gt; in Montreal - I will talk today about &lt;a href=&quot;https://en.wikipedia.org/wiki/Reproducibility&quot;&gt;reproducible research&lt;/a&gt; and more how to concretely achieve it.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-struggle-continues&quot;&gt;The struggle continues&lt;/h2&gt;
+
+&lt;p&gt;First of all I’m lucky enough to be able to continue research activities since I finish my Phd in 2007, I’m employed as senior color scientist after all, meaning not only I have research projects but I can also communicate some aspects of it. In other words I’m allowed submit parts of my work to conferences and therefore make some of our research available to the people.&lt;/p&gt;
+
+&lt;h2 id=&quot;making-tools&quot;&gt;Making tools&lt;/h2&gt;
+
+&lt;p&gt;Doing research you spent a lot of time developing tools, frameworks to ease the conduct of experiments and to facilitate the reproduction of those experiments. What you certainly don’t want is that the same command to run a function or a script gives you each time different results.&lt;/p&gt;
+
+&lt;p&gt;Working in a startup where all the teams are in the same office gives you the chance to be closer to your colleagues and their specialities. My colleagues developers for whom the challenge - one of them - is to translate the work of the research team, advanced prototypes into a product. This means re-building something to make it stable and reproducible.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-magic&quot;&gt;The magic&lt;/h2&gt;
+
+&lt;p&gt;Changing habits is difficult but learning new tools is fun too, hard at the beginning but so rewarding after you improved something. The motivation to try and/or learn something new can comes from different sources. Often it’s driven by laziness, you know that this framework, this set of guidelines will make you gain time, so you learn it.&lt;/p&gt;
+
+&lt;p&gt;I’m using git for a while but until recently in a very simple fashion. Working in a team made me realised the power of git, the various configurations I met made me see that, working alone on a project versus working in collaboration to others.&lt;/p&gt;
+
+&lt;h2 id=&quot;more-hocus-pocus-and-wizzardy&quot;&gt;More hocus pocus and wizzardy&lt;/h2&gt;
+
+&lt;p&gt;More magic happen when I went digging into &lt;a href=&quot;https://en.wikipedia.org/wiki/Docker_(software)&quot;&gt;docker&lt;/a&gt;. I was looking for a better solution than &lt;a href=&quot;http://docs.python-guide.org/en/latest/dev/virtualenvs/&quot;&gt;Python virtual environment&lt;/a&gt; which is already a huge step into improving your Python development skills, controlling on your working environment. I’m usually prototyping with the head in &lt;a href=&quot;http://jupyter.org/&quot;&gt;Jupyter notebook&lt;/a&gt;, once again working alone it’s fine, but as soon as you want to share you work with someone else the trouble starts as we almost always don’t have the same working environment (linux, mac, windows…). We may use the same Python version but not exactly with the same list of modules or external softwares installed on your machine. A long list of little differences that can compromise the reproducibility of your work.&lt;/p&gt;
+
+&lt;p&gt;After some googling, I came back to my colleagues and start to question them to help me to setup a reproducible working environment for Python and a jupyter notebook. I thought of jupyter notebook server, but being not completely convinced we looked into the docker direction. I’m still amazed with the results. We came a up a solution inspired from existing solutions that suits me: create a docker with Ubuntu, with the necessary Python modules, the possibility to run a Jupyter notebook server in the docker while accessing local notebooks and data. In other other words you control you data as usual, but the working environment is totally transportable, as today I can work at the office on my remote desktop running Ubuntu or being outside on my Mac and being sure I have the same working environment everywhere.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-is-it-cool-for-research&quot;&gt;Why is it cool for research?&lt;/h2&gt;
+
+&lt;p&gt;It’s a topic more visible in research publications. Many of us are running experimentations on a computer, but each of us uses slightly different setups. It’s extremely frustrating to read the work of another researcher that is public, article available, data available, code totally or partially available, you run some code and you don’t obtain the same results when you are lucky to be able to run something.&lt;/p&gt;
+
+&lt;p&gt;I can only see benefit in sharing - when it’s possible - also the tools used to obtain you results, not only the equations and results, the code and working environment too. In the same spirit I often enjoy visiting conferences which are covering slightly different domains to my own expertise. Sometimes the way a problem is solved will give you a hint on how to solve another problem. On those beautiful ideas I stop.&lt;/p&gt;
+
+&lt;h2 id=&quot;petit-à-petit-loiseau-fait-son-nid&quot;&gt;Petit à petit l’oiseau fait son nid&lt;/h2&gt;
+
+&lt;p&gt;Therefore I created this new repository I called &lt;a href=&quot;https://github.com/mrbonsoir/researchlab/&quot;&gt;researchlab&lt;/a&gt; (to be exact I modified an existing solution with the invaluable help and knowledge of my colleagues) where you can find information to build a docker image containing Python and jupyter notebook, together with bash script to use it. Continuing on that incredible achievement - for me - I re-modified this project to setup a digital atelier for my side projects. Very cool.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 08 May 2018 16:21:06 -0400</pubDate>
+        <link>http://mrbonsoir.github.io//blog/post/2018/05/08/Reproducible-research.html</link>
+        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2018/05/08/Reproducible-research.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>post</category>
+        
+      </item>
     
       <item>
         <title>Color blindness for the people</title>
@@ -313,32 +361,6 @@ and the &lt;em&gt;working&lt;/em&gt; me.&lt;/p&gt;
         <pubDate>Fri, 04 Mar 2016 10:25:06 -0500</pubDate>
         <link>http://mrbonsoir.github.io//blog/post/2016/03/04/Ca-continue-aujourdhui.html</link>
         <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2016/03/04/Ca-continue-aujourdhui.html</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>post</category>
-        
-      </item>
-    
-      <item>
-        <title>Algo in mobile phone camera</title>
-        <description>&lt;p&gt;Smartphones are becoming our primary camera and our primary way to consume images. The technical differences between those devices are shrinking. How do you differentiate between them?&lt;/p&gt;
-
-&lt;p&gt;Considering all devices coming with approximatively the same hardware from sensors to optic, the differences should come from the software. if you take Android OS, despite its presence on most of the smartphone, the manufacturers using this OS can still pre-load their devices with advanced options.&lt;/p&gt;
-
-&lt;p&gt;My point here is not to list or say which one is better than the other, but to highlight all the options now available. What I think is interesting here is to see what is considered to be granted from the user point of view: auto-focus, white balancing, hdr, face detection, low light condition, panorama and to wonder what people really understood of these tools. The marketing department surely has something to say about the last point.&lt;/p&gt;
-
-&lt;p&gt;To know a bit about the production workflow around this problematic, I really see the the battle of new algorithms/automatic image as the way for company to market their image (see the last &lt;a href=&quot;http://www.apple.com/iphone-6s/cameras/photos/&quot;&gt;iPhone campaign&lt;/a&gt;). A bit like the battle between film manufacturers (Kodak, Agfa, Fuji…) back in the days, where for the same ISO sensitivities (for me my favorite was 400 color by Fujifilm) the same color signal will appear slightly different on paper. The camera allows you to record the scene and the film/digital camera chosen will print the look of the final image.&lt;/p&gt;
-
-&lt;p&gt;So what can you really do? A lot will answer the emergency color scientist. It is super important and very interesting to study how our visual system is functioning, how it adapts with the light condition (eg. how to improve an image when observe on your phone in low light condition). All sounds pretty cool to me, color scientists can be useful.&lt;/p&gt;
-
-&lt;p&gt;La suite dans le futur.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 02 Mar 2016 10:58:06 -0500</pubDate>
-        <link>http://mrbonsoir.github.io//blog/post/2016/03/02/algo-in-mobile-phone-camera.html</link>
-        <guid isPermaLink="true">http://mrbonsoir.github.io//blog/post/2016/03/02/algo-in-mobile-phone-camera.html</guid>
         
         
         <category>blog</category>
