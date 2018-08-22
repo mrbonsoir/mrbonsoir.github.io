@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SIGGRPAH2018"
+title:  "SIGGRAPH2018"
 date:   2018-09-17 15:21:06 -0500
 categories: blog post
 author: Jeremie Gerhardt
