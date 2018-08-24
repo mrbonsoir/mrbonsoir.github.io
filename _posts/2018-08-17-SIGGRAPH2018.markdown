@@ -17,12 +17,12 @@ These sessions are usually the occasion to get status updates on cross-platforms
 ## More Open Source projects in movie production
 I follow ACES and OpenColorIO for years, they seem similar sometimes but not always. It's a mix of guidelines, open standards that are evolving permanently.
 
-The switch to almost full digital workflow for the production of movies did shake up the existing movie production workflow. The resolution and quality in digital workflow is now completely equivalent as the analog workflow. It doesn't mean that the visual experience is equivalent but it requires sometimes different way of thinking. A big challenge is the inter-operability between softwares without loosing information (i.e. color, bit resolution...) when going from one software to the other, typically when different departments are working on the same movie (the image acquisition and VFX to color grading for example) or in animation how different objects of a scene can be manipulated with different tools.
+The switch to almost full digital workflow for the production of movies did shake up the existing movie production workflow. The resolution and quality in digital workflow is now completely equivalent as the analog workflow. It doesn't mean that the visual experience is equivalent and it requires sometimes different way of thinking. A big challenge is the inter-operability between softwares without loosing information (i.e. color, bit resolution...) when going from one software to the other, typically when different departments are working on the same movie (the image acquisition and VFX to color grading for example) or in animation how different objects of a scene can be manipulated with different tools.
 
-This year I could observe a push from different companies ([Autodesk][Autodesk-link]), studios, associations, organisations ([The Academy][ACES-link]) to go open source and join the [Linux Foundation][LinuxFoundation-link]. The tools, workflows in movie production/video game productions are highly customisable to be able to communicate between products. That's why there are so many developers in studios. One problem is when those people are changing companies, their work or knowledge is sometimes lost... So the opensource move is a good move, if you leave your work you can still contribute to the project you were involved, or if you join a new team you may come with already some knowledge about the tools used in the studio.
+This year I could observe a push from different companies ([Autodesk][Autodesk-link]), studios ([DNEG][dneg-link], associations, organisations ([The Academy][ACES-link]) to go open source and join the [Linux Foundation][LinuxFoundation-link] under the [Academy Software Foundation][aswf-link]. The tools, workflows in movie production/video game productions are highly customisable to be able to communicate between products. That's why there are so many developers in studios. One problem is when those people are changing companies, their work or knowledge is sometimes lost... So the opensource move is a good move, if you leave your work you can still contribute to the project you were involved, or if you join a new team you may come with already some knowledge about the tools used in your new job.
 
 ## Strong French presence
-I'm not particularly patriotic but I have a bit a pride when I see a bunch of French companies making it on international level, childish I know. The expo hall had a fairly big French delegation, interesting is you don't need to be a large company of enormous studio (regarding the number of employees) to play on a worldwide level, see [mikros][mikkros-link], [Guerilla Render]
+I'm not particularly patriotic but I have a bit a pride when I see a bunch of French companies making it on international level, childish I know. The expo hall had a fairly big French delegation, interesting is you don't need to be a large company of enormous studio to play on a worldwide level, see [mikros][mikkros-link], [Guerilla Render]
 [guerillarender-link], [primcode][primcode-link]...
 
 ## VR everywhere
@@ -30,7 +30,7 @@ A bit of zombieland around my hotel on Hasting East street, lovely and unexpecte
 
 Interesting because you can try many headsets, evaluate the ongoing work, research on improving the experience, reducing motion sickness, making the experience more realistic. Some will add eye-trackers to render content according to where the user is looking at as tracking the head movement isn't enough. What makes the experience really immersive is the impression to have an extended field of view as opposed to *just* look into binoculars. I had the chance to try headset from [Zerolight-STARVR][starVR-link] who was really amazing with *natural field of view* as they call it.
 
-A big challenge with VR headset is not only the field of view or sometimes motion sickness but the control of the display lighting. What makes an intensity display level comfortable for the viewer? What level of details or resolution is acceptable, what is the combination of all these parameters to make the experience truly immersive? We all are working on it and [us][irystec-link] too.
+A big challenge with VR headset is not only the field of view or sometimes motion sickness but the control of the display lighting. What makes an intensity display level comfortable for the viewer? What level of details or resolution is acceptable, what is the combination of all these parameters to make the experience truly immersive? We all are working on it.
 
 ## Machine Learning (ML)
 Something I could hear, the use of ML to help users finding the best parameters in their workflows. Working on a movie implies the fusion of many different sources, many different people and sometimes a tiny mistake on assuming this color space or this white point or this LUT at any point of the production workflow will completely fucked up your final look. And you don't want that despite using the right softwares or softwares suit ([FilmLight][filmlight-link], [davinci resolve][davinci-link]...). That's why [ACES][ACES-link] and [OpenColorIO][opencolorio-link] are important too. Depending of your workflow setup you will be able to control or overview all your pipeline at any time, having someone responsible of the pipeline or simply don't have the time or money for that, in that case having a virtual assistant (based on ML, AI) can be the solution (with a price of course).
@@ -38,6 +38,7 @@ Something I could hear, the use of ML to help users finding the best parameters 
 ## More stuffs
 I wish I could talk more about farm rendering, computation in the clouds, hdr, color grading, demos I have attended (e.g. demo on making animation with [Unity][unity-link] and [Maya][maya-link]). I just hope I could attend next year event! For sure a great place to witness basic and applied science meeting live.
 
+[aswf-link]:https://www.aswf.io/
 [ACES-link]:http://www.oscars.org/science-technology/sci-tech-projects/aces
 [OpenColorIO-link]:http://opencolorio.org/
 [FilmLight-link]:https://www.filmlight.ltd.uk/
@@ -52,3 +53,4 @@ I wish I could talk more about farm rendering, computation in the clouds, hdr, c
 [primcode-link]:http://primcode.com/
 [maya-link]:https://www.autodesk.ca/en/products/maya/overview
 [unity-link]:https://unity3d.com/
+[dneg-link]:https://www.dneg.com/
