@@ -13,21 +13,21 @@ author: Jeremie Gerhardt
 One thing for me about this conference, that I'm attending for a couple of years, is to always stay humble as there is often the temptation to think changes are slow to come. Humble because I should remember how little I was, little I knew back in time. I don't know much more than a few years back but I feel more confident regarding what I understand or don't understand. And if you have color science questions, then CIC is the place to be.
 
 ### Courses, article and workshop
-I had the chance to attend two short courses of the Short Course program, one course on variational Color difference (*Variational Color Image Enhancement inspired by Human Vision* by Edoardo Provenzi) with mathematical expressions included obviously, a second one High Dynamic Range display (*The Art of Making Better Pixels: High Dynamic Range (HDR) Display Concepts and Technologies* by [Timo Kunkel][timokunkel-linkedin] from [Dolby][dolby-link]).
+I had the chance to attend two short courses of the Short Course program, one course on variational Color difference (*Variational Color Image Enhancement inspired by Human Vision* by [Edoardo Provenzi][edoardoprovenzi-linkedin]) with mathematical expressions included obviously, a second one High Dynamic Range display (*The Art of Making Better Pixels: High Dynamic Range (HDR) Display Concepts and Technologies* by [Timo Kunkel][timokunkel-linkedin] from [Dolby][dolby-link]).
 
-I presented an article we submitted my colleagues at [IRYStec][irystec-link] and I a few months back, an article entitled *OLED display power model and its application to lossless perceptual algorithm*. The basic idea behind is to say it's important to be able to evaluate the display power consumption cost of an image on OLED display. In this era of tailoring the display to the user it's not enough to rely on image quality metric or image quality assessment to evaluate the quality of your new algorithm. Integrating a power consumption cost is another quality factor to take into account. I was surprised and happy to find some echo of this problematic during the conference, especially in regards to HDR display on screen or [MTTBarco-link][projector]. I love conferences for that, it can show you pretty fast if you are ok or completely wrong.
+I presented an article we submitted my colleagues at [IRYStec][irystec-link] and I a few months back, an article entitled *OLED display power model and its application to lossless perceptual algorithm*. The basic idea behind is to say it's important to be able to evaluate the display power consumption cost of an image on OLED display. In this era of tailoring the display to the user it's not enough to rely on image quality metric or image quality assessment to evaluate the quality of your new algorithm. Integrating a power consumption cost is another quality factor to take into account. I was surprised and happy to find some echo of this problematic during the conference, especially in regards to HDR display on screen or [projector][MTTBarco-link]. I love conferences for that, it can show you pretty fast if you are ok or completely wrong.
 
 I also organised a workshop on HDR and Movie Production, the conference committee asked me if I could find people that were willing to talk about this topic and I jumped into that mission almost immediately.
 
 ### The conference
 It’s basically like going back to school where you have to attend hours of short lectures on various topics. Sometimes it’s hard to stay focus, but here and there you grasp some interesting ideas, formulations and of course the authors of the articles you are reading are there too!
 
-These days I’m into perceptual display but I always keep an eye or ear on article about printing. I did my PhD in multi-spectral color reproduction, graduate in 2007, and it’s nice to see things you thought were impossible or complicated back in time that are now in use for real. Especially I think of multi-inks printing system making use of Neugebauer primaries as usable and controllable colors *Halftone structure optimization using convex programming*, pretty cool.
+These days I’m into perceptual display but I always keep an eye or ear on article about printing. I did my PhD in multi-spectral color reproduction, graduate in 2007, and it’s nice to see things you thought were impossible or complicated back in time that are now in use for real. Especially I think of multi-inks printing system making use of Neugebauer primaries as usable and controllable colors *Halftone structure optimization using convex programming* from [Peter Morovic][petermorovic-linkedin], [Jan Morovic][janmorovic-linkedin] and All at [HP][hp-link],  pretty cool.
 
 Below a non exhaustive of articles for this year that I found interesting: JPI-First Multi-scale Daltonization in the Gradient  Domain, Perceptually Based Restoration of backlit Images, A Study of Visible Chromatic Contrast Threshold based on Different Color Directions and Spatial frequencies, An Alternative Multi-scale Framework for Variational Perceptually-inspired Contrast Enhancement of Color Images, A Colour Appearance Model based on Jab Colour Space, Efficient Multispectral Facial Capture with Monochrome Cameras, Evaluation of HDR TVs Using Actual HDR content, Reviving Traditional Image Quality Metrics Using CNNs, Optimal Text-Background Lightness Combination for Enhancing  Visual Comfort when Using a Tablet under Different Surrounds, The Preferred Type of Tone-Curve in a Transparent OLED  Display, Assessing Color Discernibility in HDR Imaging using Adaptation Hulls, Single Anchor Sorting of Visual Appearance as an Oriented Graph and check the [CIC website][ColorImagingConference-link] for further information.
 
 ### Keynotes
-The evening and keynote talks given by the four speakers were particularly interesting and captivating. Keynote and evening talks are the opportunity for the speakers to tell each a story, reveal how discoveries are made, how research works sum up over time (**A Brief Story of Superpixels** by Radhakrishna Achanta, how very similar problems are tackled by neighbour communities (**Colour and Consumer Cameras: The Good, the Bad, the Ugly** by Michael Brown), how a research project becomes a product (**High dynamic range on the big screen** by [Anders Ballestad][andersballestad-linkedin]) or how people use color science in their profession (**Color in Narrative** by [Andrea  Chlebak][andreachleback-linkedin]).
+The evening and keynote talks given by the four speakers were particularly interesting and captivating. Keynote and evening talks are the opportunity for the speakers to tell each a story, reveal how discoveries are made, how research works sum up over time (**A Brief Story of Superpixels** by [Radhakrishna Achanta][radhakrishnaachanta-linkedin], how very similar problems are tackled by neighbour communities (**Colour and Consumer Cameras: The Good, the Bad, the Ugly** by Michael Brown), how a research project becomes a product (**High dynamic range on the big screen** by [Anders Ballestad][andersballestad-linkedin]) or how people use color science in their profession (**Color in Narrative** by [Andrea  Chlebak][andreachleback-linkedin]).
 
 ## Workshop HDR and movie
 ### Context
@@ -76,10 +76,9 @@ We started with science and engineering and we are slowly moving toward the art 
 In his talk introduction Dermot quoted Picasso “transform the sun into a yellow spot”. That aspect of his work was well described as well as the language. The colorist/color grader is another key role in the production workflow, he or she has is the last link between the movie director and the final look of the project, he/she needs to translate the DP visions into the available technology. Vocabulary is important and Dermot illustrated his presentation with a series of short video sequences where he explained what was tried to be achieved in those short videos. Understanding how a movie scene is constructed in term of lighting is obviously important. In his last example Dermot did show us a scene and the corresponding making off, a very dark scene from Harry Potter - dark in the sense of low light - that actually required a lot of light on stage. It can be counterintuitive but it tells us a lot of on how movie maker are capturing and manipulating light in its whole dynamic.
 
 #### Movie grammar for HDR  by [Shane Mario Ruggieri][marioeuggieri-linkedin] ([Dolby][DOLBY-link] in  Sunnyvale, CA)
-We have come full circle with Mario concluding each speaker talk. Mario is a colleague of Timo that started the workshop. He has many roles and experiences from Sr. Production Engineer, Producer and Colorist part of Dolby Laboratories' Advanced Technology Group since 2010. One of his tasks is to go behind creating HDR test chart.
+We have come full circle with Shane Mario concluding each speaker talk. Shane Mario is a colleague of Timo's that started the workshop. He has many roles and experiences from Sr. Production Engineer, Producer and Colorist part of Dolby Laboratories' Advanced Technology Group since 2010. One of his tasks is to go beyond creating HDR test charts and help develop storytelling in HDR.
 
-Once again language, grammar is important such as understanding how people make movie, how they tell stories with images. It’s a pretty unique skill to be able to achieve that task, to talk to scientists and artists. Therefore during his talk Shane did present a short movie where he could link words, actions, lightings possibilities, emotions, how we react to change of illumination, basically story telling with HDR in mind.  Once thing you want for sure is to avoid the *3D* effect, to be interesting HDR has to go away from the “I have more light budget”.
-
+The new HDR language and grammar is an important new realm. These new terms will change how people make movies, how they tell stories with light, shadow and images. It’s a valuable and rare skill to be able to talk to scientists and artists and this is the world Shane bridges daily. During his talk Shane presented his new Temporally based HDR light response technique called “The Thomas” as used in his short movie One Way Ticket. Here he linked audience adaptation, physical reactions and emotional responses to the story by using temporally based lighting scheme (the Thomas). It was interesting how we react to change of illumination, basically story telling with HDR directly crafting the audience reactions not only on an emotional level but a physical one too. One interesting point he made was  “One thing you want for sure is to avoid bright images for HDRness sake… it’s like repeatedly poking people with the 3D effect to their frustration…to be interesting, HDR has to embrace temporal and psychophysiological aspects only available in HDR.”
 
 
 ### Panel discussion
@@ -106,18 +105,23 @@ A few links if you want to know more on the movie production workflow:
 [ColorGradingHDRArticle-link]:https://postperspective.com/colorist-weighs-new-world-hdr/
 [ColorImagingConference-link]:http://www.imaging.org/site/IST/IST/Conferences/CIC/CIC_Home.aspx
 [DNEG-link]:https://www.dneg.com/
-[interviewmaxinegervais-link]:[https://postperspective.com/colorist-weighs-new-world-hdr/]
+[interviewmaxinegervais-link]:https://postperspective.com/colorist-weighs-new-world-hdr/
 [IRYStec-link]:http://www.irystec.com/
 [OpenColorIO-link]:http://opencolorio.org/
 [OpenEXR-link]:http://www.openexr.com/
 [MTTBarco-link]:http://www.mtt-innovation.com/
 [SIGGRAPH-link]:https://www.siggraph.org/
-[SIGGRAPHpost-link]:[http://mrbonsoir.github.io/blog/post/2018/08/17/SIGGRAPH2018.html]
+[SIGGRAPHpost-link]:http://mrbonsoir.github.io/blog/post/2018/08/17/SIGGRAPH2018.html
 
-[andreachleback-linkedin]:[linkedin.com/in/andersballestad]
-[andersballestad-linkedin]: [linkedin.com/in/andersballestad]
-[timokunkel-linkedin]:[linkedin.com/in/timo-kunkel-bb021917]
-[marioeuggieri-linkedin]:[linkedin.com/in/shanemarioruggieri]
-[dermotshane-linkedin]:[linkedin.com/in/dermot-shane-855a39163]
-[mariorokicki-linkedin]:[linkedin.com/in/mario-rokicki-68769938]
-[chrisdavies-linkedin]:[linkedin.com/in/chrisdavies123]
+[andreachleback-linkedin]:https://www.linkedin.com/in/andersballestad
+[andersballestad-linkedin]:https://www.linkedin.com/in/andersballestad
+[timokunkel-linkedin]:https://www.linkedin.com/in/timo-kunkel-bb021917
+[marioeuggieri-linkedin]:https://www.linkedin.com/in/shanemarioruggieri
+[dermotshane-linkedin]:https://www.linkedin.com/in/dermot-shane-855a39163
+[mariorokicki-linkedin]:https://www.linkedin.com/in/mario-rokicki-68769938
+[chrisdavies-linkedin]:https://www.linkedin.com/in/chrisdavies123
+[radhakrishnaachanta-linkedin]:https://www.linkedin.com/in/radhakrishna-achanta-916532
+[edoardoprovenzi-linkedin]:https://www.linkedin.com/in/edoardo-provenzi-95b8bb21
+[petermorovic-linkedin]:https://www.linkedin.com/in/petermorovic
+[janmorovic-linkedin]:https://www.linkedin.com/in/janmorovic/
+[hp-link]:hp.com/go/gsb/
