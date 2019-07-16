@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CIC26 and HDR movie workshop"
-date:   2018-12-04 15:15:15 -0500
+date:   2018-11-12 15:15:15 -0500
 categories: blog post
 author: Jeremie Gerhardt
 ---
