@@ -58,7 +58,7 @@ In the lines above we simply multiply each vector (a pixel in rgb or lms space) 
 ### Some examples
 Below five images modified using the code above. First line the original images, then protan, deuteran and tritan simulations. The image selection represents natural (column 2 and 4) and art (column 1, 3 and 5) content.
 
-![](../data/imMontage.jpg)
+![](/data/imMontage.jpg)
 
 ### Missing, misplaced and more advanced CVD simulation
 The previous model is convenient, easy enough to compute but lack degrees of CVD strength. There are different flavours of CVD, meaning all the people are not color blind the same (the same as we don't all have the same exactly cone responses). In a bit more complex approach, the reduced color volume is not a plan in 2D but a reduced volume in 3D.
@@ -68,7 +68,7 @@ The approach proposed by [Machado, Oliveira and Fernandes][MachadoColospacious-l
 ### Some examples
 The image below are organised as those shown above. Only difference is they processed using the [Colorspacious][colorspacious-link] code using a CVD factor of 80 (where 100 means full CVD as in the first series of images).
 
-![](../data/imMontageMachado.jpg)
+![](/data/imMontageMachado.jpg)
 
 ## Discussion
 There is an extensive and interesting list of references on the topic, from CVD simulation, CVD test evaluation in order to find out if you are color blind and to which degree, image modification for better visual comfort to people with CVD, human color vision model... Depending of the problem you are trying so solve you will use this or this vision model to test your approach.
