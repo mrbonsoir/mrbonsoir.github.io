@@ -17,7 +17,7 @@ I did mention prototyping, we will have a look at the transformation applied to 
 ## Color blindness
 A good start is to look at the wikipedia page on [color blindness][CVDwiki-link]. The eye has three cones acting as light sensors called LMS for **Long**, **Medium** and **Short** wavelengths. A *popular* type of CVD is a missing or misplaced cone resulting in a modified processing of the signal once received and transmitted to the brain.
 
-Already a choice can be made on *where the deficiency starts* that will influence the simulation of an image viewed by a person with CVD. Some simulation will stop at the **LMS** level, meaning the projection of the signal on the cone space and other with go further and integrate how the signal is modified and pre-processed for the brain.
+Already a choice can be made on *where the deficiency starts* that will influence the simulation of an image viewed by a person with CVD. Some simulation will stop at the **LMS** level, meaning the projection of the signal on the cone space and other will go further and integrate how the signal is modified and pre-processed for the brain.
 
 For the rest of this post we will remain in **3D** space, work in **LMS** and **RGB** color spaces. This will be convenient for the CVD simulations.
 
