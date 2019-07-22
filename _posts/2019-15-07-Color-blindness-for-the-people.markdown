@@ -83,9 +83,9 @@ Below a non exhausitve list of article which are interesting to explore the topi
 + [Corresponding-pair procedure: a new approach to simulation of dichromatic color perception (2004)][correspondingPair-link]
 + [Real-Time Temporal-Coherent Color Contrast Enhancement for Dichromats (2010)][RealtimeTemp-link]
 + [Mitigating Color Dificiency in Graphical Display (2018)][MitigatingColor-link]
-+ [Theory and practise of colour vision testing: A review Part 1][lakowski-link]
-+ [Variability and systematic differences in normal, protan, and deutan color naming][variability-link]
-+ [How do things look to the color-blind?][byrne-link]
++ [Theory and practise of colour vision testing: A review Part 1 (1969)][lakowski-link]
++ [Variability and systematic differences in normal, protan, and deutan color naming (2014)][variability-link]
++ [How do things look to the color-blind? (2011)][byrne-link]
 
 [byrne-link]:http://web.mit.edu/abyrne/www/colorblind.pdf
 [variability-link]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4260480/
