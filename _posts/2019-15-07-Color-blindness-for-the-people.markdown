@@ -10,7 +10,7 @@ In that post I want to show you two things, one is a kind of *behind the scene t
 
 The work of a scientist is to observe phenomena, possibly to understand and to explain them. Ideally you want to be able to recreate an observation with the right parameters such that you can offer some kind of solution. In our example the phenomenon is color blindness or color vision deficiency (CVD). We want to be able to modify images such that human with CVD can access the same information as people with normal vision.
 
-As we don't have on demand test persons that are color blind we need to use color vision model to simulate how such personns will see the world with their colors. Different color vision models and CVD exist, meaning one type of CVD can be simulate differently.
+As we don't have on demand test persons that are color blind we need to use color vision model to simulate how such persons will see the world with their colors. Different color vision models and CVD exist, meaning one type of CVD can be simulate differently.
 
 I did mention prototyping, we will have a look at the transformation applied to the images to perform those CVD simulations. It's mostly matrix transformation. I used, wait for it, Python programming language for that.
 
@@ -54,7 +54,7 @@ img_rgb_mod = np.einsum("ij, ...j", lms2rgb, img_lms_mod)
 In the lines above we simply multiply each vector (a pixel in **RGB** or **LMS** space) by a 3x3 matrix. I invite you to check the [np.einsum][einsum-link] function which is an amazing tool for matrix operation.
 
 ### Some examples
-Below five images modified using the code above. First line the original images, then protanopia, deuteranopia and tritanopia simulations. The images selection represents natural (column 2 and 4) and art (column 1, 3 and 5) content.
+Below five images modified using the code above. First line the original images, then protanopia, deuteranopia and tritanopia simulations. Each anomaly stands for a single cone deficiency. The images selection represents natural (column 2 and 4) and art (column 1, 3 and 5) content.
 
 ![](/data/imMontage.jpg)
 
@@ -65,16 +65,15 @@ In a bit more complex approach, the reduced color volume is not a 2D plan but a 
 
 The approach proposed by [Machado, Oliveira and Fernandes][MachadoColospacious-link] can simulate different strenghts of CVD from partial to total. The strenght is expressed by moving the peak of sensitivy of the chosen deficient cone (there is a bit more than that but it's basically that). Because the cones response is wired in such a way that an intensity and chromaticity information is transmitted to the brain, changing the peak sensitivies require to use a more advanced [color vision][ColorVision-link] model. At the end new RGB values can be obtained by a matrix operation and code implementation is available in the [Python module Colorspacious][colorspacious-link].
 
-
 ### Some examples
-The image below are organised as those shown above. Only difference is they processed using the [Colorspacious][colorspacious-link] code using a CVD factor of 80 where 100 means full CVD as in the first series of images.
+The image below are organised as those shown above. Only difference is they are processed using the [Colorspacious][colorspacious-link] code using a CVD factor of 80 where 100 means full CVD as in the first series of images.
 
 ![](/data/imMontageMachado.jpg)
 
 ## Discussion
 There is an extensive and interesting list of references on the topic, from CVD simulation, CVD test evaluation in order to find out if you are color blind and to which degree, image modification for better visual comfort to people with CVD, human color vision model... Depending of the problem you are trying so solve you will use this or this vision model to test your approach.
 
-One very important aspect which is not taken into account here is how the brain is processing the signal once the cones have received it. Reducing the vision system of the common deuteranomaly, protanomaly and tritanomaly as view of the world in *2 colors* is a crude approximation. Assuming someone is color blind, when he/she sees leaves in something else than expected green (e.g. when the simulation transforms an image of a tree with green leaves into something not green at all) doesn't mean that person doesn't recognize a tree with leaves.
+One very important aspect which is not taken into account here is how the brain is processing the signal once the cones have received it. Reducing the vision system of the common deuteranomaly, protanomaly and tritanomaly as view of the world in *2 colors* is a crude approximation. For example, assuming someone is color blind, when he/she sees leaves in something else than expected green (e.g. when the simulation transforms an image of a tree with green leaves into something not green at all) doesn't mean that person doesn't recognize a tree with leaves.
 
 Problems can really arise with someone looking at graphical information, some not natural content, e.g. a map with saturated colors where the textual information simply dissolve in the background (once we simulate this image information for different type of CVD). In that type of configuration it will be interesting to modify part of the image content to avoid the lost of information.
 
@@ -84,7 +83,13 @@ Below a non exhausitve list of article which are interesting to explore the topi
 + [Corresponding-pair procedure: a new approach to simulation of dichromatic color perception (2004)][correspondingPair-link]
 + [Real-Time Temporal-Coherent Color Contrast Enhancement for Dichromats (2010)][RealtimeTemp-link]
 + [Mitigating Color Dificiency in Graphical Display (2018)][MitigatingColor-link]
++ [Theory and practise of colour vision testing: A review Part 1][lakowski-link]
++ [Variability and systematic differences in normal, protan, and deutan color naming][variability-link]
++ [How do things look to the color-blind?][byrne-link]
 
+[byrne-link]:http://web.mit.edu/abyrne/www/colorblind.pdf
+[variability-link]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4260480/
+[lakowski-link]:https://oem.bmj.com/content/oemed/26/3/173.full.pdf
 [correspondingPair-link]:https://www.semanticscholar.org/paper/Corresponding-pair-procedure%3A-a-new-approach-to-of-Capilla-D%C3%ADez-Ajenjo/a14e7cce4da19c65f8a5ebfa12501cb981b87dc3
 [MitigatingColor-link]:https://onlinelibrary.wiley.com/doi/abs/10.1002/sdtp.12152
 [RealtimeTemp-link]:https://www.semanticscholar.org/paper/Real-Time-Temporal-Coherent-Color-Contrast-for-Machado-Neto/78cc2c83aa52a6b01aa31e5eff9f7793081328e6
