@@ -5,8 +5,8 @@ date:   2019-08-22 19:22:06 -0500
 categories: blog post
 ---
 
-# Forum IMG 2019. Art, Technology and Society: Imagining Our Digital Futures
-First [Forum IMG][IMGForum-link] attendance for me in Montreal. A lot of topics on the program which I find very interesting: art, technology  and society. I was curious to find more about this community, how this ecosystem is evolving. Having answered to call for project submissions in the past weeks on those topics I was curious as I already wrote: who is creating, why, who has the money, who is funding the projects, who is deciding, so many questions.
+# MUTEK/Forum IMG 2019. Art, Technology and Society: Imagining Our Digital Futures
+First [Forum IMG][IMGForum-link] attendance for me in Montreal. The conference took place in the same time as the [Montreal MUTEK edition][MUTEK-linkh]. It's not my [first MUTEK][mrbonsoirFirstMUTEK-link] and this year I decided to take my ticket for the Forum IMG as well, a good decision. A lot of topics on the program which I find very interesting: art, technology  and society. I was curious to find more about this community, how this ecosystem is evolving. Having answered to call for project submissions in the past weeks on those topics I was curious as I already wrote: who is creating, why, who has the money, who is funding the projects, who is deciding, so many questions.
 
 The forum is organised as a regular conference, with keynotes, presentations of project, panel discussions, workshops, networking sessions…
 
@@ -35,6 +35,8 @@ I wasn’t really convinced with the last day, especially the main track, too mu
 
 
 [IMGForum-link]:http://www.mutek.org/en/montreal/2019/mutek_img
+[MUTEK-linkh]:http://www.mutek.org/en/
+[mrbonsoirFirstMUTEK-link]:http://mrbonsoir.blogspot.com/2017/08/premier-mutek.html
 [DouglasRushkoff-link]: https://rushkoff.com/
 [TeamHuman-link]:https://teamhuman.fm
 [BillPoster-link]:http://billposters.ch/
