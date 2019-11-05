@@ -41,13 +41,13 @@ Basically, if you are able to maintain the quality of the content displayed to t
 Next year the conference will take place in Chiba Japan, can't wait to be there!
 
 
-[PyramidOfVisibility-link]:[https://jov.arvojournals.org/article.aspx?articleid=2550548&resultClick=1]
+[PyramidOfVisibility-link]:https://jov.arvojournals.org/article.aspx?articleid=2550548&resultClick=1
 [FBrealitylabs-link]:https://research.fb.com/
-[oculuslab-link]:[https://tech.fb.com/oculus-research-spotlight-teaming-up-to-build-a-perceptual-testbed/]
-[CIC27-link]:[https://www.imaging.org/site/IST/IST/Conferences/CIC/CIC_Home.aspx]
-[OLEDarticleCIC27-link]:[https://www.ingentaconnect.com/contentone/ist/cic/2019/00002019/00000001/art00060]
-[ntnu-link]:[https://www.ntnu.edu/]
+[oculuslab-link]:https://tech.fb.com/oculus-research-spotlight-teaming-up-to-build-a-perceptual-testbed/
+[CIC27-link]:https://www.imaging.org/site/IST/IST/Conferences/CIC/CIC_Home.aspx
+[OLEDarticleCIC27-link]:https://www.ingentaconnect.com/contentone/ist/cic/2019/00002019/00000001/art00060
+[ntnu-link]:https://www.ntnu.edu/
 [appamat-link]:http://gdr-appamat.cnrs.fr/
 [IRYStec-link]:http://www.irystec.com/
 [mathese-link]:http://www.theses.fr/2007ENST0022
-[FrancisSchmittMetamerism-link]:[https://www.osapublishing.org/josa/abstract.cfm?uri=josa-66-6-601]
+[FrancisSchmittMetamerism-link]:https://www.osapublishing.org/josa/abstract.cfm?uri=josa-66-6-601
