@@ -1,0 +1,53 @@
+honoring---
+layout: post
+title:  "CIC27 Paris"
+date:   2019-10-25 16:33:33 -0500
+categories: blog post
+---
+
+## Paris city of lights
+The annual gathering for the color scientists of planet earth. This year the [27th Color Imaging Conference][CIC27-link] took place in Paris which is nice for two reasons, I'm coming from that place - so I could combine it with visiting family and friends - and the conference actually took place on the campus I did part of my studies 1995 to 2002, first time I really come back in years.
+
+This year I knew even more members of the program committee comparing to the previous edition, you can see me appearing as a co-editor for the **CIC27 Jist-first Associate Editors** section. A few years back many of us were attending this conference as students and now we are part of the program committee, the circle of life.
+
+## Tribute to my former PhD co-supervisor
+About ten years ago my former PhD co-supervisor Francis Schmitt passed away. It did happen very quickly and many people, me included, didn't have the opportunity to digest the event. Last year at the same CIC event in Vancouver people started to think of organizing a small event in his memory after honoring the one of Robert Hunt. It's important when a community acknowledges the influence of its peers.
+
+Sunday afternoon 20th of October, in the same building where I did defend [my doctoral thesis in 2007][mathese-link] many people such as me were invited to give a brief summary of their research and interaction with Francis. I talked about multi-spectral color reproduction, what was research my project was at this time, a continuation of the work of my first co-supervisor Jon Yngve Hardeberg who also did his research under Francis Schmitt supervision. They worked on multi-spectral image acquisition and I was supposed to reproduce those images.
+
+I really like the idea of research genealogy tree and this event was the occasion to retrace the interactions and connections I had during my research, to realize the many connections Francis had in his research life, how at the occasion of research conferences you are meeting people you are reading the work, how you get introduced to this or this person thanks to your supervisors, how you are meeting future colleagues and/or friends, how you construct your own journey.
+
+Coming back to Francis, I remember clearly all the meetings I had all along the four years of my research - based in Norway I was coming back twice a year in Paris and always passing by his office - as well how little I knew (I still know nothing) and realizing each time how little was my contribution, especially when once I read the article he wrote [A method for the treatment of metamerism in colorimetry (1976)][FrancisSchmittMetamerism-link] when he was PhD student. Feeling lucky that my research path briefly crossed his path.
+
+## Material appearance and image quality metric workshops
+
+Monday 21st of October, a workshop on material appearance was organized by the [French research group APPAMAT][appamat-link] for *apparence des matériaux*. Pretty instructive, good to refresh my memory on the topic, from basic to applied research.
+
+Tuesday 10th of October, a day of short courses and workshops. I did follow the workshop entitled *W1: Future Directions in Image Quality* organized by Marius Pedersen and Seyed Ali Amirshahi from [NTNU][ntnu-link] where several speakers were invited to give each an overview of their work on the topic, image quality, quality metric, from SSIM/PSNR to fancy neural network approaches. We have some projects related to that at the company [IRYStec][IRYStec-link] I'm working for, so always interesting to see where we are in comparison to the researchers forging the field.
+
+## Conference and keynotes
+Three days remaining with an intense program where you barely have time to sleep. Having more experience comparing to my previous participations I'm each year more and more interested by the keynotes.
+Having say that I don't forget the main part of the conference program which is many sessions on different topics where people are invited to present their accepted article by oral presentation in front of the audience or a poster. In the **DISPLAYS** session I did present part of our work (done together with my colleagues) on OLED display technology and how to model their degradation over time, phenomenon also called OLED lifetime: [*Estimating OLED Display Device Lifetime from pixel and screen brightness and its application*][OLEDarticleCIC27-link].
+
+The conference started with a keynote entitled *Perception-Centered Development of Near-Eye Displays* given by Marina Zannoli from [Facebook Reality Labs][FBrealitylabs-link]. Everything in the title of the presentation is true. It's simply amazing what you can do when you have the right persons and infinite budget (I don't have the numbers but it must be fairly big). To me the reverse engineering part on how the human vision is functioning and the direct translation into a usable product *near-eye display* is crazy. Fascinating and demotivating if you try to compete in your academic lab.
+
+The second keynote, *The Chromatic Pyramid of Visibility* given by Andrew B. Watson Chief Vision Scientist at Apple Inc was introduced as follows ["The Pyramid of Visibility is a simplified model of the spatio-temporal luminance contrast sensitivity function...][PyramidOfVisibility-link] in the conference program. And not surprisingly it was pretty interesting.
+
+In that conference people talked about color science, usually narrowing a problem to his origin, solving a very defined complex system and it can be difficult to get an idea of how to relate to those individual works and projects. Science and technology are moving at different paces, the models developed to explain how human color vision functions are evolving continuously and it is a challenge to build technology around it, technology that should not be obsolete too soon. You can come out with a unified color vision model, then a new invention arrives, it offers more control and then you need to start over... Or you do a continuous integration in your products of the knowledge you are accumulating.
+
+## Trends
+Basically, if you are able to maintain the quality of the content displayed to the viewers whatever the ambient lighting conditions, the display technology and the viewer vision properties you are good to go. And with the rise of HDR, different lighting technologies (LEDs everywhere) with different spectral properties, 3D printing, OLED/LCD/VR displays... the challenges are constant! The good sign for me and by extension the company/teams (researchers and software engineers) I'm working for/with is to see if we are lost or on good tracks comparing to the big guys. This year was a good feeling.
+
+Next year the conference will take place in Chiba Japan, can't wait to be there!
+
+
+[PyramidOfVisibility-link]:[https://jov.arvojournals.org/article.aspx?articleid=2550548&resultClick=1]
+[FBrealitylabs-link]:https://research.fb.com/
+[oculuslab-link]:[https://tech.fb.com/oculus-research-spotlight-teaming-up-to-build-a-perceptual-testbed/]
+[CIC27-link]:[https://www.imaging.org/site/IST/IST/Conferences/CIC/CIC_Home.aspx]
+[OLEDarticleCIC27-link]:[https://www.ingentaconnect.com/contentone/ist/cic/2019/00002019/00000001/art00060]
+[ntnu-link]:[https://www.ntnu.edu/]
+[appamat-link]:http://gdr-appamat.cnrs.fr/
+[IRYStec-link]:http://www.irystec.com/
+[mathese-link]:http://www.theses.fr/2007ENST0022
+[FrancisSchmittMetamerism-link]:[https://www.osapublishing.org/josa/abstract.cfm?uri=josa-66-6-601]
