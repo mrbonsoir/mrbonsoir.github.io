@@ -20,7 +20,7 @@ Crowd sourcing was to me a very interesting topic. It did appear in oral present
 
 Graph database was mentioned and I could like to hear more about it. Especially how database query languages are developed to ease the access to the information in those databases. But this also implies to think how to build these databases. Pretty interesting in any cases.
 
-First impressions
+## First impressions
 To be short there were mostly good impressions. Different people, different backgrounds but similar challenges as archiving, digital preservation, curation are. Multidisciplinary as I like it.
 
 [link-IST]: http://www.imaging.org/
