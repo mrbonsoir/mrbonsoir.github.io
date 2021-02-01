@@ -1,0 +1,62 @@
+---
+layout: post
+title:  "Color blindness for the people"
+date:   2018-02-22 9:22:06 -0500
+categories: blog post
+---
+
+## Introduction
+In that post I want to show you two things, one is a kind of *behind the scene tour* of work I have done on color
+blindness at my work last year, how do we go from the problem to a prototype, secondly what were the tools
+that we used during prototyping.
+
+The work of a scientist is to observe phenomena, possibly to understand them and to explain them. Ideally you want
+to be able to recreate an observation with the right parameters such that you can offer some kind of solution. In
+our example the phenomenon is color blindness or color vision deficiency. We want to be able to modify images
+such human beings with defined CVD can access the same information as people with normal vision.
+
+As we don't have on demand test persons that are color blind we need to use color vision model that will modify
+a given image to make it *look* as it was seen by a color blind person. Different color vision models exist meaning
+the same image can be simulated differently.
+
+I did mention prototyping, here we will also have a look on the transformation applied to the images. It's mostly transformation
+of the image values by matrix operations and different tools, implementations are available. I used, wait for it, Python
+programming language for that.
+
+## Color blindness
+A good start is to look at the wikipedia page on [color blinbness][CVDwiki-link]. The eye has three cones acting as
+light sensors called LMS for Long, Medium and Short wavelenghts. The most *popular* CVD being a missing, misplaced cones resulting
+in a modified processing of the signal once received and transmitted to brain. Already there a choice can be made on the
+where the defficiency starts that will influence the simulation of an image viewed by a person with CVD.
+
+### One LMS cone missing
+The most simple and straightforward approach is to consider one of the LMS cones missing. If the image is displayed in 3D space
+where the axis are the LMS cones, having one missing come done to have a reduce volume of color in 2D. The challenge being to
+defined this reduced volume.
+
+If we assume that the reduced volume has been defined we need to do: RGB -> LMS -> L'M'S' -> R'G'B' to get the simulated version of
+the image as it was seen by a color blind person.
+
+### Some code
+
+### Missing, misplaced and more advanced CVD simulation
+The previous model is convenient, easy enough to compute but lack degrees of CVD strenght. There is different flavor of CVD, meaning all the
+people are not color blind the same (the same as we don't all have the same cone responses). In a bit more complex approach, the reduced
+color volume is not a plan in 2D but a reduced volume in 3D.
+
+The approach proposed by [Machado, Oliveira and Fernandes][MachadoColospacious-link] and availble in the Python module [Colorspacious][colorspacious-linkg]
+
+
+
+
+
+## Color blindness simulation
+
+## Lazyness
+
+
+
+[IRYStec-link]:http://www.irystec.com/
+[CVDwiki-link]:https://en.wikipedia.org/wiki/Color_blindness
+[MachadoColospacious-link]:https://colour.readthedocs.io/en/develop/colour.blindness.html#machado-oliveira-and-fernandes-2009
+[colorspacious-link]:https://colorspacious.readthedocs.io/en/latest/
