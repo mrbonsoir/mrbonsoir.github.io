@@ -1,10 +1,9 @@
-<!-- --- -->
+---
 layout: post
 title:  "Time Lapse"
 date:   2021-01-29 09:09:09 -0500
 categories: blog post
 ---
-
 
 
 ## Be kind rewind
