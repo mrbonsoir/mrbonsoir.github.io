@@ -21,7 +21,7 @@ Early March 2020 we joined the people of [FAURECIA][FAURECIA-link] that gave us 
 ## The pandemic as a journey in space
 Everything is happening online nowadays, remote. I could witness as anybody else the conferences canceling their events one after the others but also re-inventing themselves. Maybe the rise of online courses has prepared us for that situation.
 
-Many challenges for conferences, how to not turn into a series of webinars, how to keep people joining the event, how to maintain the social aspect of it, how to make connections for future works. One of the motivations for which I try to go to conferences is to meet IRL my pairs, we all work alone in our office or department throughout the year and that moment is the moment where you can exchange faster and more naturally.
+Many challenges for conferences, how to not turn into a series of webinars, how to keep people joining the event, how to maintain the social aspect of it, how to make connections for future works. One of the motivations for which I try to go to conferences is to meet IRL my peers, we all work alone in our office or department throughout the year and that moment is the moment where you can exchange faster and more naturally.
 
 ### Archiving 2020
 The [Archiving][Archiving-link] had to switch to an online version of the event in just a few weeks. I really like this event for which I'm doing article reviews sometimes and I think its first online version went well.
@@ -54,7 +54,7 @@ In a way I feel the world is experiencing what it is to be a PhD student, you bu
 
 
 
-
+[IRYStec-link]:https://www.irystec.com/
 [PROPHESEE-link]:https://www.prophesee.ai/
 [EI-link]:https://www.imaging.org/site/IST/Conferences/EI/EI2021/IST/Conferences/EI/EI_2021/EI2021.aspx?hkey=8c1e8c7e-5c8b-446a-bea8-481aa189d283
 [DeryaAkkaynak-link]:https://www.deryaakkaynak.com/sea-thru
