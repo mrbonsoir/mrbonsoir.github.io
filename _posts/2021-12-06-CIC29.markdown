@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "CIC29"
+date:   2021-12-06 09:09:09 -0500
+categories: blog post
+---
+
+
+# Conference in the clouds
+The [Color Imaging Conference][CIC-link] of 2021, edition 29, took place early November and it is now over. As last year it did happen online, and we - all attendees - hope it can return to its original form in 2022.
+
+Once again I took part in the conference committee, but this time in a new role as *junior* “Technical Program Chair”. More responsibilities and another great experience regarding the making of a conference: read almost all the papers entirely, read all the reviews of the reviewers, find reviewers, discuss with the other members of the technical committee Peter Morovic (General Chair) and Micheal Murdoch (*senior*  Technical Program Chair) about the selection of articles and the design of the final program with all the different sessions (one session per research topic).
+
+About the time zone paradox, the conference was happening for some sessions at the same time in two different days simultaneously. We were lucky enough that it was the same situation last year, therefore we could benefit from the past experience of last year's committee and their advanced excel sheets.
+
+# The program
+As I wrote it wasn’t the first time I did participate in this conference committee, but the first at this level. Compared to the previous editions, I had this year an overview of the conference contributions before the technical program was revealed, and this was quite exciting!
+
+
+## Short Courses
+The instructors are professionals from academia or industry, the content of each course is usually super interesting. And each year instructors can submit a course or the committee will ask a potential instructor if he/she can propose a course on a particular topic. This part of the conference is the perfect entree point for people willing to know more about color science and the many problems related.
+
+This year I registered for five courses, from Color Science Implications of Modern Display Technologies By Charles Poyton, **Digitizing Motion Picture Film** Giorgio Trumpy, **Color Essentials in LED Lighting Systems** by Michael J. Murdoch, **Deep Learning for Color** by  Simone Bianco and Marco Buzzelli and **Color Gamut Mapping** by Jan Morovic. They took place live on video before the technical program and are still accessible online.
+
+## The keynotes
+The keynotes are always a good snapshot of the conference, the communities they represent, where they intersect. Again this year we got lucky with a well balanced talk between industry, movie production workflow and academia: **Some of the Interesting Challenges of Developing the HoloLens Sensor Array, and Some Fun and Hard Imaging Problems Ahead** by Andy Goris (Formerly Microsoft HoloLens and more), **Post Scene-Referred Gamut Compression in [ACES][ACES-link]** by Carol Payne ([Netflix][Netflix-link]), Matthias Schaftenberg ([Industrial Light & Magic][ILM-link]) and Nick Shaw (Antler), and Learning to Estimate Lighting from a Single Image by Jean-François Lalonde ([Université Laval, QC][lalonde-link]).
+
+### Around the technical program
+The workshop and Conundrum sessions were great places to get the pulse of the color science community, to identify the hot topics, the activities of companies, who is hiring? Apple and Meta were very well represented on that matter. It’s interesting to compare them to other fields such as the moving pictures industry, Apple and Meta being very secretive, which is understandable in the race for VR/AR/XR versus the moving pictures industry going almost full open source (see [OCIO][opencolorio-link] and again [ACES][ACES2-link]) and decentralised for their production workflow and therefore being very open.
+
+The conundrum sessions were also great places to be for students, at least the session I followed “*What does industry need from new color scientists?*” A fair question asked during this session was “why do I learn this fancy new delta E metric especially when the industry is still relying on old metrics?”. As soon as an experience from a human observer needs to be evaluated by numbers (i.e. image quality, contrast perception…) the need for the best image quality metric is rising, and many industries have their internal research on that matter.
+
+Color science doesn’t have the same level of recognition depending on your field of work, this can explain why a gap can be felt sometimes when you finish your studies. Changing habits takes time, and it’s always wise to come with a plan, often it is explaining to your new colleagues what can be the advantages to switch to this other set of metrics. Again, different problems, different solutions to quantify them.
+
+A topic I wish was more discussed is research, industry and startup. The research that leads to products conducted at Apple or Meta is very probably impossible for a university laboratory to compete with (a keynote from CIC27 by Facebook Reality Lab was eloquent on that matter: Perception-Centered Development of Near-Eye Displays by Marina Zannoli). Also large companies have difficulties to take risk internally, and often rely on startup acquisition to boost their innovation, a challenge for the new owner to keep the team they acquired motivated.
+
+### VR/AR/XR many Realities
+In terms of projects in VR/AR/XR we can roughly distinguish between two approaches: hologram and no VR mask on your face or VR mask on your face. Can a lab from university compete with industry when you want to build a VR mask/headset? The keynote **Learning to Estimate Lighting from a Single Image** was a really good example of the contribution academia can bring to industry: strong algorithms, and here an example of how to mix virtual objects in real scene: you have the scene in the real world, you have objects you want to add to the scene, objects you know the material properties (how light beam falling on it will interact with it) and once you have estimated the lighting you can do a pretty realistic rendering (this a very crude recap of this keynote and encourage people to visit their website).
+
+## Color management
+Finally my global appreciation of the conference is always linked to my own interests, curiosity, ongoing projects and activities. The combo short courses on display, gamut mapping, movie digitization and keynote on Post Scene-Referred Gamut Compression in ACES was of great inspiration and validation of choices made in the last months. There is no color without color management or you are just super lucky and you should start playing the lottery now. I like to see myself as a color plumber connecting pipes from cameras to displays.
+
+## What I did not have the time to mention
+Also interesting to see the participants, both attendees and authors of the many research articles that made it to the final version of the Technical Program. Always nice to see your former laboratory [colourlab][colourlab-link] being well represented!
+
+Also the [virtual space gather][gather-link] where we could meet after the oral presentations, where we could see the posters during the interactive session and play color bingo, and to forget the final color trivia game to conclude the conference.
+
+
+[CIC-link]:http://www.imaging.org/site/ist/ist/conferences/cic/cic_home.aspx
+[IRYStec-link]:https://www.irystec.com/
+[ACES-link]:[https://acescentral.com/]
+[ACES2-link]:https://www.oscars.org/science-technology/sci-tech-projects/aces
+[colourlab-link]:https://www.ntnu.edu/colourlab#/view/about
+[ILM-link]:[https://www.ilm.com/]
+[lalonde-link]:http://vision.gel.ulaval.ca/~jflalonde/]
+[Netflix-link]:[https://research.netflix.com/]
+[opencolorio-link]:[https://opencolorio.org/]
+[gather-link]:https://www.gather.town/
+[FAURECIA-link]:https://www.faurecia.com/accueil
