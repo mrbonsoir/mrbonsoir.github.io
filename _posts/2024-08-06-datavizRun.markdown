@@ -10,7 +10,7 @@ categories: blog post
 
 A few days ago I started a small project about data visualisation. The data being gps traces of a [run club][runrite-link] I joined in 2021.
 
-Here is the new repository called [datavizRun][datavizRun-link]
+Here is the new repository called [datavizRun][datavizRun-link].
 
 The motivations are:
 + to improve my data science skills
@@ -50,7 +50,7 @@ For sure to generate more visuals, add more raw files meaning re-running my note
 + add dynamic to the visuals _as for now everything is static_ and ideally put everything into a [TouchDesigner][TouchDesigner-link]. project
 
 [datavizRun-link]:https://github.com/mrbonsoir/datavizRun
-[datarunVizNotebook-link]::https://github.com/mrbonsoir/datavizRun/notebook
+[datarunVizNotebook-link]:https://github.com/mrbonsoir/datavizRun/tree/main/notebook
 [TouchDesigner-link]:https://derivative.ca/
-[runrite-link]:https://www.instagram.com/runrite
+[runrite-link]:https://www.instagram.com/runritemtl
 
