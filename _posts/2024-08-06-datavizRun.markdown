@@ -40,7 +40,7 @@ I did choose to represent my data as:
 I have for now three [notebooks][datarunVizNotebook-link]:
 + one for importing the raw data, eg the .gpx files and save them as .csv files
 + one for datavisualization and making request about the database such as _what is the longest run?, what is the average run distance?_ ... and this is pretty easy as since I have information in a Pandas DataFrame I can easily extract many insigths
-+ one for a second cleaning path
++ one for a second cleaning pass
 
 # What's next?
 
