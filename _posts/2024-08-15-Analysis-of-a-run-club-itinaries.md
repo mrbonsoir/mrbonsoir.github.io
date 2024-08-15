@@ -7,9 +7,9 @@ categories: blog post
 
 # Introduction
 
-I like data, I run a lot and I enjoy looking at the [heatmap][myStrava-link] my activities are generating over the years. 
+I like data, I run a lot and I enjoy looking at the [heatmap][Strava-link] my activities are generating over the years. 
 
-A few weeks after joining [Strava][stravaDataScience-link] I found a way to import all previously recorded activities from other plateforms, and I was very happy to look at all this information. One the thing I like the most is to overlay my paths over a map, this helps to find new ways to explore for my next runs.
+A few weeks after joining [Strava][stravaDataScience-link] I found a way to import all previously recorded activities from other plateforms, and I was very happy to look at all of this information. One the thing I like the most is to overlay my paths over a map, this helps to find new ways to explore for my next runs.
 
 # Solo to social runs
 
@@ -22,9 +22,9 @@ The group started in September 2017 and I joined them in August 2021, since the 
 # Diving into the data
 
 The last two weeks I have been gathering all the run paths that group was following since it started, organizing those data in my own database in order to extract more easily or naturally information about them, this in a form of numbers or visualization:
-+ how many runs?
++ how many runs did we do?
 + what is the average distance we do?
-+ what territory do we cover?
++ what space do we cover?
 + ...
 
 And you can check my [datavizRun][datavizRun-link] repository to look at the tools I made for me.
@@ -62,15 +62,15 @@ And the same information in a graph:
 ## Getting visualizations
 
 I could look at each run alone, but I can also display all the runs and display in red the longest of the the run recorded so far.
-![](/data/allRunTogther)
+![](/data/allRunTogther.png)
 
-Interesting fact, this longest run was to celebrate the 5th anniversary of the run club and we did pass by all the former starting points since its birth. 
+Interesting fact, this longest run was to celebrate the 6th anniversary of the run club and we did pass by all the former starting points since its birth. 
 
 Following the season axes I have created one graph per season. Each graph had red points representing the different starting points, and a green point showing the top of the run meaning most of the time we will start our descent just after.
 
 ![](/data/imMontage33.jpg)
 
-Interesting fact, to reach this green point (Summit Circle above Westmount) was presented to me (or I remembered it like that) as always passage of the run, but looking at all the gps traces did show me that at the beginning it was mostly a flat run, and it escalated quickly :-)
+Interesting fact, to reach this green point - Summit Circle above Westmount - was presented to me as a mandatory checkpoint of the run (or I remembered it like that), but looking at all the gps traces did show me that at the beginning it was mostly a flat run, and it escalated quickly :-)
 
 # Conclusions and future work
 
@@ -78,11 +78,13 @@ It is not a surprise, but what took me most of the time was to gather data, clea
 
 Something I'm missing is data about runners showing up. When I joined, to be 20 people was huge, now we are at least 50 and we did increase the millage as well, so the distance is not a deal breaker. Of course changing the run starting point has brought more people, we are in a more dense area, it is easier to join, we have place at [Ciele][ciele-link] where to leave a bag before running, but we do have people coming from far. My guess is the Covid effect had an impact on increasing the number of people practising the act of jogging, but it is just a guess from me alone.
 
-For now I like those visualizations but those static visualizations don't illustrate how we did mapp the city. We neither don't feel in those graphs how much we climb half of the run. So I need to work in animation to get a glimpse of how we self organized our exploration, how the speed change in the middle of the run and that's where I need to up lift my [TouchDesigner][TouchDesigner-link] skills.
+For now I like those visualizations but those static visualizations don't illustrate how we did mapp the city in motion. We neither don't feel in those graphs how much we climb half of the run. So I need to work in animation to get a glimpse of how we self organized our exploration, how the speed change in the middle of the run and that's where I need to up lift my [TouchDesigner][TouchDesigner-link] skills.
 
 
-[myStrava-link]:https://https://www.strava.com/athletes/58753447
+[myStrava-link]:https://www.strava.com/athletes/58753447
 [stravaDataScience-link]:https://medium.com/strava-engineering/tagged/data-science
 [ciele-link]:https://cieleathletics.com/"
 [runrite-link]:https://www.instagram.com/runritemtl
+[datavizRun-link]:https://github.com/mrbonsoir/datavizRun
+[TouchDesigner-link]:https://derivative.ca/
 
