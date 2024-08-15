@@ -53,4 +53,3 @@ For sure to generate more visuals, add more raw files meaning re-running my note
 [datarunVizNotebook-link]:https://github.com/mrbonsoir/datavizRun/tree/main/notebook
 [TouchDesigner-link]:https://derivative.ca/
 [runrite-link]:https://www.instagram.com/runritemtl
-
