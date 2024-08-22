@@ -80,9 +80,13 @@ Something I'm missing is data about runners showing up. When I joined, to be 20 
 
 For now I like those visualizations but those static visualizations don't illustrate how we did mapp the city in motion. We neither don't feel in those graphs how much we climb half of the run. So I need to work in animation to get a glimpse of how we self organized our exploration, how the speed change in the middle of the run and that's where I need to up lift my [TouchDesigner][TouchDesigner-link] skills.
 
+# Bonus track
+
+Using [folium][folium-link] I managed to overlay the gps run traces on the top of a map, and you can interactively zoom in and out. Of course you still need some guidances if you want to know more about those data, but you can guess from where the runs have started over the years. What it shows is the paths the run club was following from 2027 to summer 2024 at least.
+
 <iframe src="/data/mapRRAC.html" height="600px" width="100%" style="border:none;"></iframe>
 
-
+[folium-link]:[https://python-visualization.github.io/folium/latest/]
 [myStrava-link]:https://www.strava.com/athletes/58753447
 [stravaDataScience-link]:https://medium.com/strava-engineering/tagged/data-science
 [ciele-link]:https://cieleathletics.com/"
