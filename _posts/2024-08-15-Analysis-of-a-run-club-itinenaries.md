@@ -80,6 +80,8 @@ Something I'm missing is data about runners showing up. When I joined, to be 20 
 
 For now I like those visualizations but those static visualizations don't illustrate how we did mapp the city in motion. We neither don't feel in those graphs how much we climb half of the run. So I need to work in animation to get a glimpse of how we self organized our exploration, how the speed change in the middle of the run and that's where I need to up lift my [TouchDesigner][TouchDesigner-link] skills.
 
+<iframe src="/data/mapRRAC.html" height="600px" width="100%" style="border:none;"></iframe>
+
 
 [myStrava-link]:https://www.strava.com/athletes/58753447
 [stravaDataScience-link]:https://medium.com/strava-engineering/tagged/data-science
