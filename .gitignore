@@ -1,4 +1,5 @@
 .DS_Store
 .sass-cache/
 _posts/.DS_Store
+_sites/
 Gemfile
