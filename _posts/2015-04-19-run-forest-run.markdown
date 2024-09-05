@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1st Half-Marathon On An Airport Tarmac"
+title: "1st half-marathon on an airport tarmac"
 date: '2015-04-19 01:33:16 +0100'
 author: mrbonsoir
 categories: running

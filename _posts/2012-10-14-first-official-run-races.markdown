@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Official Run Races"
+title: "First official run races"
 date: 2012-10-14 09:33:33 +0100
 author: mrbonsoir
 categories: run race en training running
