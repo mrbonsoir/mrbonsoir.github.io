@@ -2,7 +2,7 @@
 layout: post
 title:  "Analysis of a run club itinenaries"
 date:   2024-08-15 09:09:09 -0500
-categories: blog post
+categories: blog post running datascience
 ---
 
 # Introduction
