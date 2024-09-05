@@ -32,7 +32,7 @@ plugins:
 
 header_pages:
   - runnerroom.md
-  #- about.md
+  - about.md
   
 theme: minima
 minima:
