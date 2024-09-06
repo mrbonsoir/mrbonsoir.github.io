@@ -82,7 +82,7 @@ For now I like those visualizations but those static visualizations don't illust
 
 # Bonus track
 
-Using [folium][folium-link] I managed to overlay the gps run traces on the top of a map, and you can interactively zoom in and out. Of course you still need some guidances if you want to know more about those data, but you can guess from where the runs have started over the years. What it shows is the paths the run club was following from 2027 to summer 2024 at least.
+Using [folium][folium-link] I managed to overlay the gps run traces on the top of a map, and you can interactively zoom in and out. Of course you still need some guidances if you want to know more about those data, but you can guess from where the runs have started over the years. What it shows is the paths the run club was following from 2017 to summer 2024 at least.
 
 <iframe src="/data/mapRRAC.html" height="600px" width="100%" style="border:none;"></iframe>
 
