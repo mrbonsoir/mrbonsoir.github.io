@@ -33,7 +33,7 @@ I found my friend at the foodtruck with a bred and a German sausage in his hand.
 # After the race
 I'm laying on the grass in the middle of the stadium, chilling under the sunset, and got called on the speaker to join the podium, my first, as I finished third in my category! We were perhaps four...
 
-**9:14pm** more chilling before aiming back to Berlin. The champagne for runner is drunk, I mean beer, time to heat the road.
+**9:14pm** more chilling before aiming back to Berlin. The champagne for runner is drunk, I mean beer, time to hit the road.
 
 A time of **2h01min59sec** which isn't exceptionnal, but I really enjoy this race. It changed from the airport runs.
 
