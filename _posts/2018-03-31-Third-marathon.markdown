@@ -67,7 +67,7 @@ A mixed experienced about that race as I wasn't really trained for a trail. But 
 
 Using [folium][folium-link] I managed to overlay the gps run traces on the top of a map, and you can interactively zoom in and out.
 
-<iframe src='/data/mapMarinHeadlands.html' height="600px" width="100%" style="border:none;"></iframe>
+<iframe src='/data/mapMarinHeadLands.html' height="600px" width="100%" style="border:none;"></iframe>
 
 [folium-link]:[https://python-visualization.github.io/folium/latest/]
 [environ-link]: https://envirosports.com/
