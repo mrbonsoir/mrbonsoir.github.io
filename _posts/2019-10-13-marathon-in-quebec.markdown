@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fifth marathon in Quebec city"
+title: "Fourth marathon in Quebec city"
 date: '2019-10-13 10:33:16 -0800'
 author: mrbonsoir
 categories: run running race marathon Quebec
@@ -12,7 +12,7 @@ categories: run running race marathon Quebec
 
 # Before the race
 
-**6:15am** alarm is rining, I left my bed like a snake and slowy stands up on my legs. I start to have a routine before those long races: to eat, to digest and hoping to have a succesfull pooping session at home. One smoothy, a banana, toast with smoked salmon and I'm almost ready to leave my airbnb.
+**6:15am** alarm is ringing, I left my bed like a snake and slowy stands up on my legs. I start to have a routine before those long races: to eat, to digest and hoping to have a succesfull pooping session at home. One smoothy, a banana, toast with smoked salmon and I'm almost ready to leave my airbnb.
 
 
 **8:00am** chit chat on a bench with another runner coming from Drummondville and it's time to go in my corridor departure. The weather is grey, fresh and the next 4km toward the bottom of a slope.
