@@ -8,7 +8,7 @@ categories: run running race half-marathon Toronto
 
 This concludes a crazy year of official run races.
 
-Car sharing to Toronto with Daniel driving with Aurelie and me as passengers. The road is long but when you talk all along it passed pretty quickly.
+Car sharing to Toronto with Daniel driving Aurelie and me as passengers. The road is long but when you talk all along it passed pretty quickly.
 
 We arrive Saturday early afternoon in Toronto from Montreal. Time to pick my bib and go on city exploration before a concert in the evening.
 
@@ -16,7 +16,7 @@ We arrive Saturday early afternoon in Toronto from Montreal. Time to pick my bib
 
 What to say? It went well. As last year the feeling to start a race 50% shorter than a marathon is a real pleasure, especially a month or less after a marathon race.
 
-I'm starting with Andrew who is feeling great as well but too fast for me. So after 2k he continues on his own pace. He will do a PR.
+I'm starting with Andrew who is feeling great as well but too fast for me. So after 2km he continues on his own pace. He will do a PR.
 
 I remember from last year the last km is longer than I thought, the gps between the buildings has trouble to give the right location... But I managed to stay consistent and got also my PR in **1h44min18sec**.
 

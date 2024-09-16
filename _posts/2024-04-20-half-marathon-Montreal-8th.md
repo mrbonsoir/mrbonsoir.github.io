@@ -14,11 +14,11 @@ The race path is almost the same as last year, going from Parc Jean Drapeaux to 
 
 The difference with last year is that I'm running alone, but I follow a run group in which I know the pacer.
 
-It went ok, I event got a mimosa at the cheer station. I thought I missed the drink but a Marty ran fast to follow we and gave me the holly mimosa. Most of that drink finished in my face.
+It went ok, I event got a mimosa at the cheer station. I thought I missed the drink but a Marty ran fast to follow we and gave me the holly mimosa. Most of that drink finished on my face.
 
 At mid race I felt a bit weak and could not follow my pace group. It's too bad because it was a good wind protection.
 
-Finally after some damage control I could limit my loss of time and finish in **1h46min53sec**. Not my best but that's ok.
+Finally after some damage control I could limit my loss of time and finish in **1h46min53sec**. Not my best time but that's ok.
 
 # After the race
 
