@@ -11,6 +11,12 @@ What is interesting about these two clubs is the community, always nicer to spen
 
 It's an ongoing work where the graphs I'm producing with become nicer I hope. And all Python code to generate those images and maps can be found on my github repository [dataviRun][datavizRun-link].
 
+Average distance ran per season:
+````
+About 38 social runs for season 1 and an average of 8.90km per run.
+About 16 social runs for season 2 and an average of 8.02km per run.
+````
+
 # Datavisualization by season
 
 NDGRC is in its second season which goes from January to January and below is a datavisulaization of the first season 2023-2024 to the actual number of runs since early January for season 2024-2025:
