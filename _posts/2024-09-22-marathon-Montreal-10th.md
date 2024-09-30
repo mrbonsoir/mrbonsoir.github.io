@@ -8,7 +8,7 @@ categories: run running race marathon Montreal
 
 
 # Before the race
-For this race I decided to go by bike, I did not want to be packed in the subway early in the morning like last year, and to wait too long to drop my bag.
+For this race I decided to go to the departure by bike, I did not want to be packed in the subway early in the morning like last year, and to wait too long to drop my bag.
 
 Bike ride went well, bag drop off like sending a mail, then plenty of time to queue for the last popping session.
 

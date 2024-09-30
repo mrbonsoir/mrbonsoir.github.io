@@ -13,8 +13,8 @@ It's an ongoing work where the graphs I'm producing with become nicer I hope. An
 
 Average distance ran per season:
 ````
-About 38 social runs for season 1 and an average of 8.90km per run.
-About 16 social runs for season 2 and an average of 8.02km per run.
+About 28 social runs for season 1 and an average of 7.84km per run.
+About 23 social runs for season 2 and an average of 7.52km per run.
 ````
 
 # Datavisualization by season
