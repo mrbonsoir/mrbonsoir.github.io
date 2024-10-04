@@ -22,7 +22,7 @@ From km 33 I alternate run and tiny walk, I discover new pains, this time it is 
 
 The closer you are to park Maisonneuve the longer it feels, and at the last turn in the opposite direction when we think we are arriving you can hear all runners screaming naaaannnnn.
 
-Boost time at km 39 where many run clubs have setup their cheering station. The amoung of noise they are making is wonderfull and giving me so much energy, love it.
+Boost time at km 39 where many run clubs have setup their cheering station. The amount of noise they are making is wonderfull and giving me so much energy, love it.
 
 Last 2km painfull but manage to give a last kick. 
 

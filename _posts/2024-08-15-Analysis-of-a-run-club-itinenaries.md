@@ -33,7 +33,7 @@ And you can check my [datavizRun][datavizRun-link] repository to look at the too
 
 Distances, how long are those runs? That's one of the first question I asked myself. From my Python notebook:
 ```
-list_starting_date =["2017-09-14","2018-09-14","2019-09-14","2020-09-14","2021-09-14","2022-09-14","2023-09-14","2024-09-14"]
+list_starting_date =["2017-09-14","2018-09-14","2019-09-14","2020-09-14","2021-09-14","2022-09-14","2023-09-14","2024-09-14","2025-09-14"]
 
 for c, aa in enumerate(np.arange(len(ttrgpx.list_starting_date)-1)):
     select_run_df = all_last_traces_info_df[(all_last_traces_info_df.index >= list_starting_date[c]) &
@@ -49,9 +49,10 @@ About 48 social runs for season 1 and an average of 9.27km per run.
 About 47 social runs for season 2 and an average of 9.19km per run.
 About 35 social runs for season 3 and an average of 9.02km per run.
 About 11 social runs for season 4 and an average of 9.20km per run.
-About 41 social runs for season 5 and an average of 8.82km per run.
-About 40 social runs for season 6 and an average of 10.42km per run.
-About 39 social runs for season 7 and an average of 11.38km per run.
+About 41 social runs for season 5 and an average of 8.78km per run.
+About 40 social runs for season 6 and an average of 10.41km per run.
+About 38 social runs for season 7 and an average of 11.24km per run.
+About 4 social runs for season 8 and an average of 9.84km per run.
 ```
 where each season goes from September to September.
 
@@ -61,7 +62,7 @@ And the same information in a graph:
 
 ## Getting visualizations
 
-I could look at each run alone, but I can also display all the runs and display in red the longest of the the run recorded so far.
+I could look at each run alone, but I can also display all the runs and display in red the longest of the the run recorded so far, in green is displayed the last added run to the database.
 ![](/data/allRunTogther.png)
 
 Interesting fact, this longest run was to celebrate the 6th anniversary of the run club and we did pass by all the former starting points since its birth. 
