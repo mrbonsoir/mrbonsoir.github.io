@@ -18,7 +18,7 @@ My research was about multi-spectral color reproduction or how to make perfect c
 
 After my thesis I have been working as an applied scientist in one of the Fraunhofer Institutes in Berlin called [FOKUS][link-viscom]. The topics were a mix of color correction, immersive display, medical imaging, computer vision, feature points tracking, machine learning-ish, human color perception, VR, image stitching, you name it.
 
-In the few startups in Berlin I worked on computer vision, AI, immersive content, image stitching and NLP projects. I can say my experiences in those environments weren't the best, but while moving back to Montreal (I did one year exchange for my master in 2000-2001) and joiing yet another startup the experience was more fruitfull: at IRYStec I worked on perceptual display, color vision deficiency, display technologies and more.
+In the few startups in Berlin I worked on computer vision, AI, immersive content, image stitching and NLP projects. I can say my experiences in those environments weren't the best, but while moving back to Montreal (I did one year exchange for my master in 2000-2001) and joining yet another startup the experience was more fruitfull: at IRYStec I worked on perceptual display, color vision deficiency, display technologies and more.
 
 ### **What else?**
 I like to believe that I'm not only an applied scientist and I try to maintain an art practise in parallel. Some of my visual art works can be seen on my [cargo website][link-cargocollective] or my [instagram][link-instagram].
