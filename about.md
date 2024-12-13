@@ -11,7 +11,10 @@ I was based in Norway for my research, 2003 to 2007, in 2008 I moved to Berlin w
 
 At IRYStec I experienced the almost down of another startup for finally being acquired a few hours before we ran out of money. We did enter the first COVID wave as part of [Faurecia which turned into FORVIA][link-forvia], increasing the size of the company from 20 to more than 100000 employes all over the world. There I started to work on display for mobiles to continue working on display for cars.
 
-I became permanent resident of Canada in 2022, same year I changed work to join [DNEG][link-dneg] which let me go in May 2024. There I worked on the color pipeline of the studio, in other words color management.
+I became permanent resident of Canada in 2022, same year I changed work to join [DNEG][link-dneg] which let me go in May 2024. There I worked on the color pipeline of the studio, in other words color management. While spending my 2024 summer sending applications here and there I got in touch with a team at [CAE][link-CAE], I also realised that I knew a few people already working for this company, and this was great input to decide joining that company. Since November 2024 I became visual display designer and currently worl on desiging displays for flight simulators.
+
+And in October 2024 I also became a Canadian Citizen.
+
 
 ###  **Background**
 My research was about multi-spectral color reproduction or how to make perfect copy of a painting. This being possible if you have in your hands a spectral image of your painting, a printer with several inks/colorants and their spectral properties. The rest is mathematic, geometry, optimization, printing technology, halftoning, color science, human color perception... The pdf of my thesis is available [here][link-thesis].
@@ -20,9 +23,12 @@ After my thesis I have been working as an applied scientist in one of the Fraunh
 
 In the few startups in Berlin I worked on computer vision, AI, immersive content, image stitching and NLP projects. I can say my experiences in those environments weren't the best, but while moving back to Montreal (I did one year exchange for my master in 2000-2001) and joining yet another startup the experience was more fruitfull: at IRYStec I worked on perceptual display, color vision deficiency, display technologies and more.
 
+The position I occupy at CAE is sharing aspects of what I was doing in Berlin at Fraunhofer, only here the team is much bigger and we do have several products.
+
 ### **What else?**
 I like to believe that I'm not only an applied scientist and I try to maintain an art practise in parallel. Some of my visual art works can be seen on my [cargo website][link-cargocollective] or my [instagram][link-instagram].
 
+[link-CAE]: https://www.cae.com/
 [link-instagram]: https://www.instagram.com/mrbonsoir/
 [link-colorlab]: https://www.ntnu.edu/colourlab
 [link-enst]: https://www.telecom-paris.fr/
