@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Analysis of another run club itinenaries"
+title:  "Analysis of another run club itineraries"
 date:   2024-09-16 15:15:00 -0500
 categories: blog post running datascience
 ---
@@ -13,8 +13,9 @@ It's an ongoing work where the graphs I'm producing with become nicer I hope. An
 
 Average distance ran per season:
 ````
-About 28 social runs for season 1 and an average of 7.84km per run.
-About 23 social runs for season 2 and an average of 7.52km per run.
+About 28 social runs for season 1 and an average of 8.14km per run.
+About 36 social runs for season 2 and an average of 7.96km per run.
+About 3 social runs for season 3 and an average of 7.18km per run.
 ````
 
 # Datavisualization by season

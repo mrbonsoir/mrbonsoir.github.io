@@ -30,7 +30,7 @@ Official time of 3h52, my second best and the possibility to do better next time
 Using [folium][folium-link] I managed to overlay the gps run traces on the top of a map, and you can interactively zoom in and out.
 <iframe src='/data/mapMontreal.html' height="600px" width="100%" style="border:none;"></iframe>
 
-[folium-link]:[https://python-visualization.github.io/folium/latest/]
+[folium-link]:https://python-visualization.github.io/folium/latest/
 [runk-link]:https://www.runkseries.com/
-[harricana-link]: https://ultratrailharricana.com/
+[harricana-link]:https://ultratrailharricana.com/
 [xact-link]:https://www.xactnutrition.com/

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Analysis of a run club itinenaries"
+title:  "Analysis of a run club itineraries"
 date:   2024-08-15 09:09:09 -0500
 categories: blog post running datascience
 ---
@@ -52,7 +52,7 @@ About 11 social runs for season 4 and an average of 9.20km per run.
 About 41 social runs for season 5 and an average of 8.78km per run.
 About 40 social runs for season 6 and an average of 10.41km per run.
 About 38 social runs for season 7 and an average of 11.24km per run.
-About 4 social runs for season 8 and an average of 9.84km per run.
+About 19 social runs for season 8 and an average of 11.74km per run.
 ```
 where each season goes from September to September.
 
