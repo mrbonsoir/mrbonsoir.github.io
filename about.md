@@ -11,9 +11,9 @@ I was based in Norway for my research, 2003 to 2007, in 2008 I moved to Berlin w
 
 At IRYStec I experienced the almost down of another startup for finally being acquired a few hours before we ran out of money. We did enter the first COVID wave as part of [Faurecia which turned into FORVIA][link-forvia], increasing the size of the company from 20 to more than 100000 employes all over the world. There I started to work on display for mobiles to continue working on display for cars.
 
-I became permanent resident of Canada in 2022, same year I changed work to join [DNEG][link-dneg] which let me go in May 2024. There I worked on the color pipeline of the studio, in other words color management. While spending my 2024 summer sending applications here and there I got in touch with a team at [CAE][link-CAE], I also realised that I knew a few people already working for this company, and this was great input to decide joining that company. Since November 2024 I became visual display designer and currently worl on desiging displays for flight simulators.
+I became permanent resident of Canada in 2022, same year I changed work to join [DNEG][link-dneg] which let me go the 1st of May 2024. There I worked on the color pipeline of the studio, in other words color management. While spending my 2024 summer sending applications here and there I got in touch with a team at [CAE][link-CAE], I also realised that I knew a few people already working for this company, and this was great input to decide joining that company. Since November 2024 I became visual display designer and currently work on desiging displays for flight simulators.
 
-And in October 2024 I also became a Canadian Citizen.
+In October 2024 I also became a Canadian Citizen and did enter the club of the two passports owners.
 
 
 ###  **Background**
@@ -21,9 +21,9 @@ My research was about multi-spectral color reproduction or how to make perfect c
 
 After my thesis I have been working as an applied scientist in one of the Fraunhofer Institutes in Berlin called [FOKUS][link-viscom]. The topics were a mix of color correction, immersive display, medical imaging, computer vision, feature points tracking, machine learning-ish, human color perception, VR, image stitching, you name it.
 
-In the few startups in Berlin I worked on computer vision, AI, immersive content, image stitching and NLP projects. I can say my experiences in those environments weren't the best, but while moving back to Montreal (I did one year exchange for my master in 2000-2001) and joining yet another startup the experience was more fruitfull: at IRYStec I worked on perceptual display, color vision deficiency, display technologies and more.
+In the few startups in Berlin I worked on computer vision, AI, immersive content, image stitching and NLP projects. I can say my experiences in those working environments weren't the best, but while moving back to Montreal (I did one year exchange for my master in 2000-2001) and joining yet another startup the experience was more fruitfull: at IRYStec I worked on perceptual display, color vision deficiency, display technologies and more.
 
-The position I occupy at CAE is sharing aspects of what I was doing in Berlin at Fraunhofer, only here the team is much bigger and we do have several products.
+The position I have at CAE is sharing aspects of what I was doing in Berlin at Fraunhofer, only here the team is much bigger and we do have several products.
 
 ### **What else?**
 I like to believe that I'm not only an applied scientist and I try to maintain an art practise in parallel. Some of my visual art works can be seen on my [cargo website][link-cargocollective] or my [instagram][link-instagram].
